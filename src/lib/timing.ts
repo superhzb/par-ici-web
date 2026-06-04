@@ -1,11 +1,15 @@
 import type { Sentence, Chunk, Word } from './types';
 
+export const RANGE_PRE_ROLL_SECONDS = 0.3;
+
 export function findActiveSentence(sentences: Sentence[], t: number): number {
   if (sentences.length === 0 || t <= sentences[0].start) return 0;
 
   for (let i = 0; i < sentences.length; i++) {
     if (t >= sentences[i].start && t <= sentences[i].end) return i;
-    if (i > 0 && t > sentences[i - 1].end && t < sentences[i].start) return i - 1;
+    if (i > 0 && t > sentences[i - 1].end && t < sentences[i].start) {
+      return sentences[i].start - t <= RANGE_PRE_ROLL_SECONDS ? i : i - 1;
+    }
   }
   return sentences.length - 1;
 }
