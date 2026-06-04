@@ -5,10 +5,12 @@ import { LessonCard } from '../components/LessonCard';
 import { usePlayerStore } from '../store/player';
 import { SUPPORTED_LANGUAGES } from '../lib/translations';
 import { loadManifest, loadAllPistes } from '../lib/data';
+import { exportProgressFile } from '../lib/exportProgress';
 
 export function Home() {
   const [manifest, setManifest] = useState<ManifestData | null>(null);
   const [pisteData, setPisteData] = useState<Record<string, Sentence[]>>({});
+  const [exportState, setExportState] = useState<'idle' | 'preparing' | 'done' | 'error'>('idle');
   const { translationLanguage, setTranslationLanguage } = usePlayerStore();
 
   useEffect(() => {
@@ -29,6 +31,18 @@ export function Home() {
 
     return () => { cancelled = true; };
   }, []);
+
+  const handleExport = async () => {
+    setExportState('preparing');
+    try {
+      await exportProgressFile();
+      setExportState('done');
+      window.setTimeout(() => setExportState('idle'), 1800);
+    } catch (err) {
+      console.error('Failed to export progress', err);
+      setExportState('error');
+    }
+  };
 
   if (!manifest) {
     return <div className="flex items-center justify-center h-screen text-gray-400">Loading...</div>;
@@ -58,6 +72,20 @@ export function Home() {
           >
             Practice
           </Link>
+          <button
+            type="button"
+            onClick={handleExport}
+            disabled={exportState === 'preparing'}
+            className="px-3 py-1.5 rounded-lg bg-gray-800 hover:bg-gray-700 disabled:cursor-wait disabled:opacity-70 text-sm font-medium border border-gray-700"
+          >
+            {exportState === 'preparing'
+              ? 'Preparing...'
+              : exportState === 'done'
+                ? 'Exported'
+                : exportState === 'error'
+                  ? 'Export failed'
+                  : 'Export'}
+          </button>
         </div>
       </div>
       {manifest.episodes.map(ep => (
