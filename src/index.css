@@ -2,5 +2,11 @@
 
 * { box-sizing: border-box; }
 html { font-size: 18px; }
-html, body, #root { height: 100%; margin: 0; }
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
 body { background: #030712; color: white; font-family: system-ui, sans-serif; }

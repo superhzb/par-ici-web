@@ -177,11 +177,11 @@ export function SentenceRow({
   return (
     <div
       ref={rowRef}
-      className={`rounded-lg border p-3 pb-9 mb-2 transition-colors relative cursor-pointer ${statusBg}`}
+      className={`max-w-full overflow-hidden rounded-lg border p-3 pb-9 mb-2 transition-colors relative cursor-pointer ${statusBg}`}
       onClick={() => onSentenceClick(sentence.start, sentence.end)}
     >
-      <div className="pr-20">
-        <div className="flex flex-wrap gap-2 items-start">
+      <div className="min-w-0 pr-20">
+        <div className="flex max-w-full flex-wrap gap-2 items-start">
           {sentence.chunks.map((chunk, ci) => {
             const localWordStates = chunkWordIndices[ci].map(wi => wordStates[wi]);
             return (

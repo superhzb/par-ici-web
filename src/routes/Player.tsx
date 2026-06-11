@@ -91,24 +91,24 @@ export function Player() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-950 text-white flex flex-col">
-      <div className="sticky top-0 z-10 bg-gray-900">
-        <div className="border-b border-gray-800 px-4 py-2 flex items-center gap-3">
+    <div className="min-h-screen max-w-full overflow-x-hidden bg-gray-950 text-white flex flex-col">
+      <div className="sticky top-0 z-10 max-w-full bg-gray-900">
+        <div className="min-w-0 border-b border-gray-800 px-3 sm:px-4 py-2 flex items-center gap-2 sm:gap-3">
           <Link
             to="/"
-            className="px-3 py-1.5 rounded bg-gray-700 hover:bg-gray-600 text-sm font-medium border border-gray-600 transition-colors"
+            className="shrink-0 px-3 py-1.5 rounded bg-gray-700 hover:bg-gray-600 text-sm font-medium border border-gray-600 transition-colors"
           >
             ← Home
           </Link>
-          <span className="text-gray-500">|</span>
+          <span className="shrink-0 text-gray-500">|</span>
           <span className="min-w-0 flex-1 truncate text-sm font-medium">{episodeTitle} — {pisteInfo.title}</span>
-          <span className="rounded border border-gray-700 bg-gray-800 px-2 py-1 text-xs font-semibold text-gray-200">
+          <span className="shrink-0 rounded border border-gray-700 bg-gray-800 px-2 py-1 text-xs font-semibold text-gray-200">
             {progressPercent}%
           </span>
         </div>
         <AudioBar engine={engine} />
       </div>
-      <div className="flex-1 overflow-y-auto p-3">
+      <div className="flex-1 overflow-x-hidden overflow-y-auto p-3">
         {sentences.map((s, i) => (
           <SentenceRow
             key={s.id}

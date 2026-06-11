@@ -29,12 +29,12 @@ export function ChunkBox({
 
   return (
     <div
-      className={`inline-flex flex-col items-start border rounded-lg p-1.5 gap-1 cursor-pointer
+      className={`inline-flex max-w-full min-w-0 flex-col items-start border rounded-lg p-1.5 gap-1 cursor-pointer
         transition-colors ${isActiveChunk ? 'border-blue-500/60 bg-blue-950/30' : 'border-gray-700 bg-gray-800/40'}
         hover:border-gray-500`}
       onClick={(e) => { e.stopPropagation(); onChunkClick(chunk); }}
     >
-      <div className="flex flex-wrap gap-1">
+      <div className="flex max-w-full min-w-0 flex-wrap gap-1">
         {wordIndices.map((wi, localIdx) => (
           <WordSlot
             key={wi}
@@ -53,7 +53,7 @@ export function ChunkBox({
         ))}
       </div>
       {showsChunkTranslation(translationMode) && chunkTranslation && (
-        <span className="text-xs text-yellow-400/80 leading-tight">{chunkTranslation}</span>
+        <span className="max-w-full break-words text-xs text-yellow-400/80 leading-tight">{chunkTranslation}</span>
       )}
     </div>
   );

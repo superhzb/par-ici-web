@@ -38,8 +38,8 @@ export function AudioBar({ engine }: Props) {
   };
 
   return (
-    <div className="bg-gray-900 border-b border-gray-700 px-4 py-3 flex flex-col gap-2">
-      <div className="flex items-center gap-3">
+    <div className="max-w-full bg-gray-900 border-b border-gray-700 px-3 sm:px-4 py-3 flex flex-col gap-2">
+      <div className="min-w-0 flex items-center gap-2 sm:gap-3">
         <button
           onClick={toggle}
           className="w-10 h-10 rounded-full bg-blue-600 hover:bg-blue-500 flex items-center justify-center text-white font-bold text-lg flex-shrink-0"
@@ -54,7 +54,7 @@ export function AudioBar({ engine }: Props) {
           step={0.1}
           value={currentTime}
           onChange={seek}
-          className="flex-1 accent-blue-500"
+          className="min-w-0 flex-1 accent-blue-500"
         />
         <span className="text-gray-400 text-sm w-10 flex-shrink-0 text-right">{fmt(duration)}</span>
         <TranslationModeButton />
