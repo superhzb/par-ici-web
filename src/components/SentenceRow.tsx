@@ -74,6 +74,9 @@ export function SentenceRow({
 
   const wordToChunk = sentence.words.map(w => findChunkForWord(sentence.chunks, w.start) ?? sentence.chunks[0]);
 
+  const getStoredVisibleWordStates = () =>
+    sentence.words.map((w, idx) => isRed(w.text, ep, piste, sentence.id, idx) ? 'red' : 'revealed');
+
   const chunkWordIndices: number[][] = sentence.chunks.map((_, ci) =>
     sentence.words.reduce<number[]>((acc, _w, wi) => {
       if (wordToChunk[wi] === sentence.chunks[ci]) acc.push(wi);
@@ -104,12 +107,11 @@ export function SentenceRow({
   };
 
   const handleReveal = () => {
-    setWordStates(sentence.words.map((w, idx) =>
-      practiceMode && !practiceInteracted
-        ? 'revealed'
-        : isRed(w.text, ep, piste, sentence.id, idx) ? 'red' : 'revealed'
-    ));
-    if (practiceMode && !practiceInteracted) return;
+    setWordStates(getStoredVisibleWordStates());
+    if (practiceMode && !practiceInteracted) {
+      setPracticeInteracted(true);
+      onPracticeInteracted?.();
+    }
     setRevealed(key, true);
     if (!practiceMode) setStatus(key, 'fail');
   };
