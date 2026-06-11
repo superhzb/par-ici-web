@@ -3,7 +3,7 @@ import type { Sentence, Chunk, LanguageCode, TranslationMode, WordState } from '
 import { ChunkBox } from './ChunkBox';
 import { useProgressStore, sentenceKey } from '../store/progress';
 import { useRedWordsStore } from '../store/redWords';
-import { findActiveWord, findActiveChunk, findChunkForWord, normalizeWord } from '../lib/timing';
+import { findActiveWord, findActiveChunk, findChunkForWord } from '../lib/timing';
 import { usePlayerStore } from '../store/player';
 import { getTranslation, revealsFrench, showsSentenceTranslation } from '../lib/translations';
 
@@ -44,9 +44,9 @@ export function SentenceRow({
   const [practiceInteracted, setPracticeInteracted] = useState(false);
 
   const [wordStates, setWordStates] = useState<WordState[]>(() =>
-    sentence.words.map((w) => {
+    sentence.words.map((w, idx) => {
       if (practiceMode) return 'hidden';
-      if (isRed(w.text, ep, piste, sentence.id)) return 'red';
+      if (isRed(w.text, ep, piste, sentence.id, idx)) return 'red';
       if (progress.revealed) return 'revealed';
       return 'hidden';
     })
@@ -83,34 +83,19 @@ export function SentenceRow({
 
   const handleWordStateChange = (wordIdx: number, newState: WordState) => {
     const changedWord = sentence.words[wordIdx];
-    const changedNorm = normalizeWord(changedWord.text);
     const wasRed = wordStates[wordIdx] === 'red';
     setWordStates(prev => {
       const next = [...prev];
-      if (newState === 'red') {
-        sentence.words.forEach((word, idx) => {
-          if (normalizeWord(word.text) === changedNorm) next[idx] = 'red';
-        });
-      } else if (wasRed) {
-        sentence.words.forEach((word, idx) => {
-          if (normalizeWord(word.text) === changedNorm) next[idx] = newState;
-        });
-      } else {
-        next[wordIdx] = newState;
-      }
+      next[wordIdx] = newState;
       return next;
     });
     if (newState === 'red') {
-      sentence.words.forEach((word, idx) => {
-        if (normalizeWord(word.text) === changedNorm) {
-          addRed(word.text, ep, piste, sentence.id, idx);
-        }
-      });
+      addRed(changedWord.text, ep, piste, sentence.id, wordIdx);
       if (practiceMode) setPracticeInteracted(true);
       if (practiceMode) onPracticeInteracted?.();
       setStatus(key, 'fail');
     } else if (wasRed) {
-      removeRed(changedWord.text, ep, piste, sentence.id);
+      removeRed(changedWord.text, ep, piste, sentence.id, wordIdx);
       if (practiceMode) {
         setPracticeInteracted(true);
         onPracticeInteracted?.();
@@ -119,10 +104,10 @@ export function SentenceRow({
   };
 
   const handleReveal = () => {
-    setWordStates(sentence.words.map((w) =>
+    setWordStates(sentence.words.map((w, idx) =>
       practiceMode && !practiceInteracted
         ? 'revealed'
-        : isRed(w.text, ep, piste, sentence.id) ? 'red' : 'revealed'
+        : isRed(w.text, ep, piste, sentence.id, idx) ? 'red' : 'revealed'
     ));
     if (practiceMode && !practiceInteracted) return;
     setRevealed(key, true);
@@ -130,10 +115,10 @@ export function SentenceRow({
   };
 
   const handleUnreveal = () => {
-    setWordStates(sentence.words.map((w) =>
+    setWordStates(sentence.words.map((w, idx) =>
       practiceMode && !practiceInteracted
         ? 'hidden'
-        : isRed(w.text, ep, piste, sentence.id) ? 'red' : 'hidden'
+        : isRed(w.text, ep, piste, sentence.id, idx) ? 'red' : 'hidden'
     ));
     if (practiceMode && !practiceInteracted) return;
     setRevealed(key, false);
@@ -163,7 +148,7 @@ export function SentenceRow({
     if (progress.status === 'fail') {
       setStatus(key, 'none');
     } else {
-      setWordStates(sentence.words.map((w) => isRed(w.text, ep, piste, sentence.id) ? 'red' : 'revealed'));
+      setWordStates(sentence.words.map((w, idx) => isRed(w.text, ep, piste, sentence.id, idx) ? 'red' : 'revealed'));
       setRevealed(key, true);
       setStatus(key, 'fail');
     }

@@ -22,9 +22,9 @@ export function redSentenceKeys(data: RedWordsData): Set<SentenceKey> {
 
 type RedWordsStore = {
   data: RedWordsData;
-  isRed: (wordText: string, ep: number, piste: number, sentenceId: number) => boolean;
+  isRed: (wordText: string, ep: number, piste: number, sentenceId: number, wordIdx: number) => boolean;
   addRed: (wordText: string, ep: number, piste: number, sentenceId: number, wordIdx: number) => void;
-  removeRed: (wordText: string, ep: number, piste: number, sentenceId: number) => void;
+  removeRed: (wordText: string, ep: number, piste: number, sentenceId: number, wordIdx: number) => void;
   clearSentenceReds: (ep: number, piste: number, sentenceId: number) => void;
   getRedKeysForSentence: (ep: number, piste: number, sentenceId: number) => string[];
 };
@@ -38,9 +38,11 @@ export const useRedWordsStore = create<RedWordsStore>((set, get) => {
   return {
     data: loadJSON<RedWordsData>(STORAGE_KEY, {}),
 
-    isRed: (wordText, ep, piste, sentenceId) => {
+    isRed: (wordText, ep, piste, sentenceId, wordIdx) => {
       const norm = normalizeWord(wordText);
-      return get().data[norm]?.refs.some(r => refMatchesSentence(r, ep, piste, sentenceId)) ?? false;
+      return get().data[norm]?.refs.some(
+        r => refMatchesSentence(r, ep, piste, sentenceId) && r.wordIdx === wordIdx
+      ) ?? false;
     },
 
     addRed: (wordText, ep, piste, sentenceId, wordIdx) => {
@@ -57,13 +59,15 @@ export const useRedWordsStore = create<RedWordsStore>((set, get) => {
       });
     },
 
-    removeRed: (wordText, ep, piste, sentenceId) => {
+    removeRed: (wordText, ep, piste, sentenceId, wordIdx) => {
       const norm = normalizeWord(wordText);
       const cur = get().data;
       const entry = cur[norm];
       if (!entry) return;
 
-      const remaining = entry.refs.filter(r => !refMatchesSentence(r, ep, piste, sentenceId));
+      const remaining = entry.refs.filter(
+        r => !(refMatchesSentence(r, ep, piste, sentenceId) && r.wordIdx === wordIdx)
+      );
       const next = { ...cur };
       if (remaining.length > 0) next[norm] = { ...entry, refs: remaining };
       else delete next[norm];
