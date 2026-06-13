@@ -819,6 +819,47 @@
           "data": "/data/tv5_tu_te_souviens_8.final.json"
         }
       ]
+    },
+    {
+      "id": 22,
+      "title": "tv5_immigrants_de_souche",
+      "pistes": [
+        {
+          "episode": 22,
+          "piste": 1,
+          "title": "Jean-François Kacou, le conquérant",
+          "audio": "/audio/tv5_immigrants_de_souche.mp3",
+          "data": "/data/tv5_immigrants_de_souche.final.json"
+        },
+        {
+          "episode": 22,
+          "piste": 2,
+          "title": "Edem, le maraîcher",
+          "audio": "/audio/tv5_immigrants_de_souche_2.mp3",
+          "data": "/data/tv5_immigrants_de_souche_2.final.json"
+        },
+        {
+          "episode": 22,
+          "piste": 3,
+          "title": "Spomemka, magasin général",
+          "audio": "/audio/tv5_immigrants_de_souche_3.mp3",
+          "data": "/data/tv5_immigrants_de_souche_3.final.json"
+        },
+        {
+          "episode": 22,
+          "piste": 4,
+          "title": "Lisan, l'artiste",
+          "audio": "/audio/tv5_immigrants_de_souche_4.mp3",
+          "data": "/data/tv5_immigrants_de_souche_4.final.json"
+        },
+        {
+          "episode": 22,
+          "piste": 5,
+          "title": "Viviana, la dirigeante",
+          "audio": "/audio/tv5_immigrants_de_souche_5.mp3",
+          "data": "/data/tv5_immigrants_de_souche_5.final.json"
+        }
+      ]
     }
   ]
 }

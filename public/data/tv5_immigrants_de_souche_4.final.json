@@ -1,0 +1,8233 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Le lendemain matin, on se rejoint à Métis-sur-Mer pour aller chercher des mosaïques qu'elle a préparées dans une école pour une installation qu'elle s'apprête à réaliser.",
+      "translations": {
+        "zh": "第二天早上，我们在梅蒂絮梅尔会合，去取她在学校准备的马赛克作品，用于她即将实施的一件装置艺术。",
+        "en": "The next morning, we meet up in Métis-sur-Mer to go pick up mosaics that she prepared at a school for an installation she is about to create.",
+        "es": "A la mañana siguiente, nos encontramos en Métis-sur-Mer para ir a buscar unos mosaicos que ella preparó en una escuela para una instalación que está a punto de realizar."
+      },
+      "start": 1.2,
+      "end": 12.32,
+      "words": [
+        {
+          "text": "Le",
+          "start": 1.2,
+          "end": 3.04
+        },
+        {
+          "text": "lendemain",
+          "start": 4.96,
+          "end": 5.28
+        },
+        {
+          "text": "matin",
+          "start": 5.28,
+          "end": 5.68
+        },
+        {
+          "text": "on",
+          "start": 5.68,
+          "end": 5.76
+        },
+        {
+          "text": "se",
+          "start": 5.76,
+          "end": 5.92
+        },
+        {
+          "text": "rejoint",
+          "start": 5.92,
+          "end": 6.4
+        },
+        {
+          "text": "à",
+          "start": 6.4,
+          "end": 6.4
+        },
+        {
+          "text": "Métis",
+          "start": 6.4,
+          "end": 6.72
+        },
+        {
+          "text": "sur",
+          "start": 6.72,
+          "end": 6.96
+        },
+        {
+          "text": "Mer",
+          "start": 6.96,
+          "end": 7.12
+        },
+        {
+          "text": "pour",
+          "start": 7.28,
+          "end": 7.36
+        },
+        {
+          "text": "aller",
+          "start": 7.36,
+          "end": 7.44
+        },
+        {
+          "text": "chercher",
+          "start": 7.44,
+          "end": 7.84
+        },
+        {
+          "text": "des",
+          "start": 7.84,
+          "end": 8.0
+        },
+        {
+          "text": "mosaïques",
+          "start": 8.0,
+          "end": 8.4
+        },
+        {
+          "text": "qu'elle",
+          "start": 8.48,
+          "end": 8.56
+        },
+        {
+          "text": "a",
+          "start": 8.56,
+          "end": 8.64
+        },
+        {
+          "text": "préparées",
+          "start": 8.64,
+          "end": 9.12
+        },
+        {
+          "text": "dans",
+          "start": 9.12,
+          "end": 9.2
+        },
+        {
+          "text": "une",
+          "start": 9.2,
+          "end": 9.36
+        },
+        {
+          "text": "école",
+          "start": 9.36,
+          "end": 9.68
+        },
+        {
+          "text": "pour",
+          "start": 10.0,
+          "end": 10.24
+        },
+        {
+          "text": "une",
+          "start": 10.4,
+          "end": 10.56
+        },
+        {
+          "text": "installation",
+          "start": 10.56,
+          "end": 11.12
+        },
+        {
+          "text": "qu'elle",
+          "start": 11.12,
+          "end": 11.28
+        },
+        {
+          "text": "s'apprête",
+          "start": 11.28,
+          "end": 11.68
+        },
+        {
+          "text": "à",
+          "start": 11.76,
+          "end": 11.84
+        },
+        {
+          "text": "réaliser",
+          "start": 11.84,
+          "end": 12.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le lendemain matin,",
+          "translations": {
+            "zh": "第二天早上，",
+            "en": "The next morning,",
+            "es": "A la mañana siguiente,"
+          },
+          "start": 1.2,
+          "end": 5.68
+        },
+        {
+          "text": "on se rejoint à Métis-sur-Mer",
+          "translations": {
+            "zh": "我们在梅蒂絮梅尔会合",
+            "en": "we meet up in Métis-sur-Mer",
+            "es": "nos encontramos en Métis-sur-Mer"
+          },
+          "start": 5.68,
+          "end": 7.12
+        },
+        {
+          "text": "pour aller chercher des mosaïques",
+          "translations": {
+            "zh": "去取马赛克作品",
+            "en": "to go pick up mosaics",
+            "es": "para ir a buscar unos mosaicos"
+          },
+          "start": 7.28,
+          "end": 8.4
+        },
+        {
+          "text": "qu'elle a préparées dans une école",
+          "translations": {
+            "zh": "她在学校准备的",
+            "en": "that she prepared at a school",
+            "es": "que ella preparó en una escuela"
+          },
+          "start": 8.48,
+          "end": 9.68
+        },
+        {
+          "text": "pour une installation",
+          "translations": {
+            "zh": "用于一件装置艺术",
+            "en": "for an installation",
+            "es": "para una instalación"
+          },
+          "start": 10.0,
+          "end": 11.12
+        },
+        {
+          "text": "qu'elle s'apprête à réaliser.",
+          "translations": {
+            "zh": "她即将实施的。",
+            "en": "she is about to create.",
+            "es": "que está a punto de realizar."
+          },
+          "start": 11.12,
+          "end": 12.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "C'est l'école de Metis Beach, Metis Beach School.",
+      "translations": {
+        "zh": "这是梅蒂比奇的学校，梅蒂比奇学校。",
+        "en": "It's the school of Metis Beach, Metis Beach School.",
+        "es": "Es la escuela de Metis Beach, Metis Beach School."
+      },
+      "start": 12.96,
+      "end": 15.6,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 12.96,
+          "end": 13.2
+        },
+        {
+          "text": "l'école",
+          "start": 13.2,
+          "end": 13.6
+        },
+        {
+          "text": "de",
+          "start": 13.6,
+          "end": 13.68
+        },
+        {
+          "text": "Metis",
+          "start": 13.68,
+          "end": 14.0
+        },
+        {
+          "text": "Beach",
+          "start": 14.08,
+          "end": 14.48
+        },
+        {
+          "text": "Metis",
+          "start": 14.56,
+          "end": 14.88
+        },
+        {
+          "text": "Beach",
+          "start": 14.88,
+          "end": 15.12
+        },
+        {
+          "text": "School",
+          "start": 15.12,
+          "end": 15.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est l'école de Metis Beach,",
+          "translations": {
+            "zh": "这是梅蒂比奇的学校，",
+            "en": "It's the school of Metis Beach,",
+            "es": "Es la escuela de Metis Beach,"
+          },
+          "start": 12.96,
+          "end": 14.48
+        },
+        {
+          "text": "Metis Beach School.",
+          "translations": {
+            "zh": "梅蒂比奇学校。",
+            "en": "Metis Beach School.",
+            "es": "Metis Beach School."
+          },
+          "start": 14.56,
+          "end": 15.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Et c'est la seule école anglophone de la région Bas-Saint-Laurent.",
+      "translations": {
+        "zh": "这是下圣劳伦斯地区唯一的英语学校。",
+        "en": "And it's the only English-language school in the Bas-Saint-Laurent region.",
+        "es": "Y es la única escuela anglófona de la región de Bas-Saint-Laurent."
+      },
+      "start": 15.92,
+      "end": 19.28,
+      "words": [
+        {
+          "text": "Et",
+          "start": 15.92,
+          "end": 16.16
+        },
+        {
+          "text": "c'est",
+          "start": 16.4,
+          "end": 16.48
+        },
+        {
+          "text": "la",
+          "start": 16.48,
+          "end": 16.64
+        },
+        {
+          "text": "seule",
+          "start": 16.64,
+          "end": 16.96
+        },
+        {
+          "text": "école",
+          "start": 16.96,
+          "end": 17.52
+        },
+        {
+          "text": "anglophone",
+          "start": 17.6,
+          "end": 18.08
+        },
+        {
+          "text": "de",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "la",
+          "start": 18.16,
+          "end": 18.24
+        },
+        {
+          "text": "région",
+          "start": 18.24,
+          "end": 18.64
+        },
+        {
+          "text": "Bas",
+          "start": 18.64,
+          "end": 18.8
+        },
+        {
+          "text": "Saint",
+          "start": 18.8,
+          "end": 18.96
+        },
+        {
+          "text": "Laurent",
+          "start": 18.96,
+          "end": 19.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et c'est la seule école anglophone",
+          "translations": {
+            "zh": "这是唯一的英语学校",
+            "en": "And it's the only English-language school",
+            "es": "Y es la única escuela anglófona"
+          },
+          "start": 15.92,
+          "end": 18.08
+        },
+        {
+          "text": "de la région Bas-Saint-Laurent.",
+          "translations": {
+            "zh": "下圣劳伦斯地区的。",
+            "en": "in the Bas-Saint-Laurent region.",
+            "es": "de la región de Bas-Saint-Laurent."
+          },
+          "start": 18.08,
+          "end": 19.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Et là, je vois, dès qu'on arrive, il y a de tes mosaïques qui trônent ici.",
+      "translations": {
+        "zh": "然后，我看见，我们一到，就有你的马赛克作品陈列在这里。",
+        "en": "And there, I see, as soon as we arrive, there are some of your mosaics on display here.",
+        "es": "Y ahí, veo, apenas llegamos, hay unos mosaicos tuyos que se lucen aquí."
+      },
+      "start": 19.6,
+      "end": 22.48,
+      "words": [
+        {
+          "text": "Et",
+          "start": 19.6,
+          "end": 19.76
+        },
+        {
+          "text": "là",
+          "start": 19.76,
+          "end": 19.92
+        },
+        {
+          "text": "je",
+          "start": 19.92,
+          "end": 20.0
+        },
+        {
+          "text": "vois",
+          "start": 20.0,
+          "end": 20.24
+        },
+        {
+          "text": "dès",
+          "start": 20.24,
+          "end": 20.4
+        },
+        {
+          "text": "qu'on",
+          "start": 20.4,
+          "end": 20.64
+        },
+        {
+          "text": "arrive",
+          "start": 20.64,
+          "end": 20.96
+        },
+        {
+          "text": "il",
+          "start": 20.96,
+          "end": 21.04
+        },
+        {
+          "text": "y",
+          "start": 21.04,
+          "end": 21.04
+        },
+        {
+          "text": "a",
+          "start": 21.04,
+          "end": 21.12
+        },
+        {
+          "text": "de",
+          "start": 21.12,
+          "end": 21.12
+        },
+        {
+          "text": "tes",
+          "start": 21.12,
+          "end": 21.28
+        },
+        {
+          "text": "mosaïques",
+          "start": 21.28,
+          "end": 21.76
+        },
+        {
+          "text": "qui",
+          "start": 21.76,
+          "end": 21.92
+        },
+        {
+          "text": "trônent",
+          "start": 21.92,
+          "end": 22.24
+        },
+        {
+          "text": "ici",
+          "start": 22.24,
+          "end": 22.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et là, je vois,",
+          "translations": {
+            "zh": "然后，我看见，",
+            "en": "And there, I see,",
+            "es": "Y ahí, veo,"
+          },
+          "start": 19.6,
+          "end": 20.24
+        },
+        {
+          "text": "dès qu'on arrive,",
+          "translations": {
+            "zh": "我们一到，",
+            "en": "as soon as we arrive,",
+            "es": "apenas llegamos,"
+          },
+          "start": 20.24,
+          "end": 20.96
+        },
+        {
+          "text": "il y a de tes mosaïques",
+          "translations": {
+            "zh": "就有你的马赛克作品",
+            "en": "there are some of your mosaics",
+            "es": "hay unos mosaicos tuyos"
+          },
+          "start": 20.96,
+          "end": 21.76
+        },
+        {
+          "text": "qui trônent ici.",
+          "translations": {
+            "zh": "陈列在这里。",
+            "en": "on display here.",
+            "es": "que se lucen aquí."
+          },
+          "start": 21.76,
+          "end": 22.48
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Oui, c'est ça.",
+      "translations": {
+        "zh": "对，是这样。",
+        "en": "Yes, that's right.",
+        "es": "Sí, es eso."
+      },
+      "start": 22.88,
+      "end": 23.44,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "c'est",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "ça",
+          "start": 23.28,
+          "end": 23.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "对，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 22.88,
+          "end": 23.04
+        },
+        {
+          "text": "c'est ça.",
+          "translations": {
+            "zh": "是这样。",
+            "en": "that's right.",
+            "es": "es eso."
+          },
+          "start": 23.04,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Donc, j'ai commencé en 2015 à donner des ateliers à l'école.",
+      "translations": {
+        "zh": "所以，我从2015年开始在这所学校办工作坊。",
+        "en": "So, I started in 2015 to give workshops at the school.",
+        "es": "Entonces, comencé en 2015 a dar talleres en la escuela."
+      },
+      "start": 23.44,
+      "end": 26.88,
+      "words": [
+        {
+          "text": "Donc",
+          "start": 23.44,
+          "end": 23.68
+        },
+        {
+          "text": "j'ai",
+          "start": 23.68,
+          "end": 23.84
+        },
+        {
+          "text": "commencé",
+          "start": 23.84,
+          "end": 24.32
+        },
+        {
+          "text": "en",
+          "start": 24.32,
+          "end": 24.96
+        },
+        {
+          "text": "2015",
+          "start": 24.96,
+          "end": 25.28
+        },
+        {
+          "text": "à",
+          "start": 25.28,
+          "end": 25.28
+        },
+        {
+          "text": "donner",
+          "start": 25.28,
+          "end": 25.52
+        },
+        {
+          "text": "des",
+          "start": 25.52,
+          "end": 25.76
+        },
+        {
+          "text": "ateliers",
+          "start": 25.76,
+          "end": 26.24
+        },
+        {
+          "text": "à",
+          "start": 26.24,
+          "end": 26.32
+        },
+        {
+          "text": "l'école",
+          "start": 26.32,
+          "end": 26.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Donc,",
+          "translations": {
+            "zh": "所以，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 23.44,
+          "end": 23.68
+        },
+        {
+          "text": "j'ai commencé en 2015",
+          "translations": {
+            "zh": "我从2015年开始",
+            "en": "I started in 2015",
+            "es": "comencé en 2015"
+          },
+          "start": 23.68,
+          "end": 25.28
+        },
+        {
+          "text": "à donner des ateliers à l'école.",
+          "translations": {
+            "zh": "在这所学校办工作坊。",
+            "en": "to give workshops at the school.",
+            "es": "a dar talleres en la escuela."
+          },
+          "start": 25.28,
+          "end": 26.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Puis, c'est les élèves qui ont fait ces œuvres.",
+      "translations": {
+        "zh": "然后，这些作品是学生们做的。",
+        "en": "And it's the students who made these works.",
+        "es": "Luego, son los alumnos quienes hicieron estas obras."
+      },
+      "start": 26.96,
+      "end": 29.28,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 26.96,
+          "end": 27.28
+        },
+        {
+          "text": "c'est",
+          "start": 27.52,
+          "end": 27.68
+        },
+        {
+          "text": "les",
+          "start": 27.68,
+          "end": 27.76
+        },
+        {
+          "text": "élèves",
+          "start": 27.84,
+          "end": 28.24
+        },
+        {
+          "text": "qui",
+          "start": 28.24,
+          "end": 28.24
+        },
+        {
+          "text": "ont",
+          "start": 28.32,
+          "end": 28.32
+        },
+        {
+          "text": "fait",
+          "start": 28.48,
+          "end": 28.56
+        },
+        {
+          "text": "ces",
+          "start": 28.56,
+          "end": 28.72
+        },
+        {
+          "text": "œuvres",
+          "start": 29.12,
+          "end": 29.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis,",
+          "translations": {
+            "zh": "然后，",
+            "en": "And,",
+            "es": "Luego,"
+          },
+          "start": 26.96,
+          "end": 27.28
+        },
+        {
+          "text": "c'est les élèves",
+          "translations": {
+            "zh": "是学生们",
+            "en": "it's the students",
+            "es": "son los alumnos"
+          },
+          "start": 27.52,
+          "end": 28.24
+        },
+        {
+          "text": "qui ont fait ces œuvres.",
+          "translations": {
+            "zh": "做了这些作品。",
+            "en": "who made these works.",
+            "es": "quienes hicieron estas obras."
+          },
+          "start": 28.24,
+          "end": 29.28
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Est-ce qu'ils aiment ça, les élèves, faire de la mosaïque?",
+      "translations": {
+        "zh": "学生们喜欢做马赛克吗？",
+        "en": "Do they like it, the students, doing mosaic?",
+        "es": "¿Les gusta a los alumnos, los alumnos, hacer mosaicos?"
+      },
+      "start": 29.44,
+      "end": 31.44,
+      "words": [
+        {
+          "text": "Est",
+          "start": 29.44,
+          "end": 29.52
+        },
+        {
+          "text": "ce",
+          "start": 29.52,
+          "end": 29.6
+        },
+        {
+          "text": "qu'ils",
+          "start": 29.6,
+          "end": 29.92
+        },
+        {
+          "text": "aiment",
+          "start": 30.0,
+          "end": 30.16
+        },
+        {
+          "text": "ça",
+          "start": 30.16,
+          "end": 30.32
+        },
+        {
+          "text": "les",
+          "start": 30.32,
+          "end": 30.4
+        },
+        {
+          "text": "élèves",
+          "start": 30.4,
+          "end": 30.56
+        },
+        {
+          "text": "faire",
+          "start": 30.72,
+          "end": 30.96
+        },
+        {
+          "text": "de",
+          "start": 30.96,
+          "end": 30.96
+        },
+        {
+          "text": "la",
+          "start": 30.96,
+          "end": 31.04
+        },
+        {
+          "text": "mosaïque",
+          "start": 31.04,
+          "end": 31.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est-ce qu'ils aiment ça,",
+          "translations": {
+            "zh": "他们喜欢吗，",
+            "en": "Do they like it,",
+            "es": "¿Les gusta,"
+          },
+          "start": 29.44,
+          "end": 30.32
+        },
+        {
+          "text": "les élèves,",
+          "translations": {
+            "zh": "学生们，",
+            "en": "the students,",
+            "es": "los alumnos,"
+          },
+          "start": 30.32,
+          "end": 30.56
+        },
+        {
+          "text": "faire de la mosaïque?",
+          "translations": {
+            "zh": "做马赛克？",
+            "en": "doing mosaic?",
+            "es": "hacer mosaicos?"
+          },
+          "start": 30.72,
+          "end": 31.44
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Oui, ils m'ont dit que, tu sais, pendant la pandémie, il y avait beaucoup de restrictions, c'est le seul moment où ils peuvent se trouver, relaxer, avec de la création.",
+      "translations": {
+        "zh": "是的，他们跟我说，你知道，在疫情期间，有很多限制，这是他们唯一能聚在一起、放松、进行创作的时刻。",
+        "en": "Yes, they told me that, you know, during the pandemic, there were a lot of restrictions, it's the only moment where they can find themselves, relax, with creation.",
+        "es": "Sí, me dijeron que, ya sabes, durante la pandemia, había muchas restricciones, es el único momento en el que pueden encontrarse, relajarse, con la creación."
+      },
+      "start": 31.44,
+      "end": 40.96,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 31.44,
+          "end": 31.76
+        },
+        {
+          "text": "ils",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "m'ont",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "dit",
+          "start": 32.0,
+          "end": 32.24
+        },
+        {
+          "text": "que",
+          "start": 32.24,
+          "end": 32.64
+        },
+        {
+          "text": "tu",
+          "start": 32.64,
+          "end": 32.72
+        },
+        {
+          "text": "sais",
+          "start": 32.72,
+          "end": 32.8
+        },
+        {
+          "text": "pendant",
+          "start": 32.8,
+          "end": 33.44
+        },
+        {
+          "text": "la",
+          "start": 33.44,
+          "end": 33.52
+        },
+        {
+          "text": "pandémie",
+          "start": 33.68,
+          "end": 34.24
+        },
+        {
+          "text": "il",
+          "start": 34.24,
+          "end": 34.24
+        },
+        {
+          "text": "y",
+          "start": 34.24,
+          "end": 34.24
+        },
+        {
+          "text": "avait",
+          "start": 34.24,
+          "end": 34.48
+        },
+        {
+          "text": "beaucoup",
+          "start": 34.48,
+          "end": 34.72
+        },
+        {
+          "text": "de",
+          "start": 34.72,
+          "end": 34.8
+        },
+        {
+          "text": "restrictions",
+          "start": 34.8,
+          "end": 35.76
+        },
+        {
+          "text": "c'est",
+          "start": 35.76,
+          "end": 35.92
+        },
+        {
+          "text": "le",
+          "start": 35.92,
+          "end": 36.08
+        },
+        {
+          "text": "seul",
+          "start": 36.08,
+          "end": 36.4
+        },
+        {
+          "text": "moment",
+          "start": 36.4,
+          "end": 36.88
+        },
+        {
+          "text": "où",
+          "start": 36.88,
+          "end": 37.12
+        },
+        {
+          "text": "ils",
+          "start": 37.12,
+          "end": 37.2
+        },
+        {
+          "text": "peuvent",
+          "start": 37.2,
+          "end": 37.6
+        },
+        {
+          "text": "se",
+          "start": 37.6,
+          "end": 37.76
+        },
+        {
+          "text": "trouver",
+          "start": 37.76,
+          "end": 38.4
+        },
+        {
+          "text": "relaxer",
+          "start": 38.56,
+          "end": 39.28
+        },
+        {
+          "text": "avec",
+          "start": 39.28,
+          "end": 39.6
+        },
+        {
+          "text": "de",
+          "start": 40.0,
+          "end": 40.0
+        },
+        {
+          "text": "la",
+          "start": 40.0,
+          "end": 40.16
+        },
+        {
+          "text": "création",
+          "start": 40.16,
+          "end": 40.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "是的，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 31.44,
+          "end": 31.76
+        },
+        {
+          "text": "ils m'ont dit que,",
+          "translations": {
+            "zh": "他们跟我说，",
+            "en": "they told me that,",
+            "es": "me dijeron que,"
+          },
+          "start": 31.76,
+          "end": 32.64
+        },
+        {
+          "text": "tu sais,",
+          "translations": {
+            "zh": "你知道，",
+            "en": "you know,",
+            "es": "ya sabes,"
+          },
+          "start": 32.64,
+          "end": 32.8
+        },
+        {
+          "text": "pendant la pandémie,",
+          "translations": {
+            "zh": "在疫情期间，",
+            "en": "during the pandemic,",
+            "es": "durante la pandemia,"
+          },
+          "start": 32.8,
+          "end": 34.24
+        },
+        {
+          "text": "il y avait beaucoup de restrictions,",
+          "translations": {
+            "zh": "有很多限制，",
+            "en": "there were a lot of restrictions,",
+            "es": "había muchas restricciones,"
+          },
+          "start": 34.24,
+          "end": 35.76
+        },
+        {
+          "text": "c'est le seul moment",
+          "translations": {
+            "zh": "这是唯一的时刻",
+            "en": "it's the only moment",
+            "es": "es el único momento"
+          },
+          "start": 35.76,
+          "end": 36.88
+        },
+        {
+          "text": "où ils peuvent se trouver,",
+          "translations": {
+            "zh": "他们能聚在一起，",
+            "en": "where they can find themselves,",
+            "es": "en el que pueden encontrarse,"
+          },
+          "start": 36.88,
+          "end": 38.4
+        },
+        {
+          "text": "relaxer,",
+          "translations": {
+            "zh": "放松，",
+            "en": "relax,",
+            "es": "relajarse,"
+          },
+          "start": 38.56,
+          "end": 39.28
+        },
+        {
+          "text": "avec de la création.",
+          "translations": {
+            "zh": "进行创作。",
+            "en": "with creation.",
+            "es": "con la creación."
+          },
+          "start": 39.28,
+          "end": 40.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 44.48,
+      "end": 44.48,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 44.48,
+          "end": 44.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 44.48,
+          "end": 44.48
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Ça me rappelle les rentrées scolaires, je suis en train de stresser de fou.",
+      "translations": {
+        "zh": "这让我想起开学的时候，我正在疯狂地紧张。",
+        "en": "It reminds me of back-to-school, I'm stressing out like crazy.",
+        "es": "Eso me recuerda las vueltas al cole, estoy estresándome muchísimo."
+      },
+      "start": 44.88,
+      "end": 47.04,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 44.88,
+          "end": 45.04
+        },
+        {
+          "text": "me",
+          "start": 45.04,
+          "end": 45.12
+        },
+        {
+          "text": "rappelle",
+          "start": 45.12,
+          "end": 45.36
+        },
+        {
+          "text": "les",
+          "start": 45.36,
+          "end": 45.44
+        },
+        {
+          "text": "rentrées",
+          "start": 45.44,
+          "end": 45.68
+        },
+        {
+          "text": "scolaires",
+          "start": 45.68,
+          "end": 46.08
+        },
+        {
+          "text": "je",
+          "start": 46.08,
+          "end": 46.16
+        },
+        {
+          "text": "suis",
+          "start": 46.16,
+          "end": 46.24
+        },
+        {
+          "text": "en",
+          "start": 46.24,
+          "end": 46.24
+        },
+        {
+          "text": "train",
+          "start": 46.24,
+          "end": 46.4
+        },
+        {
+          "text": "de",
+          "start": 46.4,
+          "end": 46.4
+        },
+        {
+          "text": "stresser",
+          "start": 46.4,
+          "end": 46.8
+        },
+        {
+          "text": "de",
+          "start": 46.8,
+          "end": 46.88
+        },
+        {
+          "text": "fou",
+          "start": 46.88,
+          "end": 47.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça me rappelle les rentrées scolaires,",
+          "translations": {
+            "zh": "这让我想起开学的时候，",
+            "en": "It reminds me of back-to-school,",
+            "es": "Eso me recuerda las vueltas al cole,"
+          },
+          "start": 44.88,
+          "end": 46.08
+        },
+        {
+          "text": "je suis en train de stresser de fou.",
+          "translations": {
+            "zh": "我正在疯狂地紧张。",
+            "en": "I'm stressing out like crazy.",
+            "es": "estoy estresándome muchísimo."
+          },
+          "start": 46.08,
+          "end": 47.04
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Je veux te montrer la mosaïque qu'on avait faite.",
+      "translations": {
+        "zh": "我想给你看我们做的马赛克作品。",
+        "en": "I want to show you the mosaic we had made.",
+        "es": "Quiero mostrarte el mosaico que habíamos hecho."
+      },
+      "start": 49.2,
+      "end": 55.2,
+      "words": [
+        {
+          "text": "Je",
+          "start": 49.2,
+          "end": 52.64
+        },
+        {
+          "text": "veux",
+          "start": 52.64,
+          "end": 52.64
+        },
+        {
+          "text": "te",
+          "start": 52.64,
+          "end": 52.8
+        },
+        {
+          "text": "montrer",
+          "start": 52.8,
+          "end": 53.28
+        },
+        {
+          "text": "la",
+          "start": 53.28,
+          "end": 53.44
+        },
+        {
+          "text": "mosaïque",
+          "start": 53.44,
+          "end": 54.0
+        },
+        {
+          "text": "qu'on",
+          "start": 54.0,
+          "end": 54.16
+        },
+        {
+          "text": "avait",
+          "start": 54.64,
+          "end": 54.88
+        },
+        {
+          "text": "faite",
+          "start": 54.88,
+          "end": 55.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je veux te montrer",
+          "translations": {
+            "zh": "我想给你看",
+            "en": "I want to show you",
+            "es": "Quiero mostrarte"
+          },
+          "start": 49.2,
+          "end": 53.28
+        },
+        {
+          "text": "la mosaïque",
+          "translations": {
+            "zh": "马赛克作品",
+            "en": "the mosaic",
+            "es": "el mosaico"
+          },
+          "start": 53.28,
+          "end": 54.0
+        },
+        {
+          "text": "qu'on avait faite.",
+          "translations": {
+            "zh": "我们做的。",
+            "en": "we had made.",
+            "es": "que habíamos hecho."
+          },
+          "start": 54.0,
+          "end": 55.2
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "C'est une mosaïque qui est faite entre 2016 et 2018.",
+      "translations": {
+        "zh": "这是一件在2016年到2018年间完成的马赛克作品。",
+        "en": "It's a mosaic that was made between 2016 and 2018.",
+        "es": "Es un mosaico que está hecho entre 2016 y 2018."
+      },
+      "start": 55.44,
+      "end": 59.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 55.44,
+          "end": 55.52
+        },
+        {
+          "text": "une",
+          "start": 55.6,
+          "end": 55.92
+        },
+        {
+          "text": "mosaïque",
+          "start": 55.92,
+          "end": 56.24
+        },
+        {
+          "text": "qui",
+          "start": 56.24,
+          "end": 56.32
+        },
+        {
+          "text": "est",
+          "start": 56.32,
+          "end": 56.4
+        },
+        {
+          "text": "faite",
+          "start": 56.4,
+          "end": 56.72
+        },
+        {
+          "text": "entre",
+          "start": 56.72,
+          "end": 57.28
+        },
+        {
+          "text": "2016",
+          "start": 57.28,
+          "end": 57.92
+        },
+        {
+          "text": "et",
+          "start": 57.92,
+          "end": 58.0
+        },
+        {
+          "text": "2018",
+          "start": 58.0,
+          "end": 59.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est une mosaïque",
+          "translations": {
+            "zh": "这是一件马赛克作品",
+            "en": "It's a mosaic",
+            "es": "Es un mosaico"
+          },
+          "start": 55.44,
+          "end": 56.24
+        },
+        {
+          "text": "qui est faite entre 2016 et 2018.",
+          "translations": {
+            "zh": "在2016年到2018年间完成的。",
+            "en": "that was made between 2016 and 2018.",
+            "es": "que está hecho entre 2016 y 2018."
+          },
+          "start": 56.24,
+          "end": 59.12
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Et c'est fait avec 100 participants de l'école, mais aussi la communauté autour.",
+      "translations": {
+        "zh": "这是由学校的100名参与者完成的，但也有周围的社区成员。",
+        "en": "And it was made with 100 participants from the school, but also the surrounding community.",
+        "es": "Y está hecho con 100 participantes de la escuela, pero también la comunidad de alrededor."
+      },
+      "start": 59.12,
+      "end": 65.28,
+      "words": [
+        {
+          "text": "Et",
+          "start": 59.12,
+          "end": 59.28
+        },
+        {
+          "text": "c'est",
+          "start": 59.44,
+          "end": 59.66
+        },
+        {
+          "text": "fait",
+          "start": 59.88,
+          "end": 60.1
+        },
+        {
+          "text": "avec",
+          "start": 60.32,
+          "end": 60.64
+        },
+        {
+          "text": "100",
+          "start": 60.64,
+          "end": 61.84
+        },
+        {
+          "text": "participants",
+          "start": 61.84,
+          "end": 62.0
+        },
+        {
+          "text": "de",
+          "start": 62.16,
+          "end": 62.4
+        },
+        {
+          "text": "l'école",
+          "start": 62.4,
+          "end": 63.04
+        },
+        {
+          "text": "mais",
+          "start": 63.04,
+          "end": 63.2
+        },
+        {
+          "text": "aussi",
+          "start": 63.2,
+          "end": 63.44
+        },
+        {
+          "text": "la",
+          "start": 63.44,
+          "end": 63.52
+        },
+        {
+          "text": "communauté",
+          "start": 63.52,
+          "end": 64.4
+        },
+        {
+          "text": "autour",
+          "start": 64.8,
+          "end": 65.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et c'est fait avec 100 participants de l'école,",
+          "translations": {
+            "zh": "这是由学校的100名参与者完成的，",
+            "en": "And it was made with 100 participants from the school,",
+            "es": "Y está hecho con 100 participantes de la escuela,"
+          },
+          "start": 59.12,
+          "end": 63.04
+        },
+        {
+          "text": "mais aussi la communauté autour.",
+          "translations": {
+            "zh": "但也有周围的社区成员。",
+            "en": "but also the surrounding community.",
+            "es": "pero también la comunidad de alrededor."
+          },
+          "start": 63.04,
+          "end": 65.28
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Donc, chaque participant a amené sa petite couleur, sa petite touche.",
+      "translations": {
+        "zh": "所以，每个参与者都带来了自己的小小色彩，自己的小小点缀。",
+        "en": "So, each participant brought their little color, their little touch.",
+        "es": "Entonces, cada participante aportó su pequeño color, su pequeño toque."
+      },
+      "start": 65.6,
+      "end": 69.12,
+      "words": [
+        {
+          "text": "Donc",
+          "start": 65.6,
+          "end": 65.76
+        },
+        {
+          "text": "chaque",
+          "start": 65.76,
+          "end": 65.92
+        },
+        {
+          "text": "participant",
+          "start": 66.16,
+          "end": 66.96
+        },
+        {
+          "text": "a",
+          "start": 67.2,
+          "end": 67.36
+        },
+        {
+          "text": "amené",
+          "start": 67.36,
+          "end": 67.6
+        },
+        {
+          "text": "sa",
+          "start": 67.6,
+          "end": 67.84
+        },
+        {
+          "text": "petite",
+          "start": 67.84,
+          "end": 68.08
+        },
+        {
+          "text": "couleur",
+          "start": 68.16,
+          "end": 68.48
+        },
+        {
+          "text": "sa",
+          "start": 68.48,
+          "end": 68.64
+        },
+        {
+          "text": "petite",
+          "start": 68.64,
+          "end": 68.8
+        },
+        {
+          "text": "touche",
+          "start": 68.8,
+          "end": 69.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Donc,",
+          "translations": {
+            "zh": "所以，",
+            "en": "So,",
+            "es": "Entonces,"
+          },
+          "start": 65.6,
+          "end": 65.76
+        },
+        {
+          "text": "chaque participant a amené",
+          "translations": {
+            "zh": "每个参与者都带来了",
+            "en": "each participant brought",
+            "es": "cada participante aportó"
+          },
+          "start": 65.76,
+          "end": 67.6
+        },
+        {
+          "text": "sa petite couleur,",
+          "translations": {
+            "zh": "自己的小小色彩，",
+            "en": "their little color,",
+            "es": "su pequeño color,"
+          },
+          "start": 67.6,
+          "end": 68.48
+        },
+        {
+          "text": "sa petite touche.",
+          "translations": {
+            "zh": "自己的小小点缀。",
+            "en": "their little touch.",
+            "es": "su pequeño toque."
+          },
+          "start": 68.48,
+          "end": 69.12
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Chaque mandala représente un participant.",
+      "translations": {
+        "zh": "每个曼陀罗代表一位参与者。",
+        "en": "Each mandala represents a participant.",
+        "es": "Cada mandala representa a un participante."
+      },
+      "start": 69.28,
+      "end": 71.52,
+      "words": [
+        {
+          "text": "Chaque",
+          "start": 69.28,
+          "end": 69.52
+        },
+        {
+          "text": "mandala",
+          "start": 69.52,
+          "end": 70.0
+        },
+        {
+          "text": "représente",
+          "start": 70.0,
+          "end": 70.0
+        },
+        {
+          "text": "un",
+          "start": 70.56,
+          "end": 70.72
+        },
+        {
+          "text": "participant",
+          "start": 70.72,
+          "end": 71.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chaque mandala",
+          "translations": {
+            "zh": "每个曼陀罗",
+            "en": "Each mandala",
+            "es": "Cada mandala"
+          },
+          "start": 69.28,
+          "end": 70.0
+        },
+        {
+          "text": "représente un participant.",
+          "translations": {
+            "zh": "代表一位参与者。",
+            "en": "represents a participant.",
+            "es": "representa a un participante."
+          },
+          "start": 70.0,
+          "end": 71.52
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Par exemple, celui-là, ses valeurs, il aime l'ordre, la compréhension et l'apprentissage.",
+      "translations": {
+        "zh": "比如，那个，他的价值观，他喜欢秩序、理解和学习。",
+        "en": "For example, that one, his values, he likes order, understanding, and learning.",
+        "es": "Por ejemplo, ese, sus valores, le gusta el orden, la comprensión y el aprendizaje."
+      },
+      "start": 71.52,
+      "end": 78.0,
+      "words": [
+        {
+          "text": "Par",
+          "start": 71.52,
+          "end": 71.52
+        },
+        {
+          "text": "exemple",
+          "start": 71.68,
+          "end": 72.08
+        },
+        {
+          "text": "celui",
+          "start": 72.08,
+          "end": 72.24
+        },
+        {
+          "text": "là",
+          "start": 72.24,
+          "end": 72.96
+        },
+        {
+          "text": "ses",
+          "start": 73.28,
+          "end": 73.44
+        },
+        {
+          "text": "valeurs",
+          "start": 73.44,
+          "end": 73.84
+        },
+        {
+          "text": "il",
+          "start": 73.92,
+          "end": 74.08
+        },
+        {
+          "text": "aime",
+          "start": 74.08,
+          "end": 74.8
+        },
+        {
+          "text": "l'ordre",
+          "start": 74.8,
+          "end": 75.28
+        },
+        {
+          "text": "la",
+          "start": 75.52,
+          "end": 75.6
+        },
+        {
+          "text": "compréhension",
+          "start": 75.6,
+          "end": 76.64
+        },
+        {
+          "text": "et",
+          "start": 76.64,
+          "end": 76.8
+        },
+        {
+          "text": "l'apprentissage",
+          "start": 76.8,
+          "end": 78.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Par exemple,",
+          "translations": {
+            "zh": "比如，",
+            "en": "For example,",
+            "es": "Por ejemplo,"
+          },
+          "start": 71.52,
+          "end": 72.08
+        },
+        {
+          "text": "celui-là,",
+          "translations": {
+            "zh": "那个，",
+            "en": "that one,",
+            "es": "ese,"
+          },
+          "start": 72.08,
+          "end": 72.96
+        },
+        {
+          "text": "ses valeurs,",
+          "translations": {
+            "zh": "他的价值观，",
+            "en": "his values,",
+            "es": "sus valores,"
+          },
+          "start": 73.28,
+          "end": 73.84
+        },
+        {
+          "text": "il aime l'ordre,",
+          "translations": {
+            "zh": "他喜欢秩序，",
+            "en": "he likes order,",
+            "es": "le gusta el orden,"
+          },
+          "start": 73.92,
+          "end": 75.28
+        },
+        {
+          "text": "la compréhension",
+          "translations": {
+            "zh": "理解",
+            "en": "understanding",
+            "es": "la comprensión"
+          },
+          "start": 75.52,
+          "end": 76.64
+        },
+        {
+          "text": "et l'apprentissage.",
+          "translations": {
+            "zh": "和学习。",
+            "en": "and learning.",
+            "es": "y el aprendizaje."
+          },
+          "start": 76.64,
+          "end": 78.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Oui.",
+      "translations": {
+        "zh": "是的。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 78.24,
+      "end": 78.24,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 78.24,
+          "end": 78.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "是的。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 78.24,
+          "end": 78.24
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Puis là, il y a le fameux phare.",
+      "translations": {
+        "zh": "然后这里有那座著名的灯塔。",
+        "en": "And now, there's the famous lighthouse.",
+        "es": "Y ahí, está el famoso faro."
+      },
+      "start": 78.24,
+      "end": 79.36,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 78.24,
+          "end": 78.32
+        },
+        {
+          "text": "là",
+          "start": 78.32,
+          "end": 78.32
+        },
+        {
+          "text": "il",
+          "start": 78.32,
+          "end": 78.4
+        },
+        {
+          "text": "y",
+          "start": 78.4,
+          "end": 78.4
+        },
+        {
+          "text": "a",
+          "start": 78.4,
+          "end": 78.48
+        },
+        {
+          "text": "le",
+          "start": 78.48,
+          "end": 78.56
+        },
+        {
+          "text": "fameux",
+          "start": 78.56,
+          "end": 78.88
+        },
+        {
+          "text": "phare",
+          "start": 78.88,
+          "end": 79.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis là,",
+          "translations": {
+            "zh": "然后这里，",
+            "en": "And now,",
+            "es": "Y ahí,"
+          },
+          "start": 78.24,
+          "end": 78.32
+        },
+        {
+          "text": "il y a le fameux phare.",
+          "translations": {
+            "zh": "有那座著名的灯塔。",
+            "en": "there's the famous lighthouse.",
+            "es": "está el famoso faro."
+          },
+          "start": 78.32,
+          "end": 79.36
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Oui, ça, c'est le phare de Métis, qui est comme l'icône de notre communauté ici, à Métis-surMer.",
+      "translations": {
+        "zh": "是的，那个，是梅蒂的灯塔，它就像我们这里社区的地标，在梅蒂絮梅尔。",
+        "en": "Yes, that, that's the Métis lighthouse, which is like the icon of our community here, in Métis-sur-Mer.",
+        "es": "Sí, eso, es el faro de Métis, que es como el icono de nuestra comunidad aquí, en Métis-surMer."
+      },
+      "start": 79.84,
+      "end": 85.04,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 79.84,
+          "end": 79.92
+        },
+        {
+          "text": "ça",
+          "start": 79.92,
+          "end": 80.08
+        },
+        {
+          "text": "c'est",
+          "start": 80.08,
+          "end": 80.24
+        },
+        {
+          "text": "le",
+          "start": 80.24,
+          "end": 80.32
+        },
+        {
+          "text": "phare",
+          "start": 80.32,
+          "end": 80.56
+        },
+        {
+          "text": "de",
+          "start": 80.56,
+          "end": 80.56
+        },
+        {
+          "text": "Métis",
+          "start": 80.64,
+          "end": 81.12
+        },
+        {
+          "text": "qui",
+          "start": 81.2,
+          "end": 81.2
+        },
+        {
+          "text": "est",
+          "start": 81.2,
+          "end": 81.36
+        },
+        {
+          "text": "comme",
+          "start": 81.36,
+          "end": 81.6
+        },
+        {
+          "text": "l'icône",
+          "start": 81.6,
+          "end": 82.16
+        },
+        {
+          "text": "de",
+          "start": 82.4,
+          "end": 82.56
+        },
+        {
+          "text": "notre",
+          "start": 82.56,
+          "end": 82.8
+        },
+        {
+          "text": "communauté",
+          "start": 82.8,
+          "end": 84.0
+        },
+        {
+          "text": "ici",
+          "start": 84.0,
+          "end": 84.48
+        },
+        {
+          "text": "à",
+          "start": 84.48,
+          "end": 84.48
+        },
+        {
+          "text": "Métis",
+          "start": 84.56,
+          "end": 84.8
+        },
+        {
+          "text": "surMer",
+          "start": 85.04,
+          "end": 85.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui, ça,",
+          "translations": {
+            "zh": "是的，那个，",
+            "en": "Yes, that,",
+            "es": "Sí, eso,"
+          },
+          "start": 79.84,
+          "end": 80.08
+        },
+        {
+          "text": "c'est le phare de Métis,",
+          "translations": {
+            "zh": "是梅蒂的灯塔，",
+            "en": "that's the Métis lighthouse,",
+            "es": "es el faro de Métis,"
+          },
+          "start": 80.08,
+          "end": 81.12
+        },
+        {
+          "text": "qui est comme l'icône",
+          "translations": {
+            "zh": "它就像地标一样",
+            "en": "which is like the icon",
+            "es": "que es como el icono"
+          },
+          "start": 81.2,
+          "end": 82.16
+        },
+        {
+          "text": "de notre communauté ici,",
+          "translations": {
+            "zh": "我们这里社区的，",
+            "en": "of our community here,",
+            "es": "de nuestra comunidad aquí,"
+          },
+          "start": 82.4,
+          "end": 84.48
+        },
+        {
+          "text": "à Métis-surMer.",
+          "translations": {
+            "zh": "在梅蒂絮梅尔。",
+            "en": "in Métis-sur-Mer.",
+            "es": "en Métis-surMer."
+          },
+          "start": 84.48,
+          "end": 85.04
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Et ce qui est incroyable, c'est que le phare est là...",
+      "translations": {
+        "zh": "而不可思议的是，灯塔就在那里……",
+        "en": "And what's incredible, is that the lighthouse is there...",
+        "es": "Y lo que es increíble, es que el faro está ahí..."
+      },
+      "start": 85.6,
+      "end": 86.48,
+      "words": [
+        {
+          "text": "Et",
+          "start": 85.6,
+          "end": 85.6
+        },
+        {
+          "text": "ce",
+          "start": 85.6,
+          "end": 85.76
+        },
+        {
+          "text": "qui",
+          "start": 85.84,
+          "end": 85.92
+        },
+        {
+          "text": "est",
+          "start": 85.92,
+          "end": 85.92
+        },
+        {
+          "text": "incroyable",
+          "start": 85.928,
+          "end": 85.937
+        },
+        {
+          "text": "c'est",
+          "start": 85.946,
+          "end": 85.955
+        },
+        {
+          "text": "que",
+          "start": 85.964,
+          "end": 85.973
+        },
+        {
+          "text": "le",
+          "start": 85.982,
+          "end": 85.991
+        },
+        {
+          "text": "phare",
+          "start": 86.0,
+          "end": 86.0
+        },
+        {
+          "text": "est",
+          "start": 86.24,
+          "end": 86.32
+        },
+        {
+          "text": "là",
+          "start": 86.4,
+          "end": 86.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et ce qui est incroyable,",
+          "translations": {
+            "zh": "而不可思议的是，",
+            "en": "And what's incredible,",
+            "es": "Y lo que es increíble,"
+          },
+          "start": 85.6,
+          "end": 85.937
+        },
+        {
+          "text": "c'est que le phare est là...",
+          "translations": {
+            "zh": "灯塔就在那里……",
+            "en": "is that the lighthouse is there...",
+            "es": "es que el faro está ahí..."
+          },
+          "start": 85.946,
+          "end": 86.48
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Le phare est là.",
+      "translations": {
+        "zh": "灯塔在那里。",
+        "en": "The lighthouse is there.",
+        "es": "El faro está ahí."
+      },
+      "start": 86.56,
+      "end": 87.12,
+      "words": [
+        {
+          "text": "Le",
+          "start": 86.56,
+          "end": 86.64
+        },
+        {
+          "text": "phare",
+          "start": 86.72,
+          "end": 86.8
+        },
+        {
+          "text": "est",
+          "start": 86.88,
+          "end": 86.96
+        },
+        {
+          "text": "là",
+          "start": 87.04,
+          "end": 87.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Le phare est là.",
+          "translations": {
+            "zh": "灯塔在那里。",
+            "en": "The lighthouse is there.",
+            "es": "El faro está ahí."
+          },
+          "start": 86.56,
+          "end": 87.12
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "puis on tourne la tête et le vrai phare",
+      "translations": {
+        "zh": "然后我们转过头，真正的灯塔",
+        "en": "and we turn our heads and the real lighthouse",
+        "es": "luego giramos la cabeza y el verdadero faro"
+      },
+      "start": 87.2,
+      "end": 88.8,
+      "words": [
+        {
+          "text": "puis",
+          "start": 87.2,
+          "end": 87.28
+        },
+        {
+          "text": "on",
+          "start": 87.36,
+          "end": 87.44
+        },
+        {
+          "text": "tourne",
+          "start": 87.52,
+          "end": 87.6
+        },
+        {
+          "text": "la",
+          "start": 87.68,
+          "end": 87.76
+        },
+        {
+          "text": "tête",
+          "start": 87.84,
+          "end": 88.08
+        },
+        {
+          "text": "et",
+          "start": 88.08,
+          "end": 88.12
+        },
+        {
+          "text": "le",
+          "start": 88.16,
+          "end": 88.2
+        },
+        {
+          "text": "vrai",
+          "start": 88.24,
+          "end": 88.48
+        },
+        {
+          "text": "phare",
+          "start": 88.48,
+          "end": 88.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "puis on tourne la tête",
+          "translations": {
+            "zh": "然后我们转过头",
+            "en": "and we turn our heads",
+            "es": "luego giramos la cabeza"
+          },
+          "start": 87.2,
+          "end": 88.08
+        },
+        {
+          "text": "et le vrai phare",
+          "translations": {
+            "zh": "真正的灯塔",
+            "en": "and the real lighthouse",
+            "es": "y el verdadero faro"
+          },
+          "start": 88.08,
+          "end": 88.8
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Oui le vrai phare est là",
+      "translations": {
+        "zh": "是的，真正的灯塔就在那里",
+        "en": "Yes the real lighthouse is there",
+        "es": "Sí el verdadero faro está ahí"
+      },
+      "start": 89.12,
+      "end": 90.4,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 89.12,
+          "end": 89.36
+        },
+        {
+          "text": "le",
+          "start": 89.44,
+          "end": 89.52
+        },
+        {
+          "text": "vrai",
+          "start": 89.52,
+          "end": 89.76
+        },
+        {
+          "text": "phare",
+          "start": 89.76,
+          "end": 90.08
+        },
+        {
+          "text": "est",
+          "start": 90.08,
+          "end": 90.08
+        },
+        {
+          "text": "là",
+          "start": 90.08,
+          "end": 90.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui le vrai phare est là",
+          "translations": {
+            "zh": "是的，真正的灯塔就在那里",
+            "en": "Yes the real lighthouse is there",
+            "es": "Sí el verdadero faro está ahí"
+          },
+          "start": 89.12,
+          "end": 90.4
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "C'est en conversation en fait",
+      "translations": {
+        "zh": "实际上是在对话中",
+        "en": "It's in conversation actually",
+        "es": "Es en conversación en realidad"
+      },
+      "start": 90.4,
+      "end": 91.92,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 90.4,
+          "end": 90.48
+        },
+        {
+          "text": "en",
+          "start": 90.48,
+          "end": 90.64
+        },
+        {
+          "text": "conversation",
+          "start": 90.72,
+          "end": 91.52
+        },
+        {
+          "text": "en",
+          "start": 91.52,
+          "end": 91.68
+        },
+        {
+          "text": "fait",
+          "start": 91.68,
+          "end": 91.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est en conversation",
+          "translations": {
+            "zh": "是在对话中",
+            "en": "It's in conversation",
+            "es": "Es en conversación"
+          },
+          "start": 90.4,
+          "end": 91.52
+        },
+        {
+          "text": "en fait",
+          "translations": {
+            "zh": "实际上",
+            "en": "actually",
+            "es": "en realidad"
+          },
+          "start": 91.52,
+          "end": 91.92
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Lisan elle donne des ateliers dans cette école là dans différentes classes et elle me propose de rencontrer Lynn qui est une professeure d'arts plastiques qui l'invite souvent dans ses classes pour réaliser ces ateliers avec ses élèves",
+      "translations": {
+        "zh": "Lisan在这所学校的不同班级办工作坊，她建议我去见Lynn，Lynn是一位视觉艺术老师，经常邀请Lisan到她的班级和学生们一起做这些工作坊",
+        "en": "Lisan, she gives workshops in that school there in different classes and she suggests I meet Lynn who is a visual arts teacher who often invites her into her classes to do these workshops with her students",
+        "es": "Lisan da talleres en esa escuela allí en diferentes clases y me propone conocer a Lynn que es una profesora de artes plásticas que la invita a menudo a sus clases para realizar estos talleres con sus alumnos"
+      },
+      "start": 92.72,
+      "end": 102.32,
+      "words": [
+        {
+          "text": "Lisan",
+          "start": 92.72,
+          "end": 92.96
+        },
+        {
+          "text": "elle",
+          "start": 92.96,
+          "end": 93.12
+        },
+        {
+          "text": "donne",
+          "start": 93.12,
+          "end": 93.36
+        },
+        {
+          "text": "des",
+          "start": 93.36,
+          "end": 93.6
+        },
+        {
+          "text": "ateliers",
+          "start": 93.6,
+          "end": 94.0
+        },
+        {
+          "text": "dans",
+          "start": 94.0,
+          "end": 94.08
+        },
+        {
+          "text": "cette",
+          "start": 94.08,
+          "end": 94.56
+        },
+        {
+          "text": "école",
+          "start": 94.56,
+          "end": 95.12
+        },
+        {
+          "text": "là",
+          "start": 95.12,
+          "end": 95.28
+        },
+        {
+          "text": "dans",
+          "start": 95.28,
+          "end": 95.44
+        },
+        {
+          "text": "différentes",
+          "start": 95.44,
+          "end": 95.76
+        },
+        {
+          "text": "classes",
+          "start": 95.76,
+          "end": 96.0
+        },
+        {
+          "text": "et",
+          "start": 96.08,
+          "end": 96.08
+        },
+        {
+          "text": "elle",
+          "start": 96.08,
+          "end": 96.16
+        },
+        {
+          "text": "me",
+          "start": 96.16,
+          "end": 96.16
+        },
+        {
+          "text": "propose",
+          "start": 96.16,
+          "end": 96.56
+        },
+        {
+          "text": "de",
+          "start": 96.56,
+          "end": 96.64
+        },
+        {
+          "text": "rencontrer",
+          "start": 96.64,
+          "end": 97.04
+        },
+        {
+          "text": "Lynn",
+          "start": 97.04,
+          "end": 97.36
+        },
+        {
+          "text": "qui",
+          "start": 97.36,
+          "end": 97.44
+        },
+        {
+          "text": "est",
+          "start": 97.44,
+          "end": 97.44
+        },
+        {
+          "text": "une",
+          "start": 97.44,
+          "end": 97.52
+        },
+        {
+          "text": "professeure",
+          "start": 97.52,
+          "end": 97.92
+        },
+        {
+          "text": "d'arts",
+          "start": 97.92,
+          "end": 98.08
+        },
+        {
+          "text": "plastiques",
+          "start": 98.08,
+          "end": 98.56
+        },
+        {
+          "text": "qui",
+          "start": 98.64,
+          "end": 98.96
+        },
+        {
+          "text": "l'invite",
+          "start": 98.96,
+          "end": 99.28
+        },
+        {
+          "text": "souvent",
+          "start": 99.28,
+          "end": 99.76
+        },
+        {
+          "text": "dans",
+          "start": 100.0,
+          "end": 100.16
+        },
+        {
+          "text": "ses",
+          "start": 100.16,
+          "end": 100.32
+        },
+        {
+          "text": "classes",
+          "start": 100.32,
+          "end": 100.64
+        },
+        {
+          "text": "pour",
+          "start": 100.64,
+          "end": 100.8
+        },
+        {
+          "text": "réaliser",
+          "start": 100.8,
+          "end": 101.2
+        },
+        {
+          "text": "ces",
+          "start": 101.2,
+          "end": 101.36
+        },
+        {
+          "text": "ateliers",
+          "start": 101.36,
+          "end": 101.76
+        },
+        {
+          "text": "avec",
+          "start": 101.76,
+          "end": 101.92
+        },
+        {
+          "text": "ses",
+          "start": 101.92,
+          "end": 102.08
+        },
+        {
+          "text": "élèves",
+          "start": 102.08,
+          "end": 102.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Lisan elle donne des ateliers",
+          "translations": {
+            "zh": "Lisan办工作坊",
+            "en": "Lisan, she gives workshops",
+            "es": "Lisan da talleres"
+          },
+          "start": 92.72,
+          "end": 94.0
+        },
+        {
+          "text": "dans cette école là",
+          "translations": {
+            "zh": "在这所学校",
+            "en": "in that school there",
+            "es": "en esa escuela allí"
+          },
+          "start": 94.0,
+          "end": 95.28
+        },
+        {
+          "text": "dans différentes classes",
+          "translations": {
+            "zh": "在不同的班级",
+            "en": "in different classes",
+            "es": "en diferentes clases"
+          },
+          "start": 95.28,
+          "end": 96.0
+        },
+        {
+          "text": "et elle me propose de rencontrer Lynn",
+          "translations": {
+            "zh": "她建议我去见Lynn",
+            "en": "and she suggests I meet Lynn",
+            "es": "y me propone conocer a Lynn"
+          },
+          "start": 96.08,
+          "end": 97.36
+        },
+        {
+          "text": "qui est une professeure d'arts plastiques",
+          "translations": {
+            "zh": "Lynn是一位视觉艺术老师",
+            "en": "who is a visual arts teacher",
+            "es": "que es una profesora de artes plásticas"
+          },
+          "start": 97.36,
+          "end": 98.56
+        },
+        {
+          "text": "qui l'invite souvent dans ses classes",
+          "translations": {
+            "zh": "经常邀请她到自己的班级",
+            "en": "who often invites her into her classes",
+            "es": "que la invita a menudo a sus clases"
+          },
+          "start": 98.64,
+          "end": 100.64
+        },
+        {
+          "text": "pour réaliser ces ateliers avec ses élèves",
+          "translations": {
+            "zh": "和学生们一起做这些工作坊",
+            "en": "to do these workshops with her students",
+            "es": "para realizar estos talleres con sus alumnos"
+          },
+          "start": 100.64,
+          "end": 102.32
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Allo",
+      "translations": {
+        "zh": "喂",
+        "en": "Hello",
+        "es": "Aló"
+      },
+      "start": 102.32,
+      "end": 103.36,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 102.32,
+          "end": 103.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo",
+          "translations": {
+            "zh": "喂",
+            "en": "Hello",
+            "es": "Aló"
+          },
+          "start": 102.32,
+          "end": 103.36
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Viens Raed",
+      "translations": {
+        "zh": "来，Raed",
+        "en": "Come Raed",
+        "es": "Ven Raed"
+      },
+      "start": 103.84,
+      "end": 104.0,
+      "words": [
+        {
+          "text": "Viens",
+          "start": 103.84,
+          "end": 104.0
+        },
+        {
+          "text": "Raed",
+          "start": 104.0,
+          "end": 104.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Viens Raed",
+          "translations": {
+            "zh": "来，Raed",
+            "en": "Come Raed",
+            "es": "Ven Raed"
+          },
+          "start": 103.84,
+          "end": 104.0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Allo",
+      "translations": {
+        "zh": "喂",
+        "en": "Hello",
+        "es": "Aló"
+      },
+      "start": 105.36,
+      "end": 105.36,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 105.36,
+          "end": 105.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo",
+          "translations": {
+            "zh": "喂",
+            "en": "Hello",
+            "es": "Aló"
+          },
+          "start": 105.36,
+          "end": 105.36
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Allo!",
+      "translations": {
+        "zh": "喂！",
+        "en": "Hello!",
+        "es": "¡Aló!"
+      },
+      "start": 105.6,
+      "end": 105.92,
+      "words": [
+        {
+          "text": "Allo",
+          "start": 105.6,
+          "end": 105.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Allo!",
+          "translations": {
+            "zh": "喂！",
+            "en": "Hello!",
+            "es": "¡Aló!"
+          },
+          "start": 105.6,
+          "end": 105.92
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Bonjour",
+      "translations": {
+        "zh": "你好",
+        "en": "Hello",
+        "es": "Hola"
+      },
+      "start": 106.0,
+      "end": 106.4,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 106.0,
+          "end": 106.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour",
+          "translations": {
+            "zh": "你好",
+            "en": "Hello",
+            "es": "Hola"
+          },
+          "start": 106.0,
+          "end": 106.4
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Voilà la fameuse Lynn Lynn Fournier qui est ma complice",
+      "translations": {
+        "zh": "这就是著名的Lynn，Lynn Fournier，她是我的搭档",
+        "en": "Here's the famous Lynn, Lynn Fournier, who is my accomplice",
+        "es": "Aquí está la famosa Lynn Lynn Fournier que es mi cómplice"
+      },
+      "start": 106.64,
+      "end": 111.04,
+      "words": [
+        {
+          "text": "Voilà",
+          "start": 106.64,
+          "end": 107.36
+        },
+        {
+          "text": "la",
+          "start": 107.36,
+          "end": 107.44
+        },
+        {
+          "text": "fameuse",
+          "start": 107.44,
+          "end": 107.84
+        },
+        {
+          "text": "Lynn",
+          "start": 107.84,
+          "end": 108.0
+        },
+        {
+          "text": "Lynn",
+          "start": 108.0,
+          "end": 109.2
+        },
+        {
+          "text": "Fournier",
+          "start": 109.2,
+          "end": 109.44
+        },
+        {
+          "text": "qui",
+          "start": 109.44,
+          "end": 109.68
+        },
+        {
+          "text": "est",
+          "start": 109.68,
+          "end": 109.92
+        },
+        {
+          "text": "ma",
+          "start": 110.4,
+          "end": 110.48
+        },
+        {
+          "text": "complice",
+          "start": 110.48,
+          "end": 111.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Voilà la fameuse Lynn",
+          "translations": {
+            "zh": "这就是著名的Lynn",
+            "en": "Here's the famous Lynn",
+            "es": "Aquí está la famosa Lynn"
+          },
+          "start": 106.64,
+          "end": 108.0
+        },
+        {
+          "text": "Lynn Fournier",
+          "translations": {
+            "zh": "Lynn Fournier",
+            "en": "Lynn Fournier",
+            "es": "Lynn Fournier"
+          },
+          "start": 108.0,
+          "end": 109.44
+        },
+        {
+          "text": "qui est ma complice",
+          "translations": {
+            "zh": "她是我的搭档",
+            "en": "who is my accomplice",
+            "es": "que es mi cómplice"
+          },
+          "start": 109.44,
+          "end": 111.04
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Depuis bien des années",
+      "translations": {
+        "zh": "已经很多年了",
+        "en": "For many years",
+        "es": "Desde hace muchos años"
+      },
+      "start": 112.08,
+      "end": 113.04,
+      "words": [
+        {
+          "text": "Depuis",
+          "start": 112.08,
+          "end": 112.4
+        },
+        {
+          "text": "bien",
+          "start": 112.4,
+          "end": 112.56
+        },
+        {
+          "text": "des",
+          "start": 112.56,
+          "end": 112.8
+        },
+        {
+          "text": "années",
+          "start": 112.8,
+          "end": 113.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis bien des années",
+          "translations": {
+            "zh": "已经很多年了",
+            "en": "For many years",
+            "es": "Desde hace muchos años"
+          },
+          "start": 112.08,
+          "end": 113.04
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Depuis bien des années.",
+      "translations": {
+        "zh": "已经很多年了。",
+        "en": "For many years.",
+        "es": "Desde hace muchos años."
+      },
+      "start": 113.04,
+      "end": 114.32,
+      "words": [
+        {
+          "text": "depuis",
+          "start": 113.04,
+          "end": 113.36
+        },
+        {
+          "text": "bien",
+          "start": 113.36,
+          "end": 113.6
+        },
+        {
+          "text": "des",
+          "start": 113.6,
+          "end": 113.84
+        },
+        {
+          "text": "années",
+          "start": 113.84,
+          "end": 114.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis bien des années.",
+          "translations": {
+            "zh": "已经很多年了。",
+            "en": "For many years.",
+            "es": "Desde hace muchos años."
+          },
+          "start": 113.04,
+          "end": 114.32
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "C'est quoi l'apport d'une artiste comme Lisan dans la communauté",
+      "translations": {
+        "zh": "像Lisan这样的艺术家为社区带来了什么贡献",
+        "en": "What is the contribution of an artist like Lisan in the community",
+        "es": "¿Cuál es el aporte de una artista como Lisan en la comunidad?"
+      },
+      "start": 115.28,
+      "end": 119.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 115.28,
+          "end": 115.44
+        },
+        {
+          "text": "quoi",
+          "start": 115.44,
+          "end": 115.6
+        },
+        {
+          "text": "l'apport",
+          "start": 115.6,
+          "end": 116.4
+        },
+        {
+          "text": "d'une",
+          "start": 116.4,
+          "end": 116.72
+        },
+        {
+          "text": "artiste",
+          "start": 116.72,
+          "end": 117.44
+        },
+        {
+          "text": "comme",
+          "start": 117.44,
+          "end": 117.68
+        },
+        {
+          "text": "Lisan",
+          "start": 117.76,
+          "end": 118.16
+        },
+        {
+          "text": "dans",
+          "start": 118.4,
+          "end": 118.56
+        },
+        {
+          "text": "la",
+          "start": 118.56,
+          "end": 118.64
+        },
+        {
+          "text": "communauté",
+          "start": 118.64,
+          "end": 119.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est quoi l'apport",
+          "translations": {
+            "zh": "贡献是什么",
+            "en": "What is the contribution",
+            "es": "¿Cuál es el aporte"
+          },
+          "start": 115.28,
+          "end": 116.4
+        },
+        {
+          "text": "d'une artiste comme Lisan",
+          "translations": {
+            "zh": "像Lisan这样的艺术家的",
+            "en": "of an artist like Lisan",
+            "es": "de una artista como Lisan"
+          },
+          "start": 116.4,
+          "end": 118.16
+        },
+        {
+          "text": "dans la communauté",
+          "translations": {
+            "zh": "在社区里",
+            "en": "in the community",
+            "es": "en la comunidad?"
+          },
+          "start": 118.4,
+          "end": 119.12
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "C'est important",
+      "translations": {
+        "zh": "这很重要",
+        "en": "It's important",
+        "es": "Es importante"
+      },
+      "start": 119.28,
+      "end": 119.76,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 119.28,
+          "end": 119.36
+        },
+        {
+          "text": "important",
+          "start": 119.36,
+          "end": 119.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est important",
+          "translations": {
+            "zh": "这很重要",
+            "en": "It's important",
+            "es": "Es importante"
+          },
+          "start": 119.28,
+          "end": 119.76
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Parce que dans notre petite communauté on est rural",
+      "translations": {
+        "zh": "因为在我们的小社区里，我们是农村地区",
+        "en": "Because in our small community we are rural",
+        "es": "Porque en nuestra pequeña comunidad somos rurales"
+      },
+      "start": 119.84,
+      "end": 122.32,
+      "words": [
+        {
+          "text": "Parce",
+          "start": 119.84,
+          "end": 120.0
+        },
+        {
+          "text": "que",
+          "start": 120.0,
+          "end": 120.16
+        },
+        {
+          "text": "dans",
+          "start": 120.4,
+          "end": 120.56
+        },
+        {
+          "text": "notre",
+          "start": 120.56,
+          "end": 120.72
+        },
+        {
+          "text": "petite",
+          "start": 120.72,
+          "end": 121.04
+        },
+        {
+          "text": "communauté",
+          "start": 121.04,
+          "end": 121.44
+        },
+        {
+          "text": "on",
+          "start": 121.44,
+          "end": 121.52
+        },
+        {
+          "text": "est",
+          "start": 121.52,
+          "end": 121.68
+        },
+        {
+          "text": "rural",
+          "start": 121.68,
+          "end": 122.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Parce que dans notre petite communauté",
+          "translations": {
+            "zh": "因为在我们的小社区里",
+            "en": "Because in our small community",
+            "es": "Porque en nuestra pequeña comunidad"
+          },
+          "start": 119.84,
+          "end": 121.44
+        },
+        {
+          "text": "on est rural",
+          "translations": {
+            "zh": "我们是农村地区",
+            "en": "we are rural",
+            "es": "somos rurales"
+          },
+          "start": 121.44,
+          "end": 122.32
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Donc ça permet aux élèves de",
+      "translations": {
+        "zh": "所以这让学生们可以",
+        "en": "So it allows the students to",
+        "es": "Entonces eso les permite a los alumnos"
+      },
+      "start": 122.64,
+      "end": 125.28,
+      "words": [
+        {
+          "text": "Donc",
+          "start": 122.64,
+          "end": 122.88
+        },
+        {
+          "text": "ça",
+          "start": 122.88,
+          "end": 123.04
+        },
+        {
+          "text": "permet",
+          "start": 123.04,
+          "end": 123.36
+        },
+        {
+          "text": "aux",
+          "start": 123.36,
+          "end": 123.52
+        },
+        {
+          "text": "élèves",
+          "start": 123.52,
+          "end": 124.0
+        },
+        {
+          "text": "de",
+          "start": 124.0,
+          "end": 125.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Donc ça permet aux élèves de",
+          "translations": {
+            "zh": "所以这让学生们可以",
+            "en": "So it allows the students to",
+            "es": "Entonces eso les permite a los alumnos"
+          },
+          "start": 122.64,
+          "end": 125.28
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "de s'ouvrir au monde de s'ouvrir aux gens de voir différentes techniques différentes cultures",
+      "translations": {
+        "zh": "向世界开放，向人们开放，看到不同的技术和不同的文化",
+        "en": "to open themselves to the world, to open themselves to people, to see different techniques, different cultures",
+        "es": "abrirse al mundo abrirse a la gente ver diferentes técnicas diferentes culturas"
+      },
+      "start": 125.28,
+      "end": 131.36,
+      "words": [
+        {
+          "text": "de",
+          "start": 125.28,
+          "end": 125.28
+        },
+        {
+          "text": "s'ouvrir",
+          "start": 125.52,
+          "end": 126.08
+        },
+        {
+          "text": "au",
+          "start": 126.08,
+          "end": 126.16
+        },
+        {
+          "text": "monde",
+          "start": 126.16,
+          "end": 126.56
+        },
+        {
+          "text": "de",
+          "start": 126.56,
+          "end": 126.64
+        },
+        {
+          "text": "s'ouvrir",
+          "start": 126.64,
+          "end": 127.04
+        },
+        {
+          "text": "aux",
+          "start": 127.04,
+          "end": 127.2
+        },
+        {
+          "text": "gens",
+          "start": 127.44,
+          "end": 127.92
+        },
+        {
+          "text": "de",
+          "start": 127.92,
+          "end": 128.08
+        },
+        {
+          "text": "voir",
+          "start": 128.08,
+          "end": 128.08
+        },
+        {
+          "text": "différentes",
+          "start": 128.08,
+          "end": 128.08
+        },
+        {
+          "text": "techniques",
+          "start": 129.44,
+          "end": 129.84
+        },
+        {
+          "text": "différentes",
+          "start": 129.84,
+          "end": 130.24
+        },
+        {
+          "text": "cultures",
+          "start": 130.72,
+          "end": 131.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "de s'ouvrir au monde",
+          "translations": {
+            "zh": "向世界开放",
+            "en": "to open themselves to the world",
+            "es": "abrirse al mundo"
+          },
+          "start": 125.28,
+          "end": 126.56
+        },
+        {
+          "text": "de s'ouvrir aux gens",
+          "translations": {
+            "zh": "向人们开放",
+            "en": "to open themselves to people",
+            "es": "abrirse a la gente"
+          },
+          "start": 126.56,
+          "end": 127.92
+        },
+        {
+          "text": "de voir différentes techniques",
+          "translations": {
+            "zh": "看到不同的技术",
+            "en": "to see different techniques",
+            "es": "ver diferentes técnicas"
+          },
+          "start": 127.92,
+          "end": 129.84
+        },
+        {
+          "text": "différentes cultures",
+          "translations": {
+            "zh": "不同的文化",
+            "en": "different cultures",
+            "es": "diferentes culturas"
+          },
+          "start": 129.84,
+          "end": 131.36
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "Ça élargit leurs horizons",
+      "translations": {
+        "zh": "这拓宽了他们的视野",
+        "en": "It broadens their horizons",
+        "es": "Eso les amplía sus horizontes"
+      },
+      "start": 131.76,
+      "end": 132.88,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 131.76,
+          "end": 132.0
+        },
+        {
+          "text": "élargit",
+          "start": 132.0,
+          "end": 132.32
+        },
+        {
+          "text": "leurs",
+          "start": 132.32,
+          "end": 132.56
+        },
+        {
+          "text": "horizons",
+          "start": 132.56,
+          "end": 132.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça élargit leurs horizons",
+          "translations": {
+            "zh": "这拓宽了他们的视野",
+            "en": "It broadens their horizons",
+            "es": "Eso les amplía sus horizontes"
+          },
+          "start": 131.76,
+          "end": 132.88
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "Absolument",
+      "translations": {
+        "zh": "完全同意",
+        "en": "Absolutely",
+        "es": "Absolutamente"
+      },
+      "start": 133.04,
+      "end": 134.08,
+      "words": [
+        {
+          "text": "Absolument",
+          "start": 133.04,
+          "end": 134.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Absolument",
+          "translations": {
+            "zh": "完全同意",
+            "en": "Absolutely",
+            "es": "Absolutamente"
+          },
+          "start": 133.04,
+          "end": 134.08
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "Absolument",
+      "translations": {
+        "zh": "完全同意",
+        "en": "Absolutely",
+        "es": "Absolutamente"
+      },
+      "start": 134.08,
+      "end": 134.56,
+      "words": [
+        {
+          "text": "Absolument",
+          "start": 134.08,
+          "end": 134.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Absolument",
+          "translations": {
+            "zh": "完全同意",
+            "en": "Absolutely",
+            "es": "Absolutamente"
+          },
+          "start": 134.08,
+          "end": 134.56
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "Un petit peu on essaye un petit peu à chaque fois",
+      "translations": {
+        "zh": "一点一点地，我们每次尝试一点",
+        "en": "A little bit, we try a little bit each time",
+        "es": "Un poco intentamos un poco cada vez"
+      },
+      "start": 134.64,
+      "end": 136.48,
+      "words": [
+        {
+          "text": "Un",
+          "start": 134.64,
+          "end": 134.72
+        },
+        {
+          "text": "petit",
+          "start": 134.8,
+          "end": 134.88
+        },
+        {
+          "text": "peu",
+          "start": 134.88,
+          "end": 135.04
+        },
+        {
+          "text": "on",
+          "start": 135.04,
+          "end": 135.12
+        },
+        {
+          "text": "essaye",
+          "start": 135.2,
+          "end": 135.6
+        },
+        {
+          "text": "un",
+          "start": 135.92,
+          "end": 135.92
+        },
+        {
+          "text": "petit",
+          "start": 135.92,
+          "end": 135.92
+        },
+        {
+          "text": "peu",
+          "start": 135.92,
+          "end": 135.92
+        },
+        {
+          "text": "à",
+          "start": 135.92,
+          "end": 135.92
+        },
+        {
+          "text": "chaque",
+          "start": 135.92,
+          "end": 136.16
+        },
+        {
+          "text": "fois",
+          "start": 136.16,
+          "end": 136.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Un petit peu",
+          "translations": {
+            "zh": "一点一点地",
+            "en": "A little bit",
+            "es": "Un poco"
+          },
+          "start": 134.64,
+          "end": 135.04
+        },
+        {
+          "text": "on essaye un petit peu",
+          "translations": {
+            "zh": "我们尝试一点",
+            "en": "we try a little bit",
+            "es": "intentamos un poco"
+          },
+          "start": 135.04,
+          "end": 135.92
+        },
+        {
+          "text": "à chaque fois",
+          "translations": {
+            "zh": "每次",
+            "en": "each time",
+            "es": "cada vez"
+          },
+          "start": 135.92,
+          "end": 136.48
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "C'est une école anglophone",
+      "translations": {
+        "zh": "这是一所英语学校",
+        "en": "It's an English-language school",
+        "es": "Es una escuela anglófona"
+      },
+      "start": 136.8,
+      "end": 137.92,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 136.8,
+          "end": 136.96
+        },
+        {
+          "text": "une",
+          "start": 136.96,
+          "end": 137.04
+        },
+        {
+          "text": "école",
+          "start": 137.04,
+          "end": 137.36
+        },
+        {
+          "text": "anglophone",
+          "start": 137.36,
+          "end": 137.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est une école anglophone",
+          "translations": {
+            "zh": "这是一所英语学校",
+            "en": "It's an English-language school",
+            "es": "Es una escuela anglófona"
+          },
+          "start": 136.8,
+          "end": 137.92
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Oui c'est une école anglophone",
+      "translations": {
+        "zh": "是的，这是一所英语学校",
+        "en": "Yes it's an English-language school",
+        "es": "Sí es una escuela anglófona"
+      },
+      "start": 138.16,
+      "end": 139.28,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 138.16,
+          "end": 138.32
+        },
+        {
+          "text": "c'est",
+          "start": 138.32,
+          "end": 138.48
+        },
+        {
+          "text": "une",
+          "start": 138.48,
+          "end": 138.72
+        },
+        {
+          "text": "école",
+          "start": 138.72,
+          "end": 138.8
+        },
+        {
+          "text": "anglophone",
+          "start": 138.8,
+          "end": 139.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui c'est une école anglophone",
+          "translations": {
+            "zh": "是的，这是一所英语学校",
+            "en": "Yes it's an English-language school",
+            "es": "Sí es una escuela anglófona"
+          },
+          "start": 138.16,
+          "end": 139.28
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "On est dans un milieu majoritairement Francophone ici autour",
+      "translations": {
+        "zh": "我们周围这里是一个以法语为主的环境",
+        "en": "We're in an environment that is predominantly Francophone around here",
+        "es": "Estamos en un entorno mayoritariamente francófono aquí alrededor"
+      },
+      "start": 139.44,
+      "end": 142.48,
+      "words": [
+        {
+          "text": "On",
+          "start": 139.44,
+          "end": 139.52
+        },
+        {
+          "text": "est",
+          "start": 139.52,
+          "end": 139.6
+        },
+        {
+          "text": "dans",
+          "start": 139.6,
+          "end": 139.84
+        },
+        {
+          "text": "un",
+          "start": 139.84,
+          "end": 139.84
+        },
+        {
+          "text": "milieu",
+          "start": 139.84,
+          "end": 140.32
+        },
+        {
+          "text": "majoritairement",
+          "start": 140.32,
+          "end": 140.96
+        },
+        {
+          "text": "francophone",
+          "start": 140.96,
+          "end": 141.68
+        },
+        {
+          "text": "ici",
+          "start": 141.84,
+          "end": 142.08
+        },
+        {
+          "text": "autour",
+          "start": 142.08,
+          "end": 142.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est dans un milieu",
+          "translations": {
+            "zh": "我们处于一个环境中",
+            "en": "We're in an environment",
+            "es": "Estamos en un entorno"
+          },
+          "start": 139.44,
+          "end": 140.32
+        },
+        {
+          "text": "majoritairement Francophone",
+          "translations": {
+            "zh": "以法语为主的",
+            "en": "predominantly Francophone",
+            "es": "mayoritariamente francófono"
+          },
+          "start": 140.32,
+          "end": 141.68
+        },
+        {
+          "text": "ici autour",
+          "translations": {
+            "zh": "在这里周围",
+            "en": "around here",
+            "es": "aquí alrededor"
+          },
+          "start": 141.84,
+          "end": 142.48
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Est ce que l'art aussi permet de créer des ponts entre ces deux langues",
+      "translations": {
+        "zh": "艺术是否也能在这两种语言之间架起桥梁",
+        "en": "Does art also make it possible to build bridges between these two languages",
+        "es": "¿El arte también permite crear puentes entre estas dos lenguas?"
+      },
+      "start": 142.72,
+      "end": 147.04,
+      "words": [
+        {
+          "text": "Est",
+          "start": 142.72,
+          "end": 142.72
+        },
+        {
+          "text": "ce",
+          "start": 142.72,
+          "end": 142.88
+        },
+        {
+          "text": "que",
+          "start": 142.88,
+          "end": 142.96
+        },
+        {
+          "text": "l'art",
+          "start": 142.96,
+          "end": 143.2
+        },
+        {
+          "text": "aussi",
+          "start": 143.2,
+          "end": 143.44
+        },
+        {
+          "text": "permet",
+          "start": 143.44,
+          "end": 143.76
+        },
+        {
+          "text": "de",
+          "start": 143.76,
+          "end": 144.0
+        },
+        {
+          "text": "créer",
+          "start": 144.32,
+          "end": 144.56
+        },
+        {
+          "text": "des",
+          "start": 144.56,
+          "end": 144.72
+        },
+        {
+          "text": "ponts",
+          "start": 144.72,
+          "end": 144.96
+        },
+        {
+          "text": "entre",
+          "start": 145.28,
+          "end": 145.52
+        },
+        {
+          "text": "ces",
+          "start": 145.52,
+          "end": 145.68
+        },
+        {
+          "text": "deux",
+          "start": 145.68,
+          "end": 146.16
+        },
+        {
+          "text": "langues",
+          "start": 146.56,
+          "end": 147.04
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Est ce que l'art aussi",
+          "translations": {
+            "zh": "艺术是否也",
+            "en": "Does art also",
+            "es": "¿El arte también"
+          },
+          "start": 142.72,
+          "end": 143.44
+        },
+        {
+          "text": "permet de créer des ponts",
+          "translations": {
+            "zh": "能够架起桥梁",
+            "en": "make it possible to build bridges",
+            "es": "permite crear puentes"
+          },
+          "start": 143.44,
+          "end": 144.96
+        },
+        {
+          "text": "entre ces deux langues",
+          "translations": {
+            "zh": "在这两种语言之间",
+            "en": "between these two languages",
+            "es": "entre estas dos lenguas?"
+          },
+          "start": 145.28,
+          "end": 147.04
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Mais c'est ça c'est dans mon travail de rassembler le monde ensemble et créer des opportunités pour les membres de la communauté quelle que soit leur langue leur background la diversité culturelle de rassembler à travers l'art",
+      "translations": {
+        "zh": "就是这个，我的工作就是把人们聚在一起，为社区成员创造机会，无论他们的语言、背景、文化多样性如何，通过艺术把他们聚集起来",
+        "en": "But that's exactly it, it's in my work to bring people together and create opportunities for the members of the community, whatever their language, their background, the cultural diversity, to gather through art",
+        "es": "Pero eso es es en mi trabajo reunir a la gente junta y crear oportunidades para los miembros de la comunidad sea cual sea su lengua su origen la diversidad cultural reunir a través del arte"
+      },
+      "start": 147.12,
+      "end": 161.2,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 147.12,
+          "end": 147.2
+        },
+        {
+          "text": "c'est",
+          "start": 147.2,
+          "end": 147.36
+        },
+        {
+          "text": "ça",
+          "start": 147.36,
+          "end": 147.76
+        },
+        {
+          "text": "c'est",
+          "start": 147.84,
+          "end": 148.0
+        },
+        {
+          "text": "dans",
+          "start": 148.0,
+          "end": 148.16
+        },
+        {
+          "text": "mon",
+          "start": 148.16,
+          "end": 148.32
+        },
+        {
+          "text": "travail",
+          "start": 148.32,
+          "end": 148.96
+        },
+        {
+          "text": "de",
+          "start": 148.96,
+          "end": 149.2
+        },
+        {
+          "text": "rassembler",
+          "start": 149.36,
+          "end": 150.08
+        },
+        {
+          "text": "le",
+          "start": 150.08,
+          "end": 150.16
+        },
+        {
+          "text": "monde",
+          "start": 150.16,
+          "end": 150.48
+        },
+        {
+          "text": "ensemble",
+          "start": 150.48,
+          "end": 150.96
+        },
+        {
+          "text": "et",
+          "start": 150.96,
+          "end": 150.96
+        },
+        {
+          "text": "créer",
+          "start": 150.96,
+          "end": 150.96
+        },
+        {
+          "text": "des",
+          "start": 150.96,
+          "end": 151.6
+        },
+        {
+          "text": "opportunités",
+          "start": 152.72,
+          "end": 153.84
+        },
+        {
+          "text": "pour",
+          "start": 154.0,
+          "end": 154.48
+        },
+        {
+          "text": "les",
+          "start": 154.48,
+          "end": 154.56
+        },
+        {
+          "text": "membres",
+          "start": 154.56,
+          "end": 154.8
+        },
+        {
+          "text": "de",
+          "start": 155.36,
+          "end": 155.36
+        },
+        {
+          "text": "la",
+          "start": 155.36,
+          "end": 155.36
+        },
+        {
+          "text": "communauté",
+          "start": 155.6,
+          "end": 155.6
+        },
+        {
+          "text": "quelle",
+          "start": 155.76,
+          "end": 155.84
+        },
+        {
+          "text": "que",
+          "start": 155.84,
+          "end": 156.0
+        },
+        {
+          "text": "soit",
+          "start": 156.0,
+          "end": 156.24
+        },
+        {
+          "text": "leur",
+          "start": 156.24,
+          "end": 156.4
+        },
+        {
+          "text": "langue",
+          "start": 156.4,
+          "end": 156.88
+        },
+        {
+          "text": "leur",
+          "start": 156.88,
+          "end": 156.96
+        },
+        {
+          "text": "background",
+          "start": 156.96,
+          "end": 157.68
+        },
+        {
+          "text": "la",
+          "start": 158.08,
+          "end": 158.24
+        },
+        {
+          "text": "diversité",
+          "start": 158.24,
+          "end": 158.8
+        },
+        {
+          "text": "culturelle",
+          "start": 158.8,
+          "end": 159.52
+        },
+        {
+          "text": "de",
+          "start": 159.52,
+          "end": 159.6
+        },
+        {
+          "text": "rassembler",
+          "start": 159.6,
+          "end": 160.32
+        },
+        {
+          "text": "à",
+          "start": 160.32,
+          "end": 160.4
+        },
+        {
+          "text": "travers",
+          "start": 160.4,
+          "end": 160.8
+        },
+        {
+          "text": "l'art",
+          "start": 160.8,
+          "end": 161.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais c'est ça",
+          "translations": {
+            "zh": "就是这个",
+            "en": "But that's exactly it",
+            "es": "Pero eso es"
+          },
+          "start": 147.12,
+          "end": 147.76
+        },
+        {
+          "text": "c'est dans mon travail",
+          "translations": {
+            "zh": "这是我的工作",
+            "en": "it's in my work",
+            "es": "es en mi trabajo"
+          },
+          "start": 147.84,
+          "end": 148.96
+        },
+        {
+          "text": "de rassembler le monde ensemble",
+          "translations": {
+            "zh": "把人们聚在一起",
+            "en": "to bring people together",
+            "es": "reunir a la gente junta"
+          },
+          "start": 148.96,
+          "end": 150.96
+        },
+        {
+          "text": "et créer des opportunités",
+          "translations": {
+            "zh": "并创造机会",
+            "en": "and create opportunities",
+            "es": "y crear oportunidades"
+          },
+          "start": 150.96,
+          "end": 153.84
+        },
+        {
+          "text": "pour les membres de la communauté",
+          "translations": {
+            "zh": "为社区成员",
+            "en": "for the members of the community",
+            "es": "para los miembros de la comunidad"
+          },
+          "start": 154.0,
+          "end": 155.6
+        },
+        {
+          "text": "quelle que soit leur langue",
+          "translations": {
+            "zh": "无论他们的语言",
+            "en": "whatever their language",
+            "es": "sea cual sea su lengua"
+          },
+          "start": 155.76,
+          "end": 156.88
+        },
+        {
+          "text": "leur background",
+          "translations": {
+            "zh": "他们的背景",
+            "en": "their background",
+            "es": "su origen"
+          },
+          "start": 156.88,
+          "end": 157.68
+        },
+        {
+          "text": "la diversité culturelle",
+          "translations": {
+            "zh": "文化多样性",
+            "en": "the cultural diversity",
+            "es": "la diversidad cultural"
+          },
+          "start": 158.08,
+          "end": 159.52
+        },
+        {
+          "text": "de rassembler à travers l'art",
+          "translations": {
+            "zh": "通过艺术把他们聚集起来",
+            "en": "to gather through art",
+            "es": "reunir a través del arte"
+          },
+          "start": 159.52,
+          "end": 161.2
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "Hum hum",
+      "translations": {
+        "zh": "嗯嗯",
+        "en": "Mm-hmm",
+        "es": "Ajá"
+      },
+      "start": 161.28,
+      "end": 161.68,
+      "words": [
+        {
+          "text": "Hum",
+          "start": 161.28,
+          "end": 161.68
+        },
+        {
+          "text": "hum",
+          "start": 161.68,
+          "end": 161.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Hum hum",
+          "translations": {
+            "zh": "嗯嗯",
+            "en": "Mm-hmm",
+            "es": "Ajá"
+          },
+          "start": 161.28,
+          "end": 161.68
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "Ça fait qu'ici on est venus discuter mais aussi surtout",
+      "translations": {
+        "zh": "所以我们来这里聊天，但更重要的是",
+        "en": "So here we came to talk but also especially",
+        "es": "Así que aquí vinimos a conversar pero también sobre todo"
+      },
+      "start": 162.0,
+      "end": 164.56,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 162.0,
+          "end": 162.16
+        },
+        {
+          "text": "fait",
+          "start": 162.16,
+          "end": 162.16
+        },
+        {
+          "text": "qu'ici",
+          "start": 162.16,
+          "end": 162.48
+        },
+        {
+          "text": "on",
+          "start": 162.48,
+          "end": 162.64
+        },
+        {
+          "text": "est",
+          "start": 162.64,
+          "end": 162.72
+        },
+        {
+          "text": "venus",
+          "start": 162.72,
+          "end": 163.04
+        },
+        {
+          "text": "discuter",
+          "start": 163.36,
+          "end": 163.76
+        },
+        {
+          "text": "mais",
+          "start": 163.76,
+          "end": 163.84
+        },
+        {
+          "text": "aussi",
+          "start": 163.84,
+          "end": 164.08
+        },
+        {
+          "text": "surtout",
+          "start": 164.08,
+          "end": 164.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait qu'ici",
+          "translations": {
+            "zh": "所以我们在这里",
+            "en": "So here",
+            "es": "Así que aquí"
+          },
+          "start": 162.0,
+          "end": 162.48
+        },
+        {
+          "text": "on est venus discuter",
+          "translations": {
+            "zh": "来聊天",
+            "en": "we came to talk",
+            "es": "vinimos a conversar"
+          },
+          "start": 162.48,
+          "end": 163.76
+        },
+        {
+          "text": "mais aussi surtout",
+          "translations": {
+            "zh": "但更重要的是",
+            "en": "but also especially",
+            "es": "pero también sobre todo"
+          },
+          "start": 163.76,
+          "end": 164.56
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Oui pour chercher les mosaïques pour les bancs",
+      "translations": {
+        "zh": "是的，来取长椅用的马赛克",
+        "en": "Yes to pick up the mosaics for the benches",
+        "es": "Sí para buscar los mosaicos para los bancos"
+      },
+      "start": 165.04,
+      "end": 166.72,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 165.04,
+          "end": 165.2
+        },
+        {
+          "text": "pour",
+          "start": 165.2,
+          "end": 165.2
+        },
+        {
+          "text": "chercher",
+          "start": 165.2,
+          "end": 165.52
+        },
+        {
+          "text": "les",
+          "start": 165.52,
+          "end": 165.68
+        },
+        {
+          "text": "mosaïques",
+          "start": 165.68,
+          "end": 166.16
+        },
+        {
+          "text": "pour",
+          "start": 166.16,
+          "end": 166.24
+        },
+        {
+          "text": "les",
+          "start": 166.24,
+          "end": 166.4
+        },
+        {
+          "text": "bancs",
+          "start": 166.4,
+          "end": 166.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui pour chercher les mosaïques",
+          "translations": {
+            "zh": "是的，来取马赛克",
+            "en": "Yes to pick up the mosaics",
+            "es": "Sí para buscar los mosaicos"
+          },
+          "start": 165.04,
+          "end": 166.16
+        },
+        {
+          "text": "pour les bancs",
+          "translations": {
+            "zh": "用于长椅",
+            "en": "for the benches",
+            "es": "para los bancos"
+          },
+          "start": 166.16,
+          "end": 166.72
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "Oui",
+      "translations": {
+        "zh": "是的",
+        "en": "Yes",
+        "es": "Sí"
+      },
+      "start": 166.72,
+      "end": 166.8,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 166.72,
+          "end": 166.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui",
+          "translations": {
+            "zh": "是的",
+            "en": "Yes",
+            "es": "Sí"
+          },
+          "start": 166.72,
+          "end": 166.8
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "OK",
+      "translations": {
+        "zh": "好的",
+        "en": "OK",
+        "es": "OK"
+      },
+      "start": 166.8,
+      "end": 167.44,
+      "words": [
+        {
+          "text": "OK",
+          "start": 166.8,
+          "end": 167.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK",
+          "translations": {
+            "zh": "好的",
+            "en": "OK",
+            "es": "OK"
+          },
+          "start": 166.8,
+          "end": 167.44
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Parce qu'on va installer ça aux Jardins de Métis",
+      "translations": {
+        "zh": "因为我们要把这安装在梅蒂花园",
+        "en": "Because we're going to install that at the Jardins de Métis",
+        "es": "Porque vamos a instalar eso en los Jardines de Métis"
+      },
+      "start": 167.84,
+      "end": 170.48,
+      "words": [
+        {
+          "text": "Parce",
+          "start": 167.84,
+          "end": 168.08
+        },
+        {
+          "text": "qu'on",
+          "start": 168.08,
+          "end": 168.16
+        },
+        {
+          "text": "va",
+          "start": 168.32,
+          "end": 168.48
+        },
+        {
+          "text": "installer",
+          "start": 168.48,
+          "end": 169.04
+        },
+        {
+          "text": "ça",
+          "start": 169.04,
+          "end": 169.36
+        },
+        {
+          "text": "aux",
+          "start": 169.36,
+          "end": 169.44
+        },
+        {
+          "text": "Jardins",
+          "start": 169.44,
+          "end": 169.76
+        },
+        {
+          "text": "de",
+          "start": 169.84,
+          "end": 169.92
+        },
+        {
+          "text": "Métis",
+          "start": 169.92,
+          "end": 170.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Parce qu'on va installer ça",
+          "translations": {
+            "zh": "因为我们要把这安装",
+            "en": "Because we're going to install that",
+            "es": "Porque vamos a instalar eso"
+          },
+          "start": 167.84,
+          "end": 169.36
+        },
+        {
+          "text": "aux Jardins de Métis",
+          "translations": {
+            "zh": "在梅蒂花园",
+            "en": "at the Jardins de Métis",
+            "es": "en los Jardines de Métis"
+          },
+          "start": 169.36,
+          "end": 170.48
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "This is The Bird",
+      "translations": {
+        "zh": "这是那只鸟",
+        "en": "This is The Bird",
+        "es": "Este es The Bird"
+      },
+      "start": 173.68,
+      "end": 174.4,
+      "words": [
+        {
+          "text": "This",
+          "start": 173.68,
+          "end": 173.84
+        },
+        {
+          "text": "is",
+          "start": 173.84,
+          "end": 173.92
+        },
+        {
+          "text": "The",
+          "start": 174.0,
+          "end": 174.08
+        },
+        {
+          "text": "Bird",
+          "start": 174.08,
+          "end": 174.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "This is The Bird",
+          "translations": {
+            "zh": "这是那只鸟",
+            "en": "This is The Bird",
+            "es": "Este es The Bird"
+          },
+          "start": 173.68,
+          "end": 174.4
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "Ça c'est les oiseaux qui vont aller au Parc de la rivière Mitis",
+      "translations": {
+        "zh": "这些是要放到梅蒂河公园的鸟",
+        "en": "These are the birds that are going to go to the Parc de la rivière Mitis",
+        "es": "Esos son los pájaros que van a ir al Parque del río Mitis"
+      },
+      "start": 174.4,
+      "end": 176.56,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 174.4,
+          "end": 174.48
+        },
+        {
+          "text": "c'est",
+          "start": 174.48,
+          "end": 174.64
+        },
+        {
+          "text": "les",
+          "start": 174.72,
+          "end": 174.88
+        },
+        {
+          "text": "oiseaux",
+          "start": 174.88,
+          "end": 174.96
+        },
+        {
+          "text": "qui",
+          "start": 174.96,
+          "end": 175.36
+        },
+        {
+          "text": "vont",
+          "start": 175.36,
+          "end": 175.36
+        },
+        {
+          "text": "aller",
+          "start": 175.44,
+          "end": 175.5
+        },
+        {
+          "text": "au",
+          "start": 175.56,
+          "end": 175.62
+        },
+        {
+          "text": "Parc",
+          "start": 175.68,
+          "end": 175.84
+        },
+        {
+          "text": "de",
+          "start": 175.92,
+          "end": 176.0
+        },
+        {
+          "text": "la",
+          "start": 176.0,
+          "end": 176.08
+        },
+        {
+          "text": "rivière",
+          "start": 176.08,
+          "end": 176.32
+        },
+        {
+          "text": "Mitis",
+          "start": 176.32,
+          "end": 176.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça c'est les oiseaux",
+          "translations": {
+            "zh": "这些是鸟",
+            "en": "These are the birds",
+            "es": "Esos son los pájaros"
+          },
+          "start": 174.4,
+          "end": 174.96
+        },
+        {
+          "text": "qui vont aller au Parc de la rivière Mitis",
+          "translations": {
+            "zh": "要放到梅蒂河公园的",
+            "en": "that are going to go to the Parc de la rivière Mitis",
+            "es": "que van a ir al Parque del río Mitis"
+          },
+          "start": 174.96,
+          "end": 176.56
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Mais vous êtes de très bons profs parce que je pourrais pas dire que c'est des élèves qui l'ont fait là je veux dire",
+      "translations": {
+        "zh": "但你们是非常好的老师，因为我看不出这是学生做的，我的意思是",
+        "en": "But you're very good teachers because I couldn't tell that it was students who made that, I mean",
+        "es": "Pero ustedes son muy buenos profesores porque no podría decir que son alumnos quienes lo hicieron o sea quiero decir"
+      },
+      "start": 176.56,
+      "end": 180.56,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 176.56,
+          "end": 176.56
+        },
+        {
+          "text": "vous",
+          "start": 176.56,
+          "end": 176.56
+        },
+        {
+          "text": "êtes",
+          "start": 176.56,
+          "end": 177.68
+        },
+        {
+          "text": "de",
+          "start": 177.68,
+          "end": 177.84
+        },
+        {
+          "text": "très",
+          "start": 177.84,
+          "end": 178.0
+        },
+        {
+          "text": "bons",
+          "start": 178.0,
+          "end": 178.16
+        },
+        {
+          "text": "profs",
+          "start": 178.16,
+          "end": 178.4
+        },
+        {
+          "text": "parce",
+          "start": 178.4,
+          "end": 178.48
+        },
+        {
+          "text": "que",
+          "start": 178.48,
+          "end": 178.56
+        },
+        {
+          "text": "je",
+          "start": 178.56,
+          "end": 178.64
+        },
+        {
+          "text": "pourrais",
+          "start": 178.64,
+          "end": 178.8
+        },
+        {
+          "text": "pas",
+          "start": 178.8,
+          "end": 178.96
+        },
+        {
+          "text": "dire",
+          "start": 178.96,
+          "end": 179.12
+        },
+        {
+          "text": "que",
+          "start": 179.12,
+          "end": 179.12
+        },
+        {
+          "text": "c'est",
+          "start": 179.12,
+          "end": 179.2
+        },
+        {
+          "text": "des",
+          "start": 179.2,
+          "end": 179.44
+        },
+        {
+          "text": "élèves",
+          "start": 179.44,
+          "end": 179.68
+        },
+        {
+          "text": "qui",
+          "start": 179.68,
+          "end": 179.76
+        },
+        {
+          "text": "l'ont",
+          "start": 179.76,
+          "end": 179.92
+        },
+        {
+          "text": "fait",
+          "start": 179.92,
+          "end": 180.08
+        },
+        {
+          "text": "là",
+          "start": 180.08,
+          "end": 180.16
+        },
+        {
+          "text": "je",
+          "start": 180.16,
+          "end": 180.24
+        },
+        {
+          "text": "veux",
+          "start": 180.24,
+          "end": 180.32
+        },
+        {
+          "text": "dire",
+          "start": 180.32,
+          "end": 180.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais vous êtes de très bons profs",
+          "translations": {
+            "zh": "但你们是非常好的老师",
+            "en": "But you're very good teachers",
+            "es": "Pero ustedes son muy buenos profesores"
+          },
+          "start": 176.56,
+          "end": 178.4
+        },
+        {
+          "text": "parce que je pourrais pas dire",
+          "translations": {
+            "zh": "因为我看不出",
+            "en": "because I couldn't tell",
+            "es": "porque no podría decir"
+          },
+          "start": 178.4,
+          "end": 179.12
+        },
+        {
+          "text": "que c'est des élèves qui l'ont fait là",
+          "translations": {
+            "zh": "这是学生做的",
+            "en": "that it was students who made that",
+            "es": "que son alumnos quienes lo hicieron"
+          },
+          "start": 179.12,
+          "end": 180.16
+        },
+        {
+          "text": "je veux dire",
+          "translations": {
+            "zh": "我的意思是",
+            "en": "I mean",
+            "es": "quiero decir"
+          },
+          "start": 180.16,
+          "end": 180.56
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Ah oui les élèves venaient sur l'heure du midi",
+      "translations": {
+        "zh": "啊对，学生们午休时间来的",
+        "en": "Oh yes the students would come during the lunch hour",
+        "es": "Ah sí los alumnos venían a la hora del mediodía"
+      },
+      "start": 180.56,
+      "end": 183.52,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 180.56,
+          "end": 181.28
+        },
+        {
+          "text": "oui",
+          "start": 181.28,
+          "end": 181.44
+        },
+        {
+          "text": "les",
+          "start": 181.44,
+          "end": 181.68
+        },
+        {
+          "text": "élèves",
+          "start": 181.68,
+          "end": 182.0
+        },
+        {
+          "text": "venaient",
+          "start": 182.0,
+          "end": 182.16
+        },
+        {
+          "text": "sur",
+          "start": 182.16,
+          "end": 182.4
+        },
+        {
+          "text": "l'heure",
+          "start": 182.4,
+          "end": 182.48
+        },
+        {
+          "text": "du",
+          "start": 182.48,
+          "end": 182.8
+        },
+        {
+          "text": "midi",
+          "start": 182.8,
+          "end": 183.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah oui",
+          "translations": {
+            "zh": "啊对",
+            "en": "Oh yes",
+            "es": "Ah sí"
+          },
+          "start": 180.56,
+          "end": 181.44
+        },
+        {
+          "text": "les élèves venaient sur l'heure du midi",
+          "translations": {
+            "zh": "学生们午休时间来的",
+            "en": "the students would come during the lunch hour",
+            "es": "los alumnos venían a la hora del mediodía"
+          },
+          "start": 181.44,
+          "end": 183.52
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "Oh wow",
+      "translations": {
+        "zh": "哇",
+        "en": "Oh wow",
+        "es": "Oh wow"
+      },
+      "start": 183.52,
+      "end": 185.52,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 183.52,
+          "end": 183.52
+        },
+        {
+          "text": "wow",
+          "start": 183.68,
+          "end": 185.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oh wow",
+          "translations": {
+            "zh": "哇",
+            "en": "Oh wow",
+            "es": "Oh wow"
+          },
+          "start": 183.52,
+          "end": 185.52
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "C'est très très beau",
+      "translations": {
+        "zh": "非常非常漂亮",
+        "en": "It's very very beautiful",
+        "es": "Es muy muy bonito"
+      },
+      "start": 185.52,
+      "end": 186.4,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 185.52,
+          "end": 185.68
+        },
+        {
+          "text": "très",
+          "start": 185.68,
+          "end": 185.68
+        },
+        {
+          "text": "très",
+          "start": 185.68,
+          "end": 185.68
+        },
+        {
+          "text": "beau",
+          "start": 186.4,
+          "end": 186.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est très très beau",
+          "translations": {
+            "zh": "非常非常漂亮",
+            "en": "It's very very beautiful",
+            "es": "Es muy muy bonito"
+          },
+          "start": 185.52,
+          "end": 186.4
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "Ils sont très fiers de leurs œuvres",
+      "translations": {
+        "zh": "他们对自己的作品非常自豪",
+        "en": "They're very proud of their works",
+        "es": "Están muy orgullosos de sus obras"
+      },
+      "start": 186.4,
+      "end": 188.72,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 186.4,
+          "end": 186.56
+        },
+        {
+          "text": "sont",
+          "start": 186.56,
+          "end": 188.08
+        },
+        {
+          "text": "très",
+          "start": 188.08,
+          "end": 188.08
+        },
+        {
+          "text": "fiers",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "de",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "leurs",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "œuvres",
+          "start": 188.72,
+          "end": 188.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils sont très fiers",
+          "translations": {
+            "zh": "他们非常自豪",
+            "en": "They're very proud",
+            "es": "Están muy orgullosos"
+          },
+          "start": 186.4,
+          "end": 188.72
+        },
+        {
+          "text": "de leurs œuvres",
+          "translations": {
+            "zh": "对自己的作品",
+            "en": "of their works",
+            "es": "de sus obras"
+          },
+          "start": 188.72,
+          "end": 188.72
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "text": "Mais oui",
+      "translations": {
+        "zh": "当然了",
+        "en": "But yes",
+        "es": "Pero sí"
+      },
+      "start": 188.72,
+      "end": 188.72,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "oui",
+          "start": 188.72,
+          "end": 188.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais oui",
+          "translations": {
+            "zh": "当然了",
+            "en": "But yes",
+            "es": "Pero sí"
+          },
+          "start": 188.72,
+          "end": 188.72
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "text": "Ils ont de quoi",
+      "translations": {
+        "zh": "他们有理由的",
+        "en": "They have reason to be",
+        "es": "Tienen de qué"
+      },
+      "start": 188.72,
+      "end": 188.72,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "ont",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "de",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "quoi",
+          "start": 188.72,
+          "end": 188.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils ont de quoi",
+          "translations": {
+            "zh": "他们有理由的",
+            "en": "They have reason to be",
+            "es": "Tienen de qué"
+          },
+          "start": 188.72,
+          "end": 188.72
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "text": "C'est très beau",
+      "translations": {
+        "zh": "很漂亮",
+        "en": "It's very beautiful",
+        "es": "Es muy bonito"
+      },
+      "start": 188.72,
+      "end": 188.96,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 188.72,
+          "end": 188.72
+        },
+        {
+          "text": "très",
+          "start": 188.8,
+          "end": 188.96
+        },
+        {
+          "text": "beau",
+          "start": 188.96,
+          "end": 188.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est très beau",
+          "translations": {
+            "zh": "很漂亮",
+            "en": "It's very beautiful",
+            "es": "Es muy bonito"
+          },
+          "start": 188.72,
+          "end": 188.96
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "text": "Lydia avait travaillé ça",
+      "translations": {
+        "zh": "Lydia做过这个",
+        "en": "Lydia had worked on that",
+        "es": "Lydia había trabajado eso"
+      },
+      "start": 190.48,
+      "end": 190.88,
+      "words": [
+        {
+          "text": "Lydia",
+          "start": 190.48,
+          "end": 190.88
+        },
+        {
+          "text": "avait",
+          "start": 190.88,
+          "end": 190.88
+        },
+        {
+          "text": "travaillé",
+          "start": 190.88,
+          "end": 190.88
+        },
+        {
+          "text": "ça",
+          "start": 190.88,
+          "end": 190.88
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Lydia avait travaillé ça",
+          "translations": {
+            "zh": "Lydia做过这个",
+            "en": "Lydia had worked on that",
+            "es": "Lydia había trabajado eso"
+          },
+          "start": 190.48,
+          "end": 190.88
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "text": "C'est renversant",
+      "translations": {
+        "zh": "这令人叹为观止",
+        "en": "It's stunning",
+        "es": "Es impresionante"
+      },
+      "start": 190.88,
+      "end": 192.32,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 190.88,
+          "end": 190.88
+        },
+        {
+          "text": "renversant",
+          "start": 191.68,
+          "end": 192.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est renversant",
+          "translations": {
+            "zh": "这令人叹为观止",
+            "en": "It's stunning",
+            "es": "Es impresionante"
+          },
+          "start": 190.88,
+          "end": 192.32
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "text": "Sur place je rencontre le directeur des Jardins de Métis Alexander avec qui on procède à l'installation",
+      "translations": {
+        "zh": "在现场我见到了梅蒂花园的园长Alexander，我们和他一起进行安装",
+        "en": "On site I meet the director of the Jardins de Métis, Alexander, with whom we proceed to the installation",
+        "es": "Allí mismo conozco al director de los Jardines de Métis Alexander con quien procedemos a la instalación"
+      },
+      "start": 192.32,
+      "end": 217.44,
+      "words": [
+        {
+          "text": "Sur",
+          "start": 192.32,
+          "end": 193.36
+        },
+        {
+          "text": "place",
+          "start": 193.36,
+          "end": 193.568
+        },
+        {
+          "text": "je",
+          "start": 193.776,
+          "end": 193.984
+        },
+        {
+          "text": "rencontre",
+          "start": 194.192,
+          "end": 194.4
+        },
+        {
+          "text": "le",
+          "start": 196.8,
+          "end": 196.8
+        },
+        {
+          "text": "directeur",
+          "start": 213.2,
+          "end": 213.68
+        },
+        {
+          "text": "des",
+          "start": 213.68,
+          "end": 213.76
+        },
+        {
+          "text": "Jardins",
+          "start": 213.76,
+          "end": 214.08
+        },
+        {
+          "text": "de",
+          "start": 214.08,
+          "end": 214.16
+        },
+        {
+          "text": "Métis",
+          "start": 214.16,
+          "end": 214.56
+        },
+        {
+          "text": "Alexander",
+          "start": 214.56,
+          "end": 215.04
+        },
+        {
+          "text": "avec",
+          "start": 215.36,
+          "end": 215.68
+        },
+        {
+          "text": "qui",
+          "start": 215.68,
+          "end": 215.84
+        },
+        {
+          "text": "on",
+          "start": 215.84,
+          "end": 216.08
+        },
+        {
+          "text": "procède",
+          "start": 216.4,
+          "end": 216.8
+        },
+        {
+          "text": "à",
+          "start": 216.8,
+          "end": 216.88
+        },
+        {
+          "text": "l'installation",
+          "start": 216.88,
+          "end": 217.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Sur place",
+          "translations": {
+            "zh": "在现场",
+            "en": "On site",
+            "es": "Allí mismo"
+          },
+          "start": 192.32,
+          "end": 193.568
+        },
+        {
+          "text": "je rencontre le directeur des Jardins de Métis",
+          "translations": {
+            "zh": "我见到了梅蒂花园的园长",
+            "en": "I meet the director of the Jardins de Métis",
+            "es": "conozco al director de los Jardines de Métis"
+          },
+          "start": 193.776,
+          "end": 214.56
+        },
+        {
+          "text": "Alexander",
+          "translations": {
+            "zh": "Alexander",
+            "en": "Alexander",
+            "es": "Alexander"
+          },
+          "start": 214.56,
+          "end": 215.04
+        },
+        {
+          "text": "avec qui on procède à l'installation",
+          "translations": {
+            "zh": "我们和他一起进行安装",
+            "en": "with whom we proceed to the installation",
+            "es": "con quien procedemos a la instalación"
+          },
+          "start": 215.36,
+          "end": 217.44
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "text": "Les bancs sont fraîchement installés",
+      "translations": {
+        "zh": "长椅刚刚安装好",
+        "en": "The benches are freshly installed",
+        "es": "Los bancos están recién instalados"
+      },
+      "start": 217.92,
+      "end": 219.2,
+      "words": [
+        {
+          "text": "Les",
+          "start": 217.92,
+          "end": 218.0
+        },
+        {
+          "text": "bancs",
+          "start": 218.0,
+          "end": 218.16
+        },
+        {
+          "text": "sont",
+          "start": 218.16,
+          "end": 218.32
+        },
+        {
+          "text": "fraîchement",
+          "start": 218.4,
+          "end": 218.72
+        },
+        {
+          "text": "installés",
+          "start": 218.72,
+          "end": 219.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les bancs",
+          "translations": {
+            "zh": "长椅",
+            "en": "The benches",
+            "es": "Los bancos"
+          },
+          "start": 217.92,
+          "end": 218.16
+        },
+        {
+          "text": "sont fraîchement installés",
+          "translations": {
+            "zh": "刚刚安装好",
+            "en": "are freshly installed",
+            "es": "están recién instalados"
+          },
+          "start": 218.16,
+          "end": 219.2
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "text": "Tout frais tout chauds",
+      "translations": {
+        "zh": "全新的，热乎的",
+        "en": "All fresh, all hot",
+        "es": "Todo fresco todo calientes"
+      },
+      "start": 219.36,
+      "end": 219.92,
+      "words": [
+        {
+          "text": "Tout",
+          "start": 219.36,
+          "end": 219.44
+        },
+        {
+          "text": "frais",
+          "start": 219.44,
+          "end": 219.6
+        },
+        {
+          "text": "tout",
+          "start": 219.6,
+          "end": 219.76
+        },
+        {
+          "text": "chauds",
+          "start": 219.76,
+          "end": 219.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tout frais",
+          "translations": {
+            "zh": "全新的",
+            "en": "All fresh",
+            "es": "Todo fresco"
+          },
+          "start": 219.36,
+          "end": 219.6
+        },
+        {
+          "text": "tout chauds",
+          "translations": {
+            "zh": "热乎的",
+            "en": "all hot",
+            "es": "todo calientes"
+          },
+          "start": 219.6,
+          "end": 219.92
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "text": "Depuis à peine quoi une heure environ",
+      "translations": {
+        "zh": "大约才一个小时左右",
+        "en": "Since barely, what, about an hour ago",
+        "es": "Desde apenas qué, una hora aproximadamente"
+      },
+      "start": 220.16,
+      "end": 222.4,
+      "words": [
+        {
+          "text": "Depuis",
+          "start": 220.16,
+          "end": 220.4
+        },
+        {
+          "text": "à",
+          "start": 220.72,
+          "end": 220.8
+        },
+        {
+          "text": "peine",
+          "start": 220.8,
+          "end": 221.44
+        },
+        {
+          "text": "quoi",
+          "start": 221.52,
+          "end": 221.6
+        },
+        {
+          "text": "une",
+          "start": 221.6,
+          "end": 221.84
+        },
+        {
+          "text": "heure",
+          "start": 221.84,
+          "end": 221.92
+        },
+        {
+          "text": "environ",
+          "start": 221.92,
+          "end": 222.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Depuis à peine quoi",
+          "translations": {
+            "zh": "才刚刚",
+            "en": "Since barely, what",
+            "es": "Desde apenas qué,"
+          },
+          "start": 220.16,
+          "end": 221.6
+        },
+        {
+          "text": "une heure environ",
+          "translations": {
+            "zh": "大约一个小时",
+            "en": "about an hour",
+            "es": "una hora aproximadamente"
+          },
+          "start": 221.6,
+          "end": 222.4
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "text": "OK",
+      "translations": {
+        "zh": "好的",
+        "en": "OK",
+        "es": "OK"
+      },
+      "start": 222.4,
+      "end": 222.4,
+      "words": [
+        {
+          "text": "OK",
+          "start": 222.4,
+          "end": 222.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK",
+          "translations": {
+            "zh": "好的",
+            "en": "OK",
+            "es": "OK"
+          },
+          "start": 222.4,
+          "end": 222.4
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "text": "Ils sont prêts à recevoir l'artiste maintenant là",
+      "translations": {
+        "zh": "它们现在准备好迎接艺术家了",
+        "en": "They're ready to receive the artist now",
+        "es": "Están listos para recibir a la artista ahora mismo"
+      },
+      "start": 222.8,
+      "end": 224.56,
+      "words": [
+        {
+          "text": "Ils",
+          "start": 222.8,
+          "end": 223.04
+        },
+        {
+          "text": "sont",
+          "start": 223.04,
+          "end": 223.2
+        },
+        {
+          "text": "prêts",
+          "start": 223.2,
+          "end": 223.28
+        },
+        {
+          "text": "à",
+          "start": 223.44,
+          "end": 223.6
+        },
+        {
+          "text": "recevoir",
+          "start": 223.6,
+          "end": 223.6
+        },
+        {
+          "text": "l'artiste",
+          "start": 224.0,
+          "end": 224.4
+        },
+        {
+          "text": "maintenant",
+          "start": 224.4,
+          "end": 224.4
+        },
+        {
+          "text": "là",
+          "start": 224.56,
+          "end": 224.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ils sont prêts",
+          "translations": {
+            "zh": "它们准备好了",
+            "en": "They're ready",
+            "es": "Están listos"
+          },
+          "start": 222.8,
+          "end": 223.28
+        },
+        {
+          "text": "à recevoir l'artiste",
+          "translations": {
+            "zh": "迎接艺术家",
+            "en": "to receive the artist",
+            "es": "para recibir a la artista"
+          },
+          "start": 223.44,
+          "end": 224.4
+        },
+        {
+          "text": "maintenant là",
+          "translations": {
+            "zh": "现在",
+            "en": "now",
+            "es": "ahora mismo"
+          },
+          "start": 224.4,
+          "end": 224.56
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "text": "Pourquoi vous teniez à collaborer avec Lisan pour le jardin",
+      "translations": {
+        "zh": "为什么你们坚持要与Lisan合作花园项目",
+        "en": "Why did you want to collaborate with Lisan for the garden",
+        "es": "Por qué ustedes tenían interés en colaborar con Lisan para el jardín"
+      },
+      "start": 224.56,
+      "end": 228.32,
+      "words": [
+        {
+          "text": "Pourquoi",
+          "start": 224.56,
+          "end": 225.28
+        },
+        {
+          "text": "vous",
+          "start": 225.28,
+          "end": 225.36
+        },
+        {
+          "text": "teniez",
+          "start": 225.36,
+          "end": 225.84
+        },
+        {
+          "text": "à",
+          "start": 225.84,
+          "end": 226.08
+        },
+        {
+          "text": "collaborer",
+          "start": 226.08,
+          "end": 226.72
+        },
+        {
+          "text": "avec",
+          "start": 226.72,
+          "end": 226.96
+        },
+        {
+          "text": "Lisan",
+          "start": 226.96,
+          "end": 227.36
+        },
+        {
+          "text": "pour",
+          "start": 227.36,
+          "end": 227.76
+        },
+        {
+          "text": "le",
+          "start": 227.76,
+          "end": 227.92
+        },
+        {
+          "text": "jardin",
+          "start": 227.92,
+          "end": 228.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pourquoi vous teniez à collaborer",
+          "translations": {
+            "zh": "为什么你们坚持合作",
+            "en": "Why did you want to collaborate",
+            "es": "Por qué tenían interés en colaborar"
+          },
+          "start": 224.56,
+          "end": 226.72
+        },
+        {
+          "text": "avec Lisan",
+          "translations": {
+            "zh": "与Lisan",
+            "en": "with Lisan",
+            "es": "con Lisan"
+          },
+          "start": 226.72,
+          "end": 227.36
+        },
+        {
+          "text": "pour le jardin",
+          "translations": {
+            "zh": "为了花园",
+            "en": "for the garden",
+            "es": "para el jardín"
+          },
+          "start": 227.36,
+          "end": 228.32
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "text": "Qu'est ce que ça apporte d'avoir ces mosaïques en plus de tout ce que vous avez déjà ce magnifique terrain",
+      "translations": {
+        "zh": "在你们已经拥有的这一切，这片美丽场地之外，这些马赛克作品带来了什么",
+        "en": "What does it bring to have these mosaics in addition to everything you already have, this magnificent grounds",
+        "es": "¿Qué aporta tener estos mosaicos además de todo lo que ya tienen este magnífico terreno?"
+      },
+      "start": 228.56,
+      "end": 232.4,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 228.56,
+          "end": 228.64
+        },
+        {
+          "text": "ce",
+          "start": 228.64,
+          "end": 228.72
+        },
+        {
+          "text": "que",
+          "start": 228.72,
+          "end": 228.8
+        },
+        {
+          "text": "ça",
+          "start": 228.8,
+          "end": 229.04
+        },
+        {
+          "text": "apporte",
+          "start": 229.04,
+          "end": 229.28
+        },
+        {
+          "text": "d'avoir",
+          "start": 229.28,
+          "end": 229.6
+        },
+        {
+          "text": "ces",
+          "start": 229.6,
+          "end": 229.68
+        },
+        {
+          "text": "mosaïques",
+          "start": 229.68,
+          "end": 230.08
+        },
+        {
+          "text": "en",
+          "start": 230.08,
+          "end": 230.32
+        },
+        {
+          "text": "plus",
+          "start": 230.32,
+          "end": 230.4
+        },
+        {
+          "text": "de",
+          "start": 230.4,
+          "end": 230.48
+        },
+        {
+          "text": "tout",
+          "start": 230.48,
+          "end": 230.64
+        },
+        {
+          "text": "ce",
+          "start": 230.64,
+          "end": 230.72
+        },
+        {
+          "text": "que",
+          "start": 230.72,
+          "end": 230.8
+        },
+        {
+          "text": "vous",
+          "start": 230.8,
+          "end": 230.96
+        },
+        {
+          "text": "avez",
+          "start": 230.96,
+          "end": 231.12
+        },
+        {
+          "text": "déjà",
+          "start": 231.12,
+          "end": 231.36
+        },
+        {
+          "text": "ce",
+          "start": 231.36,
+          "end": 231.6
+        },
+        {
+          "text": "magnifique",
+          "start": 231.68,
+          "end": 231.68
+        },
+        {
+          "text": "terrain",
+          "start": 232.16,
+          "end": 232.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est ce que ça apporte",
+          "translations": {
+            "zh": "这带来了什么",
+            "en": "What does it bring",
+            "es": "¿Qué aporta"
+          },
+          "start": 228.56,
+          "end": 229.28
+        },
+        {
+          "text": "d'avoir ces mosaïques",
+          "translations": {
+            "zh": "拥有这些马赛克作品",
+            "en": "to have these mosaics",
+            "es": "tener estos mosaicos"
+          },
+          "start": 229.28,
+          "end": 230.08
+        },
+        {
+          "text": "en plus de tout ce que vous avez déjà",
+          "translations": {
+            "zh": "在你们已经拥有的一切之外",
+            "en": "in addition to everything you already have",
+            "es": "además de todo lo que ya tienen"
+          },
+          "start": 230.08,
+          "end": 231.36
+        },
+        {
+          "text": "ce magnifique terrain",
+          "translations": {
+            "zh": "这片美丽的场地",
+            "en": "this magnificent grounds",
+            "es": "este magnífico terreno?"
+          },
+          "start": 231.36,
+          "end": 232.4
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "text": "Nous on a une vocation entre autres comme organisme de faire vivre les artistes et de voir les projets naissants comme ça",
+      "translations": {
+        "zh": "我们作为机构，使命之一就是让艺术家活跃起来，并看到这样刚刚萌芽的项目",
+        "en": "We have a vocation among other things as an organization to bring artists to life and to see emerging projects like this",
+        "es": "Nosotros tenemos una vocación entre otras como organización de hacer vivir a los artistas y de ver los proyectos nacientes así"
+      },
+      "start": 232.64,
+      "end": 238.32,
+      "words": [
+        {
+          "text": "Nous",
+          "start": 232.64,
+          "end": 232.72
+        },
+        {
+          "text": "on",
+          "start": 232.72,
+          "end": 232.88
+        },
+        {
+          "text": "a",
+          "start": 232.88,
+          "end": 232.96
+        },
+        {
+          "text": "une",
+          "start": 233.36,
+          "end": 233.36
+        },
+        {
+          "text": "vocation",
+          "start": 233.36,
+          "end": 234.0
+        },
+        {
+          "text": "entre",
+          "start": 234.0,
+          "end": 234.16
+        },
+        {
+          "text": "autres",
+          "start": 234.24,
+          "end": 234.4
+        },
+        {
+          "text": "comme",
+          "start": 234.4,
+          "end": 234.48
+        },
+        {
+          "text": "organisme",
+          "start": 234.48,
+          "end": 235.12
+        },
+        {
+          "text": "de",
+          "start": 235.12,
+          "end": 235.12
+        },
+        {
+          "text": "faire",
+          "start": 235.12,
+          "end": 235.12
+        },
+        {
+          "text": "vivre",
+          "start": 235.84,
+          "end": 235.92
+        },
+        {
+          "text": "les",
+          "start": 235.92,
+          "end": 236.16
+        },
+        {
+          "text": "artistes",
+          "start": 236.16,
+          "end": 236.16
+        },
+        {
+          "text": "et",
+          "start": 236.72,
+          "end": 236.88
+        },
+        {
+          "text": "de",
+          "start": 236.88,
+          "end": 236.96
+        },
+        {
+          "text": "voir",
+          "start": 236.96,
+          "end": 237.12
+        },
+        {
+          "text": "les",
+          "start": 237.12,
+          "end": 237.28
+        },
+        {
+          "text": "projets",
+          "start": 237.28,
+          "end": 237.68
+        },
+        {
+          "text": "naissants",
+          "start": 237.68,
+          "end": 237.84
+        },
+        {
+          "text": "comme",
+          "start": 237.92,
+          "end": 238.16
+        },
+        {
+          "text": "ça",
+          "start": 238.16,
+          "end": 238.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Nous on a une vocation",
+          "translations": {
+            "zh": "我们有一种使命",
+            "en": "We have a vocation",
+            "es": "Nosotros tenemos una vocación"
+          },
+          "start": 232.64,
+          "end": 234.0
+        },
+        {
+          "text": "entre autres comme organisme",
+          "translations": {
+            "zh": "作为机构之一",
+            "en": "among other things as an organization",
+            "es": "entre otras como organización"
+          },
+          "start": 234.0,
+          "end": 235.12
+        },
+        {
+          "text": "de faire vivre les artistes",
+          "translations": {
+            "zh": "让艺术家活跃起来",
+            "en": "to bring artists to life",
+            "es": "de hacer vivir a los artistas"
+          },
+          "start": 235.12,
+          "end": 236.16
+        },
+        {
+          "text": "et de voir les projets naissants comme ça",
+          "translations": {
+            "zh": "并看到这样刚刚萌芽的项目",
+            "en": "and to see emerging projects like this",
+            "es": "y de ver los proyectos nacientes así"
+          },
+          "start": 236.72,
+          "end": 238.32
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "text": "Alors ce qui est particulier avec Lisan c'est qu'elle met la communauté à l'œuvre",
+      "translations": {
+        "zh": "而Lisan的特别之处在于，她让社区参与创作",
+        "en": "So what's special with Lisan is that she puts the community to work",
+        "es": "Entonces lo que es particular con Lisan es que ella pone a la comunidad a la obra"
+      },
+      "start": 238.96,
+      "end": 243.6,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 238.96,
+          "end": 239.04
+        },
+        {
+          "text": "ce",
+          "start": 239.28,
+          "end": 239.28
+        },
+        {
+          "text": "qui",
+          "start": 239.28,
+          "end": 239.28
+        },
+        {
+          "text": "est",
+          "start": 239.28,
+          "end": 239.28
+        },
+        {
+          "text": "particulier",
+          "start": 239.28,
+          "end": 239.76
+        },
+        {
+          "text": "avec",
+          "start": 239.76,
+          "end": 239.84
+        },
+        {
+          "text": "Lisan",
+          "start": 239.92,
+          "end": 240.72
+        },
+        {
+          "text": "c'est",
+          "start": 240.72,
+          "end": 240.96
+        },
+        {
+          "text": "qu'elle",
+          "start": 240.96,
+          "end": 241.2
+        },
+        {
+          "text": "met",
+          "start": 241.2,
+          "end": 241.6
+        },
+        {
+          "text": "la",
+          "start": 242.16,
+          "end": 242.4
+        },
+        {
+          "text": "communauté",
+          "start": 242.64,
+          "end": 243.2
+        },
+        {
+          "text": "à",
+          "start": 243.2,
+          "end": 243.28
+        },
+        {
+          "text": "l'œuvre",
+          "start": 243.28,
+          "end": 243.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors ce qui est particulier avec Lisan",
+          "translations": {
+            "zh": "而Lisan的特别之处在于",
+            "en": "So what's special with Lisan",
+            "es": "Entonces lo que es particular con Lisan"
+          },
+          "start": 238.96,
+          "end": 240.72
+        },
+        {
+          "text": "c'est qu'elle met la communauté à l'œuvre",
+          "translations": {
+            "zh": "她让社区参与创作",
+            "en": "is that she puts the community to work",
+            "es": "es que ella pone a la comunidad a la obra"
+          },
+          "start": 240.72,
+          "end": 243.6
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "text": "Alors c'est pas juste son travail à elle c'est elle qui devient un peu commissaire de la beauté",
+      "translations": {
+        "zh": "所以这不仅仅是她个人的作品，她有点成了美的策展人",
+        "en": "So it's not just her own work, she's the one who becomes a bit of a curator of beauty",
+        "es": "Entonces no es solo su trabajo de ella es ella quien se vuelve un poco comisaria de la belleza"
+      },
+      "start": 243.6,
+      "end": 247.2,
+      "words": [
+        {
+          "text": "Alors",
+          "start": 243.6,
+          "end": 243.92
+        },
+        {
+          "text": "c'est",
+          "start": 243.92,
+          "end": 243.92
+        },
+        {
+          "text": "pas",
+          "start": 243.92,
+          "end": 243.92
+        },
+        {
+          "text": "juste",
+          "start": 243.92,
+          "end": 244.24
+        },
+        {
+          "text": "son",
+          "start": 244.24,
+          "end": 244.4
+        },
+        {
+          "text": "travail",
+          "start": 244.4,
+          "end": 244.96
+        },
+        {
+          "text": "à",
+          "start": 244.96,
+          "end": 244.96
+        },
+        {
+          "text": "elle",
+          "start": 244.96,
+          "end": 244.96
+        },
+        {
+          "text": "c'est",
+          "start": 244.96,
+          "end": 245.2
+        },
+        {
+          "text": "elle",
+          "start": 245.2,
+          "end": 245.44
+        },
+        {
+          "text": "qui",
+          "start": 245.44,
+          "end": 245.6
+        },
+        {
+          "text": "devient",
+          "start": 245.6,
+          "end": 245.76
+        },
+        {
+          "text": "un",
+          "start": 245.76,
+          "end": 245.84
+        },
+        {
+          "text": "peu",
+          "start": 245.84,
+          "end": 245.92
+        },
+        {
+          "text": "commissaire",
+          "start": 246.0,
+          "end": 246.56
+        },
+        {
+          "text": "de",
+          "start": 246.56,
+          "end": 246.72
+        },
+        {
+          "text": "la",
+          "start": 246.72,
+          "end": 246.72
+        },
+        {
+          "text": "beauté",
+          "start": 246.72,
+          "end": 247.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Alors c'est pas juste son travail à elle",
+          "translations": {
+            "zh": "所以这不仅仅是她个人的作品",
+            "en": "So it's not just her own work",
+            "es": "Entonces no es solo su trabajo de ella"
+          },
+          "start": 243.6,
+          "end": 244.96
+        },
+        {
+          "text": "c'est elle qui devient un peu",
+          "translations": {
+            "zh": "她有点成了",
+            "en": "she's the one who becomes a bit",
+            "es": "es ella quien se vuelve un poco"
+          },
+          "start": 244.96,
+          "end": 245.92
+        },
+        {
+          "text": "commissaire de la beauté",
+          "translations": {
+            "zh": "美的策展人",
+            "en": "of a curator of beauty",
+            "es": "comisaria de la belleza"
+          },
+          "start": 246.0,
+          "end": 247.2
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "text": "Les jeunes sont mis à contribuer à la beauté",
+      "translations": {
+        "zh": "年轻人也被带动来为美做贡献",
+        "en": "The young people are brought in to contribute to beauty",
+        "es": "Los jóvenes son puestos a contribuir a la belleza"
+      },
+      "start": 247.76,
+      "end": 250.0,
+      "words": [
+        {
+          "text": "Les",
+          "start": 247.76,
+          "end": 247.84
+        },
+        {
+          "text": "jeunes",
+          "start": 247.84,
+          "end": 248.08
+        },
+        {
+          "text": "sont",
+          "start": 248.08,
+          "end": 248.48
+        },
+        {
+          "text": "mis",
+          "start": 248.48,
+          "end": 248.64
+        },
+        {
+          "text": "à",
+          "start": 248.64,
+          "end": 248.8
+        },
+        {
+          "text": "contribuer",
+          "start": 248.8,
+          "end": 249.44
+        },
+        {
+          "text": "à",
+          "start": 249.44,
+          "end": 249.52
+        },
+        {
+          "text": "la",
+          "start": 249.52,
+          "end": 249.52
+        },
+        {
+          "text": "beauté",
+          "start": 249.6,
+          "end": 250.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les jeunes sont mis à contribuer",
+          "translations": {
+            "zh": "年轻人也被带动来贡献",
+            "en": "The young people are brought in to contribute",
+            "es": "Los jóvenes son puestos a contribuir"
+          },
+          "start": 247.76,
+          "end": 249.44
+        },
+        {
+          "text": "à la beauté",
+          "translations": {
+            "zh": "为美",
+            "en": "to beauty",
+            "es": "a la belleza"
+          },
+          "start": 249.44,
+          "end": 250.0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "text": "D'ailleurs j'imagine que les enfants vont venir ici ils vont être ravis puis les parents vont venir bref",
+      "translations": {
+        "zh": "而且我想孩子们会来这里，他们会很高兴，然后父母也会来，总之",
+        "en": "Besides I imagine that the children will come here, they'll be delighted, and the parents will come, in short",
+        "es": "Por cierto me imagino que los niños van a venir aquí van a estar encantados y los padres van a venir en fin"
+      },
+      "start": 250.16,
+      "end": 254.64,
+      "words": [
+        {
+          "text": "D'ailleurs",
+          "start": 250.16,
+          "end": 250.56
+        },
+        {
+          "text": "j'imagine",
+          "start": 250.88,
+          "end": 251.6
+        },
+        {
+          "text": "que",
+          "start": 251.6,
+          "end": 251.68
+        },
+        {
+          "text": "les",
+          "start": 251.68,
+          "end": 251.84
+        },
+        {
+          "text": "enfants",
+          "start": 251.84,
+          "end": 252.16
+        },
+        {
+          "text": "vont",
+          "start": 252.16,
+          "end": 252.32
+        },
+        {
+          "text": "venir",
+          "start": 252.32,
+          "end": 252.56
+        },
+        {
+          "text": "ici",
+          "start": 252.56,
+          "end": 252.8
+        },
+        {
+          "text": "ils",
+          "start": 252.8,
+          "end": 252.88
+        },
+        {
+          "text": "vont",
+          "start": 252.88,
+          "end": 252.88
+        },
+        {
+          "text": "être",
+          "start": 252.88,
+          "end": 252.96
+        },
+        {
+          "text": "ravis",
+          "start": 253.04,
+          "end": 253.36
+        },
+        {
+          "text": "puis",
+          "start": 253.36,
+          "end": 253.68
+        },
+        {
+          "text": "les",
+          "start": 253.712,
+          "end": 253.744
+        },
+        {
+          "text": "parents",
+          "start": 253.776,
+          "end": 253.808
+        },
+        {
+          "text": "vont",
+          "start": 253.84,
+          "end": 254.16
+        },
+        {
+          "text": "venir",
+          "start": 254.16,
+          "end": 254.32
+        },
+        {
+          "text": "bref",
+          "start": 254.4,
+          "end": 254.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "D'ailleurs j'imagine que",
+          "translations": {
+            "zh": "而且我想",
+            "en": "Besides I imagine that",
+            "es": "Por cierto me imagino que"
+          },
+          "start": 250.16,
+          "end": 251.68
+        },
+        {
+          "text": "les enfants vont venir ici",
+          "translations": {
+            "zh": "孩子们会来这里",
+            "en": "the children will come here",
+            "es": "los niños van a venir aquí"
+          },
+          "start": 251.68,
+          "end": 252.8
+        },
+        {
+          "text": "ils vont être ravis",
+          "translations": {
+            "zh": "他们会很高兴",
+            "en": "they'll be delighted",
+            "es": "van a estar encantados"
+          },
+          "start": 252.8,
+          "end": 253.36
+        },
+        {
+          "text": "puis les parents vont venir",
+          "translations": {
+            "zh": "然后父母也会来",
+            "en": "and the parents will come",
+            "es": "y los padres van a venir"
+          },
+          "start": 253.36,
+          "end": 254.32
+        },
+        {
+          "text": "bref",
+          "translations": {
+            "zh": "总之",
+            "en": "in short",
+            "es": "en fin"
+          },
+          "start": 254.4,
+          "end": 254.64
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "text": "Pour nous c'est bien sûr une belle annonce",
+      "translations": {
+        "zh": "对我们来说，这当然是个好消息",
+        "en": "For us it's of course a beautiful announcement",
+        "es": "Para nosotros es por supuesto un hermoso anuncio"
+      },
+      "start": 254.64,
+      "end": 256.72,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 254.64,
+          "end": 254.88
+        },
+        {
+          "text": "nous",
+          "start": 254.88,
+          "end": 255.04
+        },
+        {
+          "text": "c'est",
+          "start": 255.04,
+          "end": 255.12
+        },
+        {
+          "text": "bien",
+          "start": 255.12,
+          "end": 255.28
+        },
+        {
+          "text": "sûr",
+          "start": 255.28,
+          "end": 255.44
+        },
+        {
+          "text": "une",
+          "start": 255.44,
+          "end": 255.6
+        },
+        {
+          "text": "belle",
+          "start": 256.16,
+          "end": 256.16
+        },
+        {
+          "text": "annonce",
+          "start": 256.32,
+          "end": 256.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour nous",
+          "translations": {
+            "zh": "对我们来说",
+            "en": "For us",
+            "es": "Para nosotros"
+          },
+          "start": 254.64,
+          "end": 255.04
+        },
+        {
+          "text": "c'est bien sûr une belle annonce",
+          "translations": {
+            "zh": "这当然是个好消息",
+            "en": "it's of course a beautiful announcement",
+            "es": "es por supuesto un hermoso anuncio"
+          },
+          "start": 255.04,
+          "end": 256.72
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "text": "Mais c'était aussi une façon intéressante de tisser des liens plus forts avec la communauté autour",
+      "translations": {
+        "zh": "但这也是一种有趣的方式，与周围的社区建立更牢固的联系",
+        "en": "But it was also an interesting way to weave stronger bonds with the surrounding community",
+        "es": "Pero era también una forma interesante de tejer lazos más fuertes con la comunidad de alrededor"
+      },
+      "start": 256.72,
+      "end": 261.68,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 256.72,
+          "end": 256.8
+        },
+        {
+          "text": "c'était",
+          "start": 256.8,
+          "end": 256.96
+        },
+        {
+          "text": "aussi",
+          "start": 256.96,
+          "end": 257.2
+        },
+        {
+          "text": "une",
+          "start": 257.2,
+          "end": 257.52
+        },
+        {
+          "text": "façon",
+          "start": 258.16,
+          "end": 258.16
+        },
+        {
+          "text": "intéressante",
+          "start": 259.04,
+          "end": 259.04
+        },
+        {
+          "text": "de",
+          "start": 259.04,
+          "end": 259.28
+        },
+        {
+          "text": "tisser",
+          "start": 259.68,
+          "end": 259.92
+        },
+        {
+          "text": "des",
+          "start": 259.92,
+          "end": 259.92
+        },
+        {
+          "text": "liens",
+          "start": 260.0,
+          "end": 260.24
+        },
+        {
+          "text": "plus",
+          "start": 260.24,
+          "end": 260.32
+        },
+        {
+          "text": "forts",
+          "start": 260.32,
+          "end": 260.448
+        },
+        {
+          "text": "avec",
+          "start": 260.576,
+          "end": 260.704
+        },
+        {
+          "text": "la",
+          "start": 260.832,
+          "end": 260.96
+        },
+        {
+          "text": "communauté",
+          "start": 260.96,
+          "end": 261.44
+        },
+        {
+          "text": "autour",
+          "start": 261.44,
+          "end": 261.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais c'était aussi",
+          "translations": {
+            "zh": "但这也是",
+            "en": "But it was also",
+            "es": "Pero era también"
+          },
+          "start": 256.72,
+          "end": 257.2
+        },
+        {
+          "text": "une façon intéressante",
+          "translations": {
+            "zh": "一种有趣的方式",
+            "en": "an interesting way",
+            "es": "una forma interesante"
+          },
+          "start": 257.2,
+          "end": 259.04
+        },
+        {
+          "text": "de tisser des liens plus forts",
+          "translations": {
+            "zh": "建立更牢固的联系",
+            "en": "to weave stronger bonds",
+            "es": "de tejer lazos más fuertes"
+          },
+          "start": 259.04,
+          "end": 260.448
+        },
+        {
+          "text": "avec la communauté autour",
+          "translations": {
+            "zh": "与周围的社区",
+            "en": "with the surrounding community",
+            "es": "con la comunidad de alrededor"
+          },
+          "start": 260.576,
+          "end": 261.68
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "text": "Commissaire de la beauté j'imagine que c'est un titre qui te plaît bien ça",
+      "translations": {
+        "zh": "美的策展人，我想你应该很喜欢这个头衔",
+        "en": "Curator of beauty, I imagine that's a title that you quite like",
+        "es": "Comisaria de la belleza me imagino que es un título que te gusta mucho eso"
+      },
+      "start": 262.32,
+      "end": 264.48,
+      "words": [
+        {
+          "text": "Commissaire",
+          "start": 262.32,
+          "end": 262.64
+        },
+        {
+          "text": "de",
+          "start": 262.64,
+          "end": 262.66
+        },
+        {
+          "text": "la",
+          "start": 262.68,
+          "end": 262.7
+        },
+        {
+          "text": "beauté",
+          "start": 262.72,
+          "end": 263.04
+        },
+        {
+          "text": "j'imagine",
+          "start": 263.04,
+          "end": 263.152
+        },
+        {
+          "text": "que",
+          "start": 263.264,
+          "end": 263.376
+        },
+        {
+          "text": "c'est",
+          "start": 263.488,
+          "end": 263.6
+        },
+        {
+          "text": "un",
+          "start": 263.6,
+          "end": 263.6
+        },
+        {
+          "text": "titre",
+          "start": 263.6,
+          "end": 263.84
+        },
+        {
+          "text": "qui",
+          "start": 263.84,
+          "end": 264.0
+        },
+        {
+          "text": "te",
+          "start": 264.0,
+          "end": 264.0
+        },
+        {
+          "text": "plaît",
+          "start": 264.0,
+          "end": 264.24
+        },
+        {
+          "text": "bien",
+          "start": 264.24,
+          "end": 264.24
+        },
+        {
+          "text": "ça",
+          "start": 264.24,
+          "end": 264.48
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Commissaire de la beauté",
+          "translations": {
+            "zh": "美的策展人",
+            "en": "Curator of beauty",
+            "es": "Comisaria de la belleza"
+          },
+          "start": 262.32,
+          "end": 263.04
+        },
+        {
+          "text": "j'imagine que c'est un titre",
+          "translations": {
+            "zh": "我想这是一个",
+            "en": "I imagine that's a title",
+            "es": "me imagino que es un título"
+          },
+          "start": 263.04,
+          "end": 263.84
+        },
+        {
+          "text": "qui te plaît bien ça",
+          "translations": {
+            "zh": "你很喜欢的头衔",
+            "en": "that you quite like",
+            "es": "que te gusta mucho eso"
+          },
+          "start": 263.84,
+          "end": 264.48
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "text": "Dans un CV ça se place bien",
+      "translations": {
+        "zh": "放在简历里很好看",
+        "en": "On a résumé it looks good",
+        "es": "En un currículum eso se coloca bien"
+      },
+      "start": 264.48,
+      "end": 265.68,
+      "words": [
+        {
+          "text": "Dans",
+          "start": 264.48,
+          "end": 264.48
+        },
+        {
+          "text": "un",
+          "start": 264.48,
+          "end": 264.62
+        },
+        {
+          "text": "CV",
+          "start": 264.76,
+          "end": 264.9
+        },
+        {
+          "text": "ça",
+          "start": 265.04,
+          "end": 265.2
+        },
+        {
+          "text": "se",
+          "start": 265.2,
+          "end": 265.2
+        },
+        {
+          "text": "place",
+          "start": 265.28,
+          "end": 265.44
+        },
+        {
+          "text": "bien",
+          "start": 265.44,
+          "end": 265.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dans un CV",
+          "translations": {
+            "zh": "放在简历里",
+            "en": "On a résumé",
+            "es": "En un currículum"
+          },
+          "start": 264.48,
+          "end": 264.9
+        },
+        {
+          "text": "ça se place bien",
+          "translations": {
+            "zh": "很好看",
+            "en": "it looks good",
+            "es": "eso se coloca bien"
+          },
+          "start": 265.04,
+          "end": 265.68
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "text": "Ah",
+      "translations": {
+        "zh": "啊",
+        "en": "Ah",
+        "es": "Ah"
+      },
+      "start": 265.68,
+      "end": 266.56,
+      "words": [
+        {
+          "text": "Ah",
+          "start": 265.68,
+          "end": 266.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ah",
+          "translations": {
+            "zh": "啊",
+            "en": "Ah",
+            "es": "Ah"
+          },
+          "start": 265.68,
+          "end": 266.56
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "text": "Merci Alexander",
+      "translations": {
+        "zh": "谢谢Alexander",
+        "en": "Thank you Alexander",
+        "es": "Gracias Alexander"
+      },
+      "start": 266.56,
+      "end": 267.2,
+      "words": [
+        {
+          "text": "Merci",
+          "start": 266.56,
+          "end": 266.56
+        },
+        {
+          "text": "Alexander",
+          "start": 266.56,
+          "end": 267.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Merci Alexander",
+          "translations": {
+            "zh": "谢谢Alexander",
+            "en": "Thank you Alexander",
+            "es": "Gracias Alexander"
+          },
+          "start": 266.56,
+          "end": 267.2
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "text": "C'est vraiment le fun",
+      "translations": {
+        "zh": "这真的很有趣",
+        "en": "It's really fun",
+        "es": "Es realmente divertido"
+      },
+      "start": 267.697,
+      "end": 271.177,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 267.697,
+          "end": 268.194
+        },
+        {
+          "text": "vraiment",
+          "start": 268.691,
+          "end": 269.188
+        },
+        {
+          "text": "le",
+          "start": 269.685,
+          "end": 270.182
+        },
+        {
+          "text": "fun",
+          "start": 270.68,
+          "end": 271.177
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est vraiment le fun",
+          "translations": {
+            "zh": "这真的很有趣",
+            "en": "It's really fun",
+            "es": "Es realmente divertido"
+          },
+          "start": 267.697,
+          "end": 271.177
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "text": "Moi j'ai toujours aimé l'artisanat et c'est beau de voir des artisans parce que c'est comme ça que je les appelle que ce soit Marc ou Lisan à l'œuvre",
+      "translations": {
+        "zh": "我一直喜欢手工艺，看到工匠们在创作很美，因为我是这样称呼他们的，无论是Marc还是Lisan",
+        "en": "I've always loved craftsmanship and it's beautiful to see craftspeople, because that's what I call them, whether it's Marc or Lisan, at work",
+        "es": "Yo siempre me ha gustado la artesanía y es bonito ver a artesanos porque es así como yo los llamo ya sea Marc o Lisan en la obra"
+      },
+      "start": 271.674,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 271.674,
+          "end": 272.171
+        },
+        {
+          "text": "j'ai",
+          "start": 272.668,
+          "end": 273.165
+        },
+        {
+          "text": "toujours",
+          "start": 273.662,
+          "end": 274.16
+        },
+        {
+          "text": "aimé",
+          "start": 274.16,
+          "end": 274.16
+        },
+        {
+          "text": "l'artisanat",
+          "start": 274.4,
+          "end": 274.52
+        },
+        {
+          "text": "et",
+          "start": 274.64,
+          "end": 274.76
+        },
+        {
+          "text": "c'est",
+          "start": 274.88,
+          "end": 275.0
+        },
+        {
+          "text": "beau",
+          "start": 275.12,
+          "end": 275.24
+        },
+        {
+          "text": "de",
+          "start": 275.36,
+          "end": 275.36
+        },
+        {
+          "text": "voir",
+          "start": 275.546,
+          "end": 275.733
+        },
+        {
+          "text": "des",
+          "start": 275.92,
+          "end": 276.106
+        },
+        {
+          "text": "artisans",
+          "start": 276.293,
+          "end": 276.48
+        },
+        {
+          "text": "parce",
+          "start": 276.48,
+          "end": 276.48
+        },
+        {
+          "text": "que",
+          "start": 276.64,
+          "end": 276.64
+        },
+        {
+          "text": "c'est",
+          "start": 276.88,
+          "end": 276.88
+        },
+        {
+          "text": "comme",
+          "start": 276.88,
+          "end": 276.94
+        },
+        {
+          "text": "ça",
+          "start": 277.0,
+          "end": 277.06
+        },
+        {
+          "text": "que",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "je",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "les",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "appelle",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "que",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "ce",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "soit",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "Marc",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "ou",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "Lisan",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "à",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "l'œuvre",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi j'ai toujours aimé l'artisanat",
+          "translations": {
+            "zh": "我一直喜欢手工艺",
+            "en": "I've always loved craftsmanship",
+            "es": "Yo siempre me ha gustado la artesanía"
+          },
+          "start": 271.674,
+          "end": 274.52
+        },
+        {
+          "text": "et c'est beau de voir des artisans",
+          "translations": {
+            "zh": "看到工匠们很美",
+            "en": "and it's beautiful to see craftspeople",
+            "es": "y es bonito ver a artesanos"
+          },
+          "start": 274.64,
+          "end": 276.48
+        },
+        {
+          "text": "parce que c'est comme ça que je les appelle",
+          "translations": {
+            "zh": "因为我是这样称呼他们的",
+            "en": "because that's what I call them",
+            "es": "porque es así como yo los llamo"
+          },
+          "start": 276.48,
+          "end": 277.12
+        },
+        {
+          "text": "que ce soit Marc ou Lisan à l'œuvre",
+          "translations": {
+            "zh": "无论是Marc还是Lisan在创作",
+            "en": "whether it's Marc or Lisan at work",
+            "es": "ya sea Marc o Lisan en la obra"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "text": "C'est super beau et c'est beaucoup plus compliqué que je pensais",
+      "translations": {
+        "zh": "超级漂亮，而且比我想的要复杂得多",
+        "en": "It's super beautiful and it's much more complicated than I thought",
+        "es": "Es súper bonito y es mucho más complicado de lo que pensaba"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "super",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "beau",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "et",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "c'est",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "beaucoup",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "plus",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "compliqué",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "que",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "je",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "pensais",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est super beau",
+          "translations": {
+            "zh": "超级漂亮",
+            "en": "It's super beautiful",
+            "es": "Es súper bonito"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "et c'est beaucoup plus compliqué",
+          "translations": {
+            "zh": "而且复杂得多",
+            "en": "and it's much more complicated",
+            "es": "y es mucho más complicado"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "que je pensais",
+          "translations": {
+            "zh": "比我想的",
+            "en": "than I thought",
+            "es": "de lo que pensaba"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "text": "Moi je serais incapable",
+      "translations": {
+        "zh": "我做不到",
+        "en": "I would be incapable",
+        "es": "Yo sería incapaz"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Moi",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "je",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "serais",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "incapable",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Moi je serais incapable",
+          "translations": {
+            "zh": "我做不到",
+            "en": "I would be incapable",
+            "es": "Yo sería incapaz"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "text": "T'as pas juste immigré",
+      "translations": {
+        "zh": "你不只是移民了",
+        "en": "You haven't just immigrated",
+        "es": "No solo inmigraste"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "T'as",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "pas",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "juste",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "immigré",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "T'as pas juste immigré",
+          "translations": {
+            "zh": "你不只是移民了",
+            "en": "You haven't just immigrated",
+            "es": "No solo inmigraste"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "text": "T'es en train de laisser ta trace là de façon permanente",
+      "translations": {
+        "zh": "你正在那里永久地留下你的痕迹",
+        "en": "You're leaving your mark there in a permanent way",
+        "es": "Estás dejando tu huella ahí de forma permanente"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "T'es",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "en",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "train",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "laisser",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "ta",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "trace",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "là",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "façon",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "permanente",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "T'es en train de laisser ta trace là",
+          "translations": {
+            "zh": "你正在那里留下你的痕迹",
+            "en": "You're leaving your mark there",
+            "es": "Estás dejando tu huella ahí"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de façon permanente",
+          "translations": {
+            "zh": "永久地",
+            "en": "in a permanent way",
+            "es": "de forma permanente"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "text": "Pour moi immigration c'est aussi s'ancrer dans la région puis de pousser nos racines",
+      "translations": {
+        "zh": "对我来说，移民也是在这个地区扎根，然后让我们的根生长",
+        "en": "For me immigration is also anchoring oneself in the region and growing our roots",
+        "es": "Para mí la inmigración es también echar raíces en la región y hacer crecer nuestras raíces"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Pour",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "moi",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "immigration",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "c'est",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "aussi",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "s'ancrer",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "dans",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "la",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "région",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "puis",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "pousser",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "nos",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "racines",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Pour moi immigration",
+          "translations": {
+            "zh": "对我来说移民",
+            "en": "For me immigration",
+            "es": "Para mí la inmigración"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "c'est aussi s'ancrer dans la région",
+          "translations": {
+            "zh": "也是在这个地区扎根",
+            "en": "is also anchoring oneself in the region",
+            "es": "es también echar raíces en la región"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "puis de pousser nos racines",
+          "translations": {
+            "zh": "然后让我们的根生长",
+            "en": "and growing our roots",
+            "es": "y hacer crecer nuestras raíces"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "text": "Donc pour moi de pouvoir avoir un espace de voir les œuvres communautaires que je fais partie peut avoir ce genre d'ancrage de racine ça me fait tellement fière puis tellement",
+      "translations": {
+        "zh": "所以对我来说，能有一个空间，看到我所参与的社区作品，能有这种扎根的感觉，这让我非常自豪，而且非常",
+        "en": "So for me, to be able to have a space, to see the community works that I'm part of, that can have this kind of taking root, it makes me so proud and so",
+        "es": "Entonces para mí poder tener un espacio de ver las obras comunitarias de las que formo parte poder tener este tipo de anclaje de raíz eso me hace tan orgullosa y tan"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Donc",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "pour",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "moi",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "pouvoir",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "avoir",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "un",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "espace",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "voir",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "les",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "œuvres",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "communautaires",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "que",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "je",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "fais",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "partie",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "peut",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "avoir",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "ce",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "genre",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "d'ancrage",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "racine",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "ça",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "me",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "fait",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "tellement",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "fière",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "puis",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "tellement",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Donc pour moi",
+          "translations": {
+            "zh": "所以对我来说",
+            "en": "So for me",
+            "es": "Entonces para mí"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de pouvoir avoir un espace",
+          "translations": {
+            "zh": "能有一个空间",
+            "en": "to be able to have a space",
+            "es": "poder tener un espacio"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de voir les œuvres communautaires",
+          "translations": {
+            "zh": "看到社区作品",
+            "en": "to see the community works",
+            "es": "de ver las obras comunitarias"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "que je fais partie",
+          "translations": {
+            "zh": "我所参与的",
+            "en": "that I'm part of",
+            "es": "de las que formo parte"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "peut avoir ce genre d'ancrage de racine",
+          "translations": {
+            "zh": "能有这种扎根的感觉",
+            "en": "that can have this kind of taking root",
+            "es": "poder tener este tipo de anclaje de raíz"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "ça me fait tellement fière",
+          "translations": {
+            "zh": "这让我非常自豪",
+            "en": "it makes me so proud",
+            "es": "eso me hace tan orgullosa"
+          },
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "puis tellement",
+          "translations": {
+            "zh": "而且非常",
+            "en": "and so",
+            "es": "y tan"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "text": "je suis honorée",
+      "translations": {
+        "zh": "我感到荣幸",
+        "en": "I'm honored",
+        "es": "estoy honrada"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "je",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "suis",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "honorée",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "je suis honorée",
+          "translations": {
+            "zh": "我感到荣幸",
+            "en": "I'm honored",
+            "es": "estoy honrada"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "text": "T'es là pour de bon là",
+      "translations": {
+        "zh": "你真的在这里了",
+        "en": "You're here for good now",
+        "es": "Estás aquí de verdad ahora"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "T'es",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "là",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "pour",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "de",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "bon",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "là",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "T'es là pour de bon là",
+          "translations": {
+            "zh": "你真的在这里了",
+            "en": "You're here for good now",
+            "es": "Estás aquí de verdad ahora"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "text": "Ha",
+      "translations": {
+        "zh": "哈",
+        "en": "Ha",
+        "es": "Ja"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Ha",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ha",
+          "translations": {
+            "zh": "哈",
+            "en": "Ha",
+            "es": "Ja"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "text": "Ha",
+      "translations": {
+        "zh": "哈",
+        "en": "Ha",
+        "es": "Ja"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Ha",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ha",
+          "translations": {
+            "zh": "哈",
+            "en": "Ha",
+            "es": "Ja"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "text": "Ha!",
+      "translations": {
+        "zh": "哈！",
+        "en": "Ha!",
+        "es": "¡Ja!"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Ha",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ha!",
+          "translations": {
+            "zh": "哈！",
+            "en": "Ha!",
+            "es": "¡Ja!"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "text": "Tu n'as plus le choix",
+      "translations": {
+        "zh": "你没有别的选择了",
+        "en": "You no longer have a choice",
+        "es": "Ya no tienes elección"
+      },
+      "start": 277.12,
+      "end": 277.12,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "n'as",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "plus",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "le",
+          "start": 277.12,
+          "end": 277.12
+        },
+        {
+          "text": "choix",
+          "start": 277.12,
+          "end": 277.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tu n'as plus le choix",
+          "translations": {
+            "zh": "你没有别的选择了",
+            "en": "You no longer have a choice",
+            "es": "Ya no tienes elección"
+          },
+          "start": 277.12,
+          "end": 277.12
+        }
+      ]
+    }
+  ],
+  "id": "Lisan, l'artiste",
+  "audio_filename": "Lisan, l'artiste.mp3",
+  "audio_path": "downloads/tv5_immigrants_de_souche/Lisan, l'artiste.mp3",
+  "episode": 3
+}

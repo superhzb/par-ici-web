@@ -1,0 +1,5153 @@
+{
+  "sentences": [
+    {
+      "id": 1,
+      "text": "Je m'en vais rencontrer Spomenka et Milenko Adzic, qui sont un couple, qui viennent d'exYougoslavie, qui se sont installés dans cette région.",
+      "translations": {
+        "zh": "我要去见斯波缅卡和米连科·阿吉奇，他们是一对夫妻，来自前南斯拉夫，在这个地区定居了下来。",
+        "en": "I'm going to meet Spomenka and Milenko Adzic, who are a couple, who come from former Yugoslavia, who settled in this region.",
+        "es": "Voy a conocer a Spomenka y Milenko Adzic, que son una pareja, que vienen de ex-Yugoslavia, que se establecieron en esta región."
+      },
+      "start": 1.2,
+      "end": 12.96,
+      "words": [
+        {
+          "text": "Je",
+          "start": 1.2,
+          "end": 3.36
+        },
+        {
+          "text": "m'en",
+          "start": 5.6,
+          "end": 5.68
+        },
+        {
+          "text": "vais",
+          "start": 5.68,
+          "end": 6.32
+        },
+        {
+          "text": "rencontrer",
+          "start": 6.32,
+          "end": 6.96
+        },
+        {
+          "text": "Spomenka",
+          "start": 7.04,
+          "end": 7.76
+        },
+        {
+          "text": "et",
+          "start": 7.76,
+          "end": 7.84
+        },
+        {
+          "text": "Milenko",
+          "start": 7.84,
+          "end": 8.24
+        },
+        {
+          "text": "Adzic",
+          "start": 8.24,
+          "end": 8.8
+        },
+        {
+          "text": "qui",
+          "start": 8.8,
+          "end": 8.96
+        },
+        {
+          "text": "sont",
+          "start": 8.96,
+          "end": 9.12
+        },
+        {
+          "text": "un",
+          "start": 9.12,
+          "end": 9.28
+        },
+        {
+          "text": "couple",
+          "start": 9.28,
+          "end": 9.76
+        },
+        {
+          "text": "qui",
+          "start": 9.76,
+          "end": 9.84
+        },
+        {
+          "text": "viennent",
+          "start": 9.84,
+          "end": 10.0
+        },
+        {
+          "text": "d'exYougoslavie",
+          "start": 10.0,
+          "end": 10.88
+        },
+        {
+          "text": "qui",
+          "start": 11.52,
+          "end": 11.6
+        },
+        {
+          "text": "se",
+          "start": 11.6,
+          "end": 11.76
+        },
+        {
+          "text": "sont",
+          "start": 11.76,
+          "end": 11.76
+        },
+        {
+          "text": "installés",
+          "start": 11.84,
+          "end": 12.16
+        },
+        {
+          "text": "dans",
+          "start": 12.16,
+          "end": 12.32
+        },
+        {
+          "text": "cette",
+          "start": 12.32,
+          "end": 12.48
+        },
+        {
+          "text": "région",
+          "start": 12.48,
+          "end": 12.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je m'en vais rencontrer Spomenka et Milenko Adzic,",
+          "translations": {
+            "zh": "我要去见斯波缅卡和米连科·阿吉奇，",
+            "en": "I'm going to meet Spomenka and Milenko Adzic,",
+            "es": "Voy a conocer a Spomenka y Milenko Adzic,"
+          },
+          "start": 1.2,
+          "end": 8.8
+        },
+        {
+          "text": "qui sont un couple,",
+          "translations": {
+            "zh": "他们是一对夫妻，",
+            "en": "who are a couple,",
+            "es": "que son una pareja,"
+          },
+          "start": 8.8,
+          "end": 9.76
+        },
+        {
+          "text": "qui viennent d'exYougoslavie,",
+          "translations": {
+            "zh": "他们来自前南斯拉夫，",
+            "en": "who come from former Yugoslavia,",
+            "es": "que vienen de ex-Yugoslavia,"
+          },
+          "start": 9.76,
+          "end": 10.88
+        },
+        {
+          "text": "qui se sont installés dans cette région.",
+          "translations": {
+            "zh": "他们在这个地区定居了下来。",
+            "en": "who settled in this region.",
+            "es": "que se establecieron en esta región."
+          },
+          "start": 11.52,
+          "end": 12.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "C'était parmi les premiers immigrants.",
+      "translations": {
+        "zh": "他们是最早的一批移民。",
+        "en": "They were among the first immigrants.",
+        "es": "Estaban entre los primeros inmigrantes."
+      },
+      "start": 12.96,
+      "end": 14.24,
+      "words": [
+        {
+          "text": "C'était",
+          "start": 12.96,
+          "end": 13.12
+        },
+        {
+          "text": "parmi",
+          "start": 13.12,
+          "end": 13.36
+        },
+        {
+          "text": "les",
+          "start": 13.36,
+          "end": 13.44
+        },
+        {
+          "text": "premiers",
+          "start": 13.44,
+          "end": 13.76
+        },
+        {
+          "text": "immigrants",
+          "start": 13.84,
+          "end": 14.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'était parmi les premiers immigrants.",
+          "translations": {
+            "zh": "他们是最早的一批移民。",
+            "en": "They were among the first immigrants.",
+            "es": "Estaban entre los primeros inmigrantes."
+          },
+          "start": 12.96,
+          "end": 14.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Puis ce qui est formidable, c'est qu'ils ont acheté le magasin général, qui est situé en plein cœur de la ville de Piopolis.",
+      "translations": {
+        "zh": "而且了不起的是，他们买下了那家杂货铺，它就位于皮奥波利斯市的正中心。",
+        "en": "And what's great is that they bought the general store, which is located right in the heart of the town of Piopolis.",
+        "es": "Y lo que es formidable, es que compraron la tienda general, que está situada en pleno corazón de la ciudad de Piopolis."
+      },
+      "start": 14.88,
+      "end": 19.68,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 14.88,
+          "end": 15.2
+        },
+        {
+          "text": "ce",
+          "start": 15.2,
+          "end": 15.2
+        },
+        {
+          "text": "qui",
+          "start": 15.2,
+          "end": 15.36
+        },
+        {
+          "text": "est",
+          "start": 15.36,
+          "end": 15.36
+        },
+        {
+          "text": "formidable",
+          "start": 15.36,
+          "end": 15.84
+        },
+        {
+          "text": "c'est",
+          "start": 15.84,
+          "end": 15.92
+        },
+        {
+          "text": "qu'ils",
+          "start": 15.92,
+          "end": 16.08
+        },
+        {
+          "text": "ont",
+          "start": 16.08,
+          "end": 16.16
+        },
+        {
+          "text": "acheté",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "text": "le",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "text": "magasin",
+          "start": 16.48,
+          "end": 16.88
+        },
+        {
+          "text": "général",
+          "start": 16.88,
+          "end": 17.44
+        },
+        {
+          "text": "qui",
+          "start": 17.68,
+          "end": 17.76
+        },
+        {
+          "text": "est",
+          "start": 17.76,
+          "end": 17.76
+        },
+        {
+          "text": "situé",
+          "start": 17.76,
+          "end": 18.08
+        },
+        {
+          "text": "en",
+          "start": 18.08,
+          "end": 18.16
+        },
+        {
+          "text": "plein",
+          "start": 18.16,
+          "end": 18.4
+        },
+        {
+          "text": "cœur",
+          "start": 18.4,
+          "end": 18.64
+        },
+        {
+          "text": "de",
+          "start": 18.64,
+          "end": 18.64
+        },
+        {
+          "text": "la",
+          "start": 18.64,
+          "end": 18.72
+        },
+        {
+          "text": "ville",
+          "start": 18.72,
+          "end": 18.88
+        },
+        {
+          "text": "de",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "text": "Piopolis",
+          "start": 18.96,
+          "end": 19.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis ce qui est formidable,",
+          "translations": {
+            "zh": "而且了不起的是，",
+            "en": "And what's great,",
+            "es": "Y lo que es formidable,"
+          },
+          "start": 14.88,
+          "end": 15.84
+        },
+        {
+          "text": "c'est qu'ils ont acheté le magasin général,",
+          "translations": {
+            "zh": "他们买下了那家杂货铺，",
+            "en": "is that they bought the general store,",
+            "es": "es que compraron la tienda general,"
+          },
+          "start": 15.84,
+          "end": 17.44
+        },
+        {
+          "text": "qui est situé en plein cœur de la ville de Piopolis.",
+          "translations": {
+            "zh": "它就位于皮奥波利斯市的正中心。",
+            "en": "which is located right in the heart of the town of Piopolis.",
+            "es": "que está situada en pleno corazón de la ciudad de Piopolis."
+          },
+          "start": 17.68,
+          "end": 19.68
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Et franchement, c'est une région magnifique.",
+      "translations": {
+        "zh": "而且说实话，这是一个非常美的地区。",
+        "en": "And frankly, it's a magnificent region.",
+        "es": "Y francamente, es una región magnífica."
+      },
+      "start": 20.48,
+      "end": 22.32,
+      "words": [
+        {
+          "text": "Et",
+          "start": 20.48,
+          "end": 20.64
+        },
+        {
+          "text": "franchement",
+          "start": 21.12,
+          "end": 21.36
+        },
+        {
+          "text": "c'est",
+          "start": 21.36,
+          "end": 21.52
+        },
+        {
+          "text": "une",
+          "start": 21.52,
+          "end": 21.6
+        },
+        {
+          "text": "région",
+          "start": 21.6,
+          "end": 21.84
+        },
+        {
+          "text": "magnifique",
+          "start": 21.84,
+          "end": 22.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et franchement,",
+          "translations": {
+            "zh": "而且说实话，",
+            "en": "And frankly,",
+            "es": "Y francamente,"
+          },
+          "start": 20.48,
+          "end": 21.36
+        },
+        {
+          "text": "c'est une région magnifique.",
+          "translations": {
+            "zh": "这是一个非常美的地区。",
+            "en": "it's a magnificent region.",
+            "es": "es una región magnífica."
+          },
+          "start": 21.36,
+          "end": 22.32
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "C'est très charmant, genre.",
+      "translations": {
+        "zh": "非常迷人，就是那种感觉。",
+        "en": "It's very charming, like.",
+        "es": "Es muy encantador, o sea."
+      },
+      "start": 22.64,
+      "end": 23.52,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 22.64,
+          "end": 22.72
+        },
+        {
+          "text": "très",
+          "start": 22.72,
+          "end": 22.96
+        },
+        {
+          "text": "charmant",
+          "start": 22.96,
+          "end": 23.36
+        },
+        {
+          "text": "genre",
+          "start": 23.36,
+          "end": 23.52
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est très charmant,",
+          "translations": {
+            "zh": "非常迷人，",
+            "en": "It's very charming,",
+            "es": "Es muy encantador,"
+          },
+          "start": 22.64,
+          "end": 23.36
+        },
+        {
+          "text": "genre.",
+          "translations": {
+            "zh": "就是那种感觉。",
+            "en": "like.",
+            "es": "o sea."
+          },
+          "start": 23.36,
+          "end": 23.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "J'étais jamais venu au lac Mégantic, mais c'est très, très beau.",
+      "translations": {
+        "zh": "我以前从没来过梅冈蒂克湖，但这里非常非常美。",
+        "en": "I had never been to Lake Mégantic, but it's very, very beautiful.",
+        "es": "Nunca había venido al lago Mégantic, pero es muy, muy bonito."
+      },
+      "start": 23.52,
+      "end": 25.6,
+      "words": [
+        {
+          "text": "J'étais",
+          "start": 23.52,
+          "end": 23.76
+        },
+        {
+          "text": "jamais",
+          "start": 23.76,
+          "end": 24.0
+        },
+        {
+          "text": "venu",
+          "start": 24.0,
+          "end": 24.16
+        },
+        {
+          "text": "au",
+          "start": 24.16,
+          "end": 24.16
+        },
+        {
+          "text": "lac",
+          "start": 24.16,
+          "end": 24.32
+        },
+        {
+          "text": "Mégantic",
+          "start": 24.32,
+          "end": 24.72
+        },
+        {
+          "text": "mais",
+          "start": 24.8,
+          "end": 24.8
+        },
+        {
+          "text": "c'est",
+          "start": 24.8,
+          "end": 24.96
+        },
+        {
+          "text": "très",
+          "start": 24.96,
+          "end": 25.28
+        },
+        {
+          "text": "très",
+          "start": 25.28,
+          "end": 25.44
+        },
+        {
+          "text": "beau",
+          "start": 25.44,
+          "end": 25.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'étais jamais venu au lac Mégantic,",
+          "translations": {
+            "zh": "我以前从没来过梅冈蒂克湖，",
+            "en": "I had never been to Lake Mégantic,",
+            "es": "Nunca había venido al lago Mégantic,"
+          },
+          "start": 23.52,
+          "end": 24.72
+        },
+        {
+          "text": "mais c'est très, très beau.",
+          "translations": {
+            "zh": "但这里非常非常美。",
+            "en": "but it's very, very beautiful.",
+            "es": "pero es muy, muy bonito."
+          },
+          "start": 24.8,
+          "end": 25.6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "J'ai hâte de les rencontrer parce qu'ils ont une histoire incroyable, et on me dit que Spomenka est la femme la plus douce que l'on peut rencontrer sur la Terre.",
+      "translations": {
+        "zh": "我迫不及待想见他们，因为他们有一段不可思议的经历，而且有人告诉我斯波缅卡是世上能遇到的最温柔的女人。",
+        "en": "I can't wait to meet them because they have an incredible story, and I'm told that Spomenka is the sweetest woman one can meet on Earth.",
+        "es": "Tengo muchas ganas de conocerlos porque tienen una historia increíble, y me dicen que Spomenka es la mujer más dulce que se puede conocer en la Tierra."
+      },
+      "start": 26.16,
+      "end": 32.8,
+      "words": [
+        {
+          "text": "J'ai",
+          "start": 26.16,
+          "end": 26.32
+        },
+        {
+          "text": "hâte",
+          "start": 26.32,
+          "end": 26.4
+        },
+        {
+          "text": "de",
+          "start": 26.4,
+          "end": 26.48
+        },
+        {
+          "text": "les",
+          "start": 26.48,
+          "end": 26.48
+        },
+        {
+          "text": "rencontrer",
+          "start": 26.48,
+          "end": 27.04
+        },
+        {
+          "text": "parce",
+          "start": 27.04,
+          "end": 27.2
+        },
+        {
+          "text": "qu'ils",
+          "start": 27.2,
+          "end": 27.36
+        },
+        {
+          "text": "ont",
+          "start": 27.36,
+          "end": 27.44
+        },
+        {
+          "text": "une",
+          "start": 27.44,
+          "end": 27.52
+        },
+        {
+          "text": "histoire",
+          "start": 27.52,
+          "end": 27.92
+        },
+        {
+          "text": "incroyable",
+          "start": 28.24,
+          "end": 28.8
+        },
+        {
+          "text": "et",
+          "start": 28.8,
+          "end": 28.8
+        },
+        {
+          "text": "on",
+          "start": 28.8,
+          "end": 28.8
+        },
+        {
+          "text": "me",
+          "start": 28.8,
+          "end": 28.96
+        },
+        {
+          "text": "dit",
+          "start": 28.96,
+          "end": 28.96
+        },
+        {
+          "text": "que",
+          "start": 28.96,
+          "end": 28.96
+        },
+        {
+          "text": "Spomenka",
+          "start": 30.08,
+          "end": 30.08
+        },
+        {
+          "text": "est",
+          "start": 30.08,
+          "end": 30.16
+        },
+        {
+          "text": "la",
+          "start": 30.16,
+          "end": 30.24
+        },
+        {
+          "text": "femme",
+          "start": 30.24,
+          "end": 30.48
+        },
+        {
+          "text": "la",
+          "start": 30.48,
+          "end": 30.56
+        },
+        {
+          "text": "plus",
+          "start": 30.56,
+          "end": 30.72
+        },
+        {
+          "text": "douce",
+          "start": 30.72,
+          "end": 31.2
+        },
+        {
+          "text": "que",
+          "start": 31.68,
+          "end": 31.76
+        },
+        {
+          "text": "l'on",
+          "start": 31.76,
+          "end": 31.84
+        },
+        {
+          "text": "peut",
+          "start": 31.84,
+          "end": 32.0
+        },
+        {
+          "text": "rencontrer",
+          "start": 32.0,
+          "end": 32.4
+        },
+        {
+          "text": "sur",
+          "start": 32.4,
+          "end": 32.56
+        },
+        {
+          "text": "la",
+          "start": 32.56,
+          "end": 32.8
+        },
+        {
+          "text": "Terre",
+          "start": 32.8,
+          "end": 32.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'ai hâte de les rencontrer",
+          "translations": {
+            "zh": "我迫不及待想见他们，",
+            "en": "I can't wait to meet them",
+            "es": "Tengo muchas ganas de conocerlos"
+          },
+          "start": 26.16,
+          "end": 27.04
+        },
+        {
+          "text": "parce qu'ils ont une histoire incroyable,",
+          "translations": {
+            "zh": "因为他们有一段不可思议的经历，",
+            "en": "because they have an incredible story,",
+            "es": "porque tienen una historia increíble,"
+          },
+          "start": 27.04,
+          "end": 28.8
+        },
+        {
+          "text": "et on me dit que Spomenka est la femme la plus douce",
+          "translations": {
+            "zh": "而且有人告诉我斯波缅卡是最温柔的女人，",
+            "en": "and I'm told that Spomenka is the sweetest woman",
+            "es": "y me dicen que Spomenka es la mujer más dulce"
+          },
+          "start": 28.8,
+          "end": 31.2
+        },
+        {
+          "text": "que l'on peut rencontrer sur la Terre.",
+          "translations": {
+            "zh": "是世上能遇到的最温柔的人。",
+            "en": "that one can meet on Earth.",
+            "es": "que se puede conocer en la Tierra."
+          },
+          "start": 31.68,
+          "end": 32.8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Ça fait que j'ai hâte d'aller les voir.",
+      "translations": {
+        "zh": "所以我迫不及待想去见他们。",
+        "en": "So I can't wait to go see them.",
+        "es": "Así que tengo muchas ganas de ir a verlos."
+      },
+      "start": 32.8,
+      "end": 33.68,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 32.8,
+          "end": 32.8
+        },
+        {
+          "text": "fait",
+          "start": 32.8,
+          "end": 32.8
+        },
+        {
+          "text": "que",
+          "start": 32.96,
+          "end": 33.04
+        },
+        {
+          "text": "j'ai",
+          "start": 33.04,
+          "end": 33.12
+        },
+        {
+          "text": "hâte",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "text": "d'aller",
+          "start": 33.28,
+          "end": 33.36
+        },
+        {
+          "text": "les",
+          "start": 33.44,
+          "end": 33.44
+        },
+        {
+          "text": "voir",
+          "start": 33.52,
+          "end": 33.68
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait que j'ai hâte d'aller les voir.",
+          "translations": {
+            "zh": "所以我迫不及待想去见他们。",
+            "en": "So I can't wait to go see them.",
+            "es": "Así que tengo muchas ganas de ir a verlos."
+          },
+          "start": 32.8,
+          "end": 33.68
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "On est à Piopolis, puis c'est tout au long d'une même rue.",
+      "translations": {
+        "zh": "我们在皮奥波利斯，一切都沿着同一条街。",
+        "en": "We're in Piopolis, and it's all along one same street.",
+        "es": "Estamos en Piopolis, y es todo a lo largo de una misma calle."
+      },
+      "start": 38.56,
+      "end": 41.28,
+      "words": [
+        {
+          "text": "On",
+          "start": 38.56,
+          "end": 38.64
+        },
+        {
+          "text": "est",
+          "start": 38.72,
+          "end": 38.8
+        },
+        {
+          "text": "à",
+          "start": 38.8,
+          "end": 38.8
+        },
+        {
+          "text": "Piopolis",
+          "start": 38.8,
+          "end": 39.36
+        },
+        {
+          "text": "puis",
+          "start": 39.36,
+          "end": 39.44
+        },
+        {
+          "text": "c'est",
+          "start": 39.44,
+          "end": 39.68
+        },
+        {
+          "text": "tout",
+          "start": 39.92,
+          "end": 40.0
+        },
+        {
+          "text": "au",
+          "start": 40.64,
+          "end": 40.64
+        },
+        {
+          "text": "long",
+          "start": 40.64,
+          "end": 40.8
+        },
+        {
+          "text": "d'une",
+          "start": 40.8,
+          "end": 40.96
+        },
+        {
+          "text": "même",
+          "start": 40.96,
+          "end": 41.12
+        },
+        {
+          "text": "rue",
+          "start": 41.2,
+          "end": 41.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est à Piopolis,",
+          "translations": {
+            "zh": "我们在皮奥波利斯，",
+            "en": "We're in Piopolis,",
+            "es": "Estamos en Piopolis,"
+          },
+          "start": 38.56,
+          "end": 39.36
+        },
+        {
+          "text": "puis c'est tout au long d'une même rue.",
+          "translations": {
+            "zh": "一切都沿着同一条街。",
+            "en": "and it's all along one same street.",
+            "es": "y es todo a lo largo de una misma calle."
+          },
+          "start": 39.36,
+          "end": 41.28
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Puis il y a absolument tout qui se passe du début à la fin de cette rue.",
+      "translations": {
+        "zh": "从这条街这头到那头，所有的事情都在发生。",
+        "en": "And there's absolutely everything that happens from the beginning to the end of this street.",
+        "es": "Y hay absolutamente todo lo que pasa del principio al fin de esta calle."
+      },
+      "start": 42.0,
+      "end": 44.4,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 42.0,
+          "end": 42.16
+        },
+        {
+          "text": "il",
+          "start": 42.16,
+          "end": 42.16
+        },
+        {
+          "text": "y",
+          "start": 42.16,
+          "end": 42.16
+        },
+        {
+          "text": "a",
+          "start": 42.16,
+          "end": 42.24
+        },
+        {
+          "text": "absolument",
+          "start": 42.24,
+          "end": 42.72
+        },
+        {
+          "text": "tout",
+          "start": 42.72,
+          "end": 42.88
+        },
+        {
+          "text": "qui",
+          "start": 42.88,
+          "end": 43.04
+        },
+        {
+          "text": "se",
+          "start": 43.04,
+          "end": 43.04
+        },
+        {
+          "text": "passe",
+          "start": 43.04,
+          "end": 43.28
+        },
+        {
+          "text": "du",
+          "start": 43.28,
+          "end": 43.44
+        },
+        {
+          "text": "début",
+          "start": 43.44,
+          "end": 43.68
+        },
+        {
+          "text": "à",
+          "start": 43.68,
+          "end": 43.76
+        },
+        {
+          "text": "la",
+          "start": 43.76,
+          "end": 43.84
+        },
+        {
+          "text": "fin",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "de",
+          "start": 44.0,
+          "end": 44.0
+        },
+        {
+          "text": "cette",
+          "start": 44.0,
+          "end": 44.24
+        },
+        {
+          "text": "rue",
+          "start": 44.24,
+          "end": 44.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis il y a absolument tout",
+          "translations": {
+            "zh": "而且所有的事情都在这里，",
+            "en": "And there's absolutely everything",
+            "es": "Y hay absolutamente todo"
+          },
+          "start": 42.0,
+          "end": 42.88
+        },
+        {
+          "text": "qui se passe du début à la fin de cette rue.",
+          "translations": {
+            "zh": "从这条街这头到那头都在发生。",
+            "en": "that happens from the beginning to the end of this street.",
+            "es": "que pasa del principio al fin de esta calle."
+          },
+          "start": 42.88,
+          "end": 44.4
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Et au beau milieu, t'as le magasin général où il y a Spomenka et Milenko.",
+      "translations": {
+        "zh": "而正中间，就是那家杂货铺，斯波缅卡和米连科就在那里。",
+        "en": "And right in the middle, you've got the general store where Spomenka and Milenko are.",
+        "es": "Y justo en el medio, tienes la tienda general donde están Spomenka y Milenko."
+      },
+      "start": 44.96,
+      "end": 48.16,
+      "words": [
+        {
+          "text": "Et",
+          "start": 44.96,
+          "end": 45.12
+        },
+        {
+          "text": "au",
+          "start": 45.12,
+          "end": 45.2
+        },
+        {
+          "text": "beau",
+          "start": 45.36,
+          "end": 45.52
+        },
+        {
+          "text": "milieu",
+          "start": 45.52,
+          "end": 45.84
+        },
+        {
+          "text": "t'as",
+          "start": 45.84,
+          "end": 45.92
+        },
+        {
+          "text": "le",
+          "start": 45.92,
+          "end": 46.0
+        },
+        {
+          "text": "magasin",
+          "start": 46.0,
+          "end": 46.4
+        },
+        {
+          "text": "général",
+          "start": 46.4,
+          "end": 46.88
+        },
+        {
+          "text": "où",
+          "start": 47.04,
+          "end": 47.12
+        },
+        {
+          "text": "il",
+          "start": 47.12,
+          "end": 47.2
+        },
+        {
+          "text": "y",
+          "start": 47.2,
+          "end": 47.2
+        },
+        {
+          "text": "a",
+          "start": 47.2,
+          "end": 47.28
+        },
+        {
+          "text": "Spomenka",
+          "start": 47.28,
+          "end": 47.68
+        },
+        {
+          "text": "et",
+          "start": 47.68,
+          "end": 47.68
+        },
+        {
+          "text": "Milenko",
+          "start": 47.68,
+          "end": 48.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et au beau milieu,",
+          "translations": {
+            "zh": "而正中间，",
+            "en": "And right in the middle,",
+            "es": "Y justo en el medio,"
+          },
+          "start": 44.96,
+          "end": 45.84
+        },
+        {
+          "text": "t'as le magasin général où il y a Spomenka et Milenko.",
+          "translations": {
+            "zh": "就是那家杂货铺，斯波缅卡和米连科就在那里。",
+            "en": "you've got the general store where Spomenka and Milenko are.",
+            "es": "tienes la tienda general donde están Spomenka y Milenko."
+          },
+          "start": 45.84,
+          "end": 48.16
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Puis c'est assez pittoresque, mais beau.",
+      "translations": {
+        "zh": "它挺有特色的，而且很美。",
+        "en": "And it's quite picturesque, but beautiful.",
+        "es": "Y es bastante pintoresco, pero bonito."
+      },
+      "start": 48.88,
+      "end": 50.96,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 48.88,
+          "end": 49.28
+        },
+        {
+          "text": "c'est",
+          "start": 49.28,
+          "end": 49.28
+        },
+        {
+          "text": "assez",
+          "start": 49.28,
+          "end": 50.08
+        },
+        {
+          "text": "pittoresque",
+          "start": 50.16,
+          "end": 50.72
+        },
+        {
+          "text": "mais",
+          "start": 50.72,
+          "end": 50.8
+        },
+        {
+          "text": "beau",
+          "start": 50.8,
+          "end": 50.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis c'est assez pittoresque,",
+          "translations": {
+            "zh": "它挺有特色的，",
+            "en": "And it's quite picturesque,",
+            "es": "Y es bastante pintoresco,"
+          },
+          "start": 48.88,
+          "end": 50.72
+        },
+        {
+          "text": "mais beau.",
+          "translations": {
+            "zh": "而且很美。",
+            "en": "but beautiful.",
+            "es": "pero bonito."
+          },
+          "start": 50.72,
+          "end": 50.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "你好。",
+        "en": "Hello.",
+        "es": "Buenos días."
+      },
+      "start": 50.96,
+      "end": 59.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 50.96,
+          "end": 59.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "你好。",
+            "en": "Hello.",
+            "es": "Buenos días."
+          },
+          "start": 50.96,
+          "end": 59.44
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Bonjour!",
+      "translations": {
+        "zh": "你好！",
+        "en": "Hello!",
+        "es": "¡Buenos días!"
+      },
+      "start": 59.6,
+      "end": 59.6,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 59.6,
+          "end": 59.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour!",
+          "translations": {
+            "zh": "你好！",
+            "en": "Hello!",
+            "es": "¡Buenos días!"
+          },
+          "start": 59.6,
+          "end": 59.6
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Spomenka.",
+      "translations": {
+        "zh": "斯波缅卡。",
+        "en": "Spomenka.",
+        "es": "Spomenka."
+      },
+      "start": 60.72,
+      "end": 61.28,
+      "words": [
+        {
+          "text": "Spomenka",
+          "start": 60.72,
+          "end": 61.28
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Spomenka.",
+          "translations": {
+            "zh": "斯波缅卡。",
+            "en": "Spomenka.",
+            "es": "Spomenka."
+          },
+          "start": 60.72,
+          "end": 61.28
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Oui, c'est moi.",
+      "translations": {
+        "zh": "对，是我。",
+        "en": "Yes, that's me.",
+        "es": "Sí, soy yo."
+      },
+      "start": 61.44,
+      "end": 62.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 61.44,
+          "end": 61.68
+        },
+        {
+          "text": "c'est",
+          "start": 61.76,
+          "end": 61.92
+        },
+        {
+          "text": "moi",
+          "start": 61.92,
+          "end": 62.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui,",
+          "translations": {
+            "zh": "对，",
+            "en": "Yes,",
+            "es": "Sí,"
+          },
+          "start": 61.44,
+          "end": 61.68
+        },
+        {
+          "text": "c'est moi.",
+          "translations": {
+            "zh": "是我。",
+            "en": "that's me.",
+            "es": "soy yo."
+          },
+          "start": 61.76,
+          "end": 62.16
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Milenko.",
+      "translations": {
+        "zh": "米连科。",
+        "en": "Milenko.",
+        "es": "Milenko."
+      },
+      "start": 62.24,
+      "end": 62.72,
+      "words": [
+        {
+          "text": "Milenko",
+          "start": 62.24,
+          "end": 62.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Milenko.",
+          "translations": {
+            "zh": "米连科。",
+            "en": "Milenko.",
+            "es": "Milenko."
+          },
+          "start": 62.24,
+          "end": 62.72
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Oui.",
+      "translations": {
+        "zh": "对。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 63.04,
+      "end": 63.2,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 63.04,
+          "end": 63.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "对。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 63.04,
+          "end": 63.2
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Et vous êtes...",
+      "translations": {
+        "zh": "那您是……",
+        "en": "And you are...",
+        "es": "Y usted es..."
+      },
+      "start": 63.36,
+      "end": 64.0,
+      "words": [
+        {
+          "text": "Et",
+          "start": 63.36,
+          "end": 63.52
+        },
+        {
+          "text": "vous",
+          "start": 63.52,
+          "end": 63.68
+        },
+        {
+          "text": "êtes",
+          "start": 63.76,
+          "end": 64.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et vous êtes...",
+          "translations": {
+            "zh": "那您是……",
+            "en": "And you are...",
+            "es": "Y usted es..."
+          },
+          "start": 63.36,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Raed.",
+      "translations": {
+        "zh": "拉德。",
+        "en": "Raed.",
+        "es": "Raed."
+      },
+      "start": 64.24,
+      "end": 64.64,
+      "words": [
+        {
+          "text": "Raed",
+          "start": 64.24,
+          "end": 64.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Raed.",
+          "translations": {
+            "zh": "拉德。",
+            "en": "Raed.",
+            "es": "Raed."
+          },
+          "start": 64.24,
+          "end": 64.64
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Bienvenue, Raed, au magasin général de Piopolis.",
+      "translations": {
+        "zh": "欢迎你，拉德，来到皮奥波利斯杂货铺。",
+        "en": "Welcome, Raed, to the general store of Piopolis.",
+        "es": "Bienvenido, Raed, a la tienda general de Piopolis."
+      },
+      "start": 65.12,
+      "end": 67.92,
+      "words": [
+        {
+          "text": "Bienvenue",
+          "start": 65.12,
+          "end": 65.6
+        },
+        {
+          "text": "Raed",
+          "start": 66.08,
+          "end": 66.08
+        },
+        {
+          "text": "au",
+          "start": 66.16,
+          "end": 66.24
+        },
+        {
+          "text": "magasin",
+          "start": 66.24,
+          "end": 66.56
+        },
+        {
+          "text": "général",
+          "start": 66.56,
+          "end": 67.12
+        },
+        {
+          "text": "de",
+          "start": 67.12,
+          "end": 67.2
+        },
+        {
+          "text": "Piopolis",
+          "start": 67.2,
+          "end": 67.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bienvenue, Raed,",
+          "translations": {
+            "zh": "欢迎你，拉德，",
+            "en": "Welcome, Raed,",
+            "es": "Bienvenido, Raed,"
+          },
+          "start": 65.12,
+          "end": 66.08
+        },
+        {
+          "text": "au magasin général de Piopolis.",
+          "translations": {
+            "zh": "来到皮奥波利斯杂货铺。",
+            "en": "to the general store of Piopolis.",
+            "es": "a la tienda general de Piopolis."
+          },
+          "start": 66.16,
+          "end": 67.92
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Vous dites zdravo?",
+      "translations": {
+        "zh": "你说 zdravo？",
+        "en": "You say zdravo?",
+        "es": "¿Usted dice zdravo?"
+      },
+      "start": 68.16,
+      "end": 68.16,
+      "words": [
+        {
+          "text": "Vous",
+          "start": 68.16,
+          "end": 68.16
+        },
+        {
+          "text": "dites",
+          "start": 68.16,
+          "end": 68.16
+        },
+        {
+          "text": "zdravo",
+          "start": 68.16,
+          "end": 68.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Vous dites zdravo?",
+          "translations": {
+            "zh": "你说 zdravo？",
+            "en": "You say zdravo?",
+            "es": "¿Usted dice zdravo?"
+          },
+          "start": 68.16,
+          "end": 68.16
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Zdravo, oui.",
+      "translations": {
+        "zh": "对，zdravo。",
+        "en": "Zdravo, yes.",
+        "es": "Zdravo, sí."
+      },
+      "start": 68.16,
+      "end": 68.96,
+      "words": [
+        {
+          "text": "Zdravo",
+          "start": 68.16,
+          "end": 68.72
+        },
+        {
+          "text": "oui",
+          "start": 68.8,
+          "end": 68.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Zdravo,",
+          "translations": {
+            "zh": "Zdravo，",
+            "en": "Zdravo,",
+            "es": "Zdravo,"
+          },
+          "start": 68.16,
+          "end": 68.72
+        },
+        {
+          "text": "oui.",
+          "translations": {
+            "zh": "对。",
+            "en": "yes.",
+            "es": "sí."
+          },
+          "start": 68.8,
+          "end": 68.96
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Bonjour.",
+      "translations": {
+        "zh": "你好。",
+        "en": "Hello.",
+        "es": "Buenos días."
+      },
+      "start": 69.04,
+      "end": 69.44,
+      "words": [
+        {
+          "text": "Bonjour",
+          "start": 69.04,
+          "end": 69.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bonjour.",
+          "translations": {
+            "zh": "你好。",
+            "en": "Hello.",
+            "es": "Buenos días."
+          },
+          "start": 69.04,
+          "end": 69.44
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Spomenka et Milenko, dès que j'ai mis les pieds dans le magasin, ce que j'ai apprécié, c'est, tout de suite, l'accueil chaleureux.",
+      "translations": {
+        "zh": "斯波缅卡和米连科，我一踏进这家杂货铺，让我感动的就是，马上感受到了热情的接待。",
+        "en": "Spomenka and Milenko, as soon as I set foot in the store, what I appreciated was, right away, the warm welcome.",
+        "es": "Spomenka y Milenko, en cuanto puse los pies en la tienda, lo que aprecié, es, de inmediato, la acogida calurosa."
+      },
+      "start": 70.24,
+      "end": 76.64,
+      "words": [
+        {
+          "text": "Spomenka",
+          "start": 70.24,
+          "end": 72.64
+        },
+        {
+          "text": "et",
+          "start": 72.64,
+          "end": 72.72
+        },
+        {
+          "text": "Milenko",
+          "start": 72.8,
+          "end": 73.2
+        },
+        {
+          "text": "dès",
+          "start": 73.2,
+          "end": 73.36
+        },
+        {
+          "text": "que",
+          "start": 73.36,
+          "end": 73.36
+        },
+        {
+          "text": "j'ai",
+          "start": 73.36,
+          "end": 73.44
+        },
+        {
+          "text": "mis",
+          "start": 73.44,
+          "end": 73.6
+        },
+        {
+          "text": "les",
+          "start": 73.6,
+          "end": 73.68
+        },
+        {
+          "text": "pieds",
+          "start": 73.68,
+          "end": 73.84
+        },
+        {
+          "text": "dans",
+          "start": 73.84,
+          "end": 73.92
+        },
+        {
+          "text": "le",
+          "start": 73.92,
+          "end": 74.0
+        },
+        {
+          "text": "magasin",
+          "start": 74.0,
+          "end": 74.48
+        },
+        {
+          "text": "ce",
+          "start": 74.48,
+          "end": 74.56
+        },
+        {
+          "text": "que",
+          "start": 74.56,
+          "end": 74.64
+        },
+        {
+          "text": "j'ai",
+          "start": 74.64,
+          "end": 74.8
+        },
+        {
+          "text": "apprécié",
+          "start": 74.8,
+          "end": 75.2
+        },
+        {
+          "text": "c'est",
+          "start": 75.2,
+          "end": 75.36
+        },
+        {
+          "text": "tout",
+          "start": 75.36,
+          "end": 75.44
+        },
+        {
+          "text": "de",
+          "start": 75.44,
+          "end": 75.52
+        },
+        {
+          "text": "suite",
+          "start": 75.52,
+          "end": 75.68
+        },
+        {
+          "text": "l'accueil",
+          "start": 75.68,
+          "end": 76.0
+        },
+        {
+          "text": "chaleureux",
+          "start": 76.0,
+          "end": 76.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Spomenka et Milenko,",
+          "translations": {
+            "zh": "斯波缅卡和米连科，",
+            "en": "Spomenka and Milenko,",
+            "es": "Spomenka y Milenko,"
+          },
+          "start": 70.24,
+          "end": 73.2
+        },
+        {
+          "text": "dès que j'ai mis les pieds dans le magasin,",
+          "translations": {
+            "zh": "我一踏进这家杂货铺，",
+            "en": "as soon as I set foot in the store,",
+            "es": "en cuanto puse los pies en la tienda,"
+          },
+          "start": 73.2,
+          "end": 74.48
+        },
+        {
+          "text": "ce que j'ai apprécié,",
+          "translations": {
+            "zh": "让我感动的就是，",
+            "en": "what I appreciated,",
+            "es": "lo que aprecié,"
+          },
+          "start": 74.48,
+          "end": 75.2
+        },
+        {
+          "text": "c'est, tout de suite, l'accueil chaleureux.",
+          "translations": {
+            "zh": "马上感受到了热情的接待。",
+            "en": "was, right away, the warm welcome.",
+            "es": "es, de inmediato, la acogida calurosa."
+          },
+          "start": 75.2,
+          "end": 76.64
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "T'as l'impression de rentrer chez un membre de ta famille, puis il y a pas qu'avec moi qu'ils ont fait ça.",
+      "translations": {
+        "zh": "你会感觉像是回到自己家人家里，而且他们不只对我这样。",
+        "en": "You get the feeling of walking into a family member's home, and it's not just with me that they did that.",
+        "es": "Tienes la impresión de entrar en casa de un miembro de tu familia, y no es solo conmigo que han hecho eso."
+      },
+      "start": 76.96,
+      "end": 80.72,
+      "words": [
+        {
+          "text": "T'as",
+          "start": 76.96,
+          "end": 77.12
+        },
+        {
+          "text": "l'impression",
+          "start": 77.12,
+          "end": 77.52
+        },
+        {
+          "text": "de",
+          "start": 77.52,
+          "end": 77.6
+        },
+        {
+          "text": "rentrer",
+          "start": 77.6,
+          "end": 77.92
+        },
+        {
+          "text": "chez",
+          "start": 77.92,
+          "end": 78.24
+        },
+        {
+          "text": "un",
+          "start": 78.24,
+          "end": 78.32
+        },
+        {
+          "text": "membre",
+          "start": 78.32,
+          "end": 78.64
+        },
+        {
+          "text": "de",
+          "start": 78.64,
+          "end": 78.72
+        },
+        {
+          "text": "ta",
+          "start": 78.72,
+          "end": 78.72
+        },
+        {
+          "text": "famille",
+          "start": 78.72,
+          "end": 79.04
+        },
+        {
+          "text": "puis",
+          "start": 79.04,
+          "end": 79.28
+        },
+        {
+          "text": "il",
+          "start": 79.28,
+          "end": 79.6
+        },
+        {
+          "text": "y",
+          "start": 79.6,
+          "end": 79.6
+        },
+        {
+          "text": "a",
+          "start": 79.6,
+          "end": 79.68
+        },
+        {
+          "text": "pas",
+          "start": 79.68,
+          "end": 79.76
+        },
+        {
+          "text": "qu'avec",
+          "start": 79.76,
+          "end": 80.08
+        },
+        {
+          "text": "moi",
+          "start": 80.08,
+          "end": 80.24
+        },
+        {
+          "text": "qu'ils",
+          "start": 80.24,
+          "end": 80.4
+        },
+        {
+          "text": "ont",
+          "start": 80.4,
+          "end": 80.4
+        },
+        {
+          "text": "fait",
+          "start": 80.4,
+          "end": 80.56
+        },
+        {
+          "text": "ça",
+          "start": 80.56,
+          "end": 80.72
+        }
+      ],
+      "chunks": [
+        {
+          "text": "T'as l'impression de rentrer chez un membre de ta famille,",
+          "translations": {
+            "zh": "你会感觉像是回到自己家人家里，",
+            "en": "You get the feeling of walking into a family member's home,",
+            "es": "Tienes la impresión de entrar en casa de un miembro de tu familia,"
+          },
+          "start": 76.96,
+          "end": 79.04
+        },
+        {
+          "text": "puis il y a pas qu'avec moi qu'ils ont fait ça.",
+          "translations": {
+            "zh": "而且他们不只对我这样。",
+            "en": "and it's not just with me that they did that.",
+            "es": "y no es solo conmigo que han hecho eso."
+          },
+          "start": 79.04,
+          "end": 80.72
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Je les ai vus avec des clients, c'est la même chose.",
+      "translations": {
+        "zh": "我看到他们对待顾客也是一样的。",
+        "en": "I saw them with customers, it's the same thing.",
+        "es": "Los he visto con clientes, es lo mismo."
+      },
+      "start": 80.72,
+      "end": 82.64,
+      "words": [
+        {
+          "text": "Je",
+          "start": 80.72,
+          "end": 81.04
+        },
+        {
+          "text": "les",
+          "start": 81.04,
+          "end": 81.2
+        },
+        {
+          "text": "ai",
+          "start": 81.2,
+          "end": 81.28
+        },
+        {
+          "text": "vus",
+          "start": 81.36,
+          "end": 81.36
+        },
+        {
+          "text": "avec",
+          "start": 81.36,
+          "end": 81.52
+        },
+        {
+          "text": "des",
+          "start": 81.52,
+          "end": 81.6
+        },
+        {
+          "text": "clients",
+          "start": 81.6,
+          "end": 81.84
+        },
+        {
+          "text": "c'est",
+          "start": 81.84,
+          "end": 82.08
+        },
+        {
+          "text": "la",
+          "start": 82.08,
+          "end": 82.16
+        },
+        {
+          "text": "même",
+          "start": 82.16,
+          "end": 82.4
+        },
+        {
+          "text": "chose",
+          "start": 82.4,
+          "end": 82.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Je les ai vus avec des clients,",
+          "translations": {
+            "zh": "我看到他们对待顾客，",
+            "en": "I saw them with customers,",
+            "es": "Los he visto con clientes,"
+          },
+          "start": 80.72,
+          "end": 81.84
+        },
+        {
+          "text": "c'est la même chose.",
+          "translations": {
+            "zh": "也是一样的。",
+            "en": "it's the same thing.",
+            "es": "es lo mismo."
+          },
+          "start": 81.84,
+          "end": 82.64
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Ça rentre, c'est : \" Bonjour.",
+      "translations": {
+        "zh": "客人进来，就是：\"你好。",
+        "en": "You walk in, it's: \" Hello.",
+        "es": "Entran, es: \" Buenos días."
+      },
+      "start": 83.04,
+      "end": 84.4,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 83.04,
+          "end": 83.28
+        },
+        {
+          "text": "rentre",
+          "start": 83.28,
+          "end": 83.52
+        },
+        {
+          "text": "c'est",
+          "start": 83.52,
+          "end": 83.68
+        },
+        {
+          "text": "Bonjour",
+          "start": 83.68,
+          "end": 84.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça rentre,",
+          "translations": {
+            "zh": "客人进来，",
+            "en": "You walk in,",
+            "es": "Entran,"
+          },
+          "start": 83.04,
+          "end": 83.52
+        },
+        {
+          "text": "c'est : \" Bonjour.",
+          "translations": {
+            "zh": "就是：\"你好。",
+            "en": "it's: \" Hello.",
+            "es": "es: \" Buenos días."
+          },
+          "start": 83.52,
+          "end": 84.4
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Comment ça va?",
+      "translations": {
+        "zh": "你好吗？",
+        "en": "How are you?",
+        "es": "¿Cómo está?"
+      },
+      "start": 84.4,
+      "end": 84.96,
+      "words": [
+        {
+          "text": "Comment",
+          "start": 84.4,
+          "end": 84.64
+        },
+        {
+          "text": "ça",
+          "start": 84.64,
+          "end": 84.8
+        },
+        {
+          "text": "va",
+          "start": 84.8,
+          "end": 84.96
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Comment ça va?",
+          "translations": {
+            "zh": "你好吗？",
+            "en": "How are you?",
+            "es": "¿Cómo está?"
+          },
+          "start": 84.4,
+          "end": 84.96
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Qu'est-ce que je peux faire pour vous?",
+      "translations": {
+        "zh": "我能为您做什么？",
+        "en": "What can I do for you?",
+        "es": "¿Qué puedo hacer por usted?"
+      },
+      "start": 84.96,
+      "end": 86.0,
+      "words": [
+        {
+          "text": "Qu'est",
+          "start": 84.96,
+          "end": 85.12
+        },
+        {
+          "text": "ce",
+          "start": 85.12,
+          "end": 85.2
+        },
+        {
+          "text": "que",
+          "start": 85.2,
+          "end": 85.28
+        },
+        {
+          "text": "je",
+          "start": 85.28,
+          "end": 85.36
+        },
+        {
+          "text": "peux",
+          "start": 85.36,
+          "end": 85.44
+        },
+        {
+          "text": "faire",
+          "start": 85.44,
+          "end": 85.68
+        },
+        {
+          "text": "pour",
+          "start": 85.68,
+          "end": 85.76
+        },
+        {
+          "text": "vous",
+          "start": 85.76,
+          "end": 86.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Qu'est-ce que je peux faire pour vous?",
+          "translations": {
+            "zh": "我能为您做什么？",
+            "en": "What can I do for you?",
+            "es": "¿Qué puedo hacer por usted?"
+          },
+          "start": 84.96,
+          "end": 86.0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Puis c'est tout de suite le sentiment d'accueil puis d'être chez soi.",
+      "translations": {
+        "zh": "马上就让你有种被欢迎、像在自己家一样的感觉。",
+        "en": "And it's immediately the feeling of welcome and of being at home.",
+        "es": "Y es de inmediato el sentimiento de acogida y de estar en casa."
+      },
+      "start": 86.32,
+      "end": 88.4,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 86.32,
+          "end": 86.4
+        },
+        {
+          "text": "c'est",
+          "start": 86.4,
+          "end": 86.56
+        },
+        {
+          "text": "tout",
+          "start": 86.56,
+          "end": 86.72
+        },
+        {
+          "text": "de",
+          "start": 86.72,
+          "end": 86.72
+        },
+        {
+          "text": "suite",
+          "start": 86.72,
+          "end": 86.88
+        },
+        {
+          "text": "le",
+          "start": 86.88,
+          "end": 86.96
+        },
+        {
+          "text": "sentiment",
+          "start": 86.96,
+          "end": 87.36
+        },
+        {
+          "text": "d'accueil",
+          "start": 87.36,
+          "end": 87.68
+        },
+        {
+          "text": "puis",
+          "start": 87.68,
+          "end": 87.84
+        },
+        {
+          "text": "d'être",
+          "start": 87.84,
+          "end": 88.0
+        },
+        {
+          "text": "chez",
+          "start": 88.0,
+          "end": 88.16
+        },
+        {
+          "text": "soi",
+          "start": 88.16,
+          "end": 88.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis c'est tout de suite le sentiment d'accueil",
+          "translations": {
+            "zh": "马上就让你有种被欢迎的感觉，",
+            "en": "And it's immediately the feeling of welcome",
+            "es": "Y es de inmediato el sentimiento de acogida"
+          },
+          "start": 86.32,
+          "end": 87.68
+        },
+        {
+          "text": "puis d'être chez soi.",
+          "translations": {
+            "zh": "像在自己家一样。",
+            "en": "and of being at home.",
+            "es": "y de estar en casa."
+          },
+          "start": 87.68,
+          "end": 88.4
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "C'est assez incroyable.",
+      "translations": {
+        "zh": "这挺不可思议的。",
+        "en": "It's pretty incredible.",
+        "es": "Es bastante increíble."
+      },
+      "start": 88.4,
+      "end": 89.12,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 88.4,
+          "end": 88.56
+        },
+        {
+          "text": "assez",
+          "start": 88.56,
+          "end": 88.64
+        },
+        {
+          "text": "incroyable",
+          "start": 88.72,
+          "end": 89.12
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est assez incroyable.",
+          "translations": {
+            "zh": "这挺不可思议的。",
+            "en": "It's pretty incredible.",
+            "es": "Es bastante increíble."
+          },
+          "start": 88.4,
+          "end": 89.12
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "On est au magasin général depuis 18 ans.",
+      "translations": {
+        "zh": "我们在这家杂货铺已经18年了。",
+        "en": "We've been at the general store for 18 years.",
+        "es": "Estamos en la tienda general desde hace 18 años."
+      },
+      "start": 89.44,
+      "end": 92.32,
+      "words": [
+        {
+          "text": "On",
+          "start": 89.44,
+          "end": 89.6
+        },
+        {
+          "text": "est",
+          "start": 89.6,
+          "end": 89.76
+        },
+        {
+          "text": "au",
+          "start": 89.76,
+          "end": 89.84
+        },
+        {
+          "text": "magasin",
+          "start": 89.84,
+          "end": 90.24
+        },
+        {
+          "text": "général",
+          "start": 90.24,
+          "end": 91.2
+        },
+        {
+          "text": "depuis",
+          "start": 91.36,
+          "end": 91.68
+        },
+        {
+          "text": "18",
+          "start": 91.68,
+          "end": 91.68
+        },
+        {
+          "text": "ans",
+          "start": 92.24,
+          "end": 92.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est au magasin général depuis 18 ans.",
+          "translations": {
+            "zh": "我们在这家杂货铺已经18年了。",
+            "en": "We've been at the general store for 18 years.",
+            "es": "Estamos en la tienda general desde hace 18 años."
+          },
+          "start": 89.44,
+          "end": 92.32
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Mais le magasin général comme tel existe depuis 1908.",
+      "translations": {
+        "zh": "但这杂货铺本身从1908年就有了。",
+        "en": "But the general store as such has existed since 1908.",
+        "es": "Pero la tienda general como tal existe desde 1908."
+      },
+      "start": 92.72,
+      "end": 95.6,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 92.72,
+          "end": 92.8
+        },
+        {
+          "text": "le",
+          "start": 92.8,
+          "end": 92.96
+        },
+        {
+          "text": "magasin",
+          "start": 92.96,
+          "end": 93.36
+        },
+        {
+          "text": "général",
+          "start": 93.36,
+          "end": 93.92
+        },
+        {
+          "text": "comme",
+          "start": 93.92,
+          "end": 94.08
+        },
+        {
+          "text": "tel",
+          "start": 94.16,
+          "end": 94.48
+        },
+        {
+          "text": "existe",
+          "start": 94.56,
+          "end": 95.2
+        },
+        {
+          "text": "depuis",
+          "start": 95.2,
+          "end": 95.6
+        },
+        {
+          "text": "1908",
+          "start": 95.6,
+          "end": 95.6
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais le magasin général comme tel",
+          "translations": {
+            "zh": "但这杂货铺本身",
+            "en": "But the general store as such",
+            "es": "Pero la tienda general como tal"
+          },
+          "start": 92.72,
+          "end": 94.48
+        },
+        {
+          "text": "existe depuis 1908.",
+          "translations": {
+            "zh": "从1908年就有了。",
+            "en": "has existed since 1908.",
+            "es": "existe desde 1908."
+          },
+          "start": 94.56,
+          "end": 95.6
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Ça fait longtemps.",
+      "translations": {
+        "zh": "很久了。",
+        "en": "That's a long time.",
+        "es": "Hace mucho tiempo."
+      },
+      "start": 96.0,
+      "end": 97.84,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 96.0,
+          "end": 96.24
+        },
+        {
+          "text": "fait",
+          "start": 96.32,
+          "end": 96.48
+        },
+        {
+          "text": "longtemps",
+          "start": 97.36,
+          "end": 97.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait longtemps.",
+          "translations": {
+            "zh": "很久了。",
+            "en": "That's a long time.",
+            "es": "Hace mucho tiempo."
+          },
+          "start": 96.0,
+          "end": 97.84
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Oui.",
+      "translations": {
+        "zh": "对。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 97.92,
+      "end": 98.16,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 97.92,
+          "end": 98.16
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "对。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 97.92,
+          "end": 98.16
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "C'est comme le magasin général, dans le temps.",
+      "translations": {
+        "zh": "就像以前的杂货铺一样。",
+        "en": "It's like the general store, back in the day.",
+        "es": "Es como la tienda general, de antes."
+      },
+      "start": 98.56,
+      "end": 100.56,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 98.56,
+          "end": 98.88
+        },
+        {
+          "text": "comme",
+          "start": 98.88,
+          "end": 99.04
+        },
+        {
+          "text": "le",
+          "start": 99.04,
+          "end": 99.12
+        },
+        {
+          "text": "magasin",
+          "start": 99.12,
+          "end": 99.52
+        },
+        {
+          "text": "général",
+          "start": 99.52,
+          "end": 100.08
+        },
+        {
+          "text": "dans",
+          "start": 100.08,
+          "end": 100.24
+        },
+        {
+          "text": "le",
+          "start": 100.24,
+          "end": 100.32
+        },
+        {
+          "text": "temps",
+          "start": 100.32,
+          "end": 100.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est comme le magasin général,",
+          "translations": {
+            "zh": "就像那杂货铺，",
+            "en": "It's like the general store,",
+            "es": "Es como la tienda general,"
+          },
+          "start": 98.56,
+          "end": 100.08
+        },
+        {
+          "text": "dans le temps.",
+          "translations": {
+            "zh": "从前的那种。",
+            "en": "back in the day.",
+            "es": "de antes."
+          },
+          "start": 100.08,
+          "end": 100.56
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Les gens qui habitaient dans le coin, il fallait qu'ils trouvent la nourriture pour eux, nourriture pour le chien, le chat, les vaches, pour les madames, les tissus, qu'elles puissent faire...",
+      "translations": {
+        "zh": "住在附近的人，他们需要找到自己的食物，给狗的、给猫的、给牛的食物，给太太们的布料，好让她们做……",
+        "en": "People who lived in the area, they had to find food for themselves, food for the dog, the cat, the cows, for the ladies, the fabrics, so they could make...",
+        "es": "La gente que vivía en la zona, necesitaban encontrar la comida para ellos, comida para el perro, el gato, las vacas, para las señoras, las telas, para que pudieran hacer..."
+      },
+      "start": 101.12,
+      "end": 111.84,
+      "words": [
+        {
+          "text": "Les",
+          "start": 101.12,
+          "end": 101.28
+        },
+        {
+          "text": "gens",
+          "start": 101.28,
+          "end": 101.44
+        },
+        {
+          "text": "qui",
+          "start": 101.6,
+          "end": 101.76
+        },
+        {
+          "text": "habitaient",
+          "start": 101.76,
+          "end": 102.56
+        },
+        {
+          "text": "dans",
+          "start": 102.56,
+          "end": 102.72
+        },
+        {
+          "text": "le",
+          "start": 102.72,
+          "end": 102.88
+        },
+        {
+          "text": "coin",
+          "start": 103.04,
+          "end": 103.28
+        },
+        {
+          "text": "il",
+          "start": 103.52,
+          "end": 103.68
+        },
+        {
+          "text": "fallait",
+          "start": 103.68,
+          "end": 103.92
+        },
+        {
+          "text": "qu'ils",
+          "start": 103.92,
+          "end": 104.16
+        },
+        {
+          "text": "trouvent",
+          "start": 104.16,
+          "end": 104.4
+        },
+        {
+          "text": "la",
+          "start": 104.4,
+          "end": 104.88
+        },
+        {
+          "text": "nourriture",
+          "start": 104.88,
+          "end": 105.12
+        },
+        {
+          "text": "pour",
+          "start": 105.2,
+          "end": 105.28
+        },
+        {
+          "text": "eux",
+          "start": 105.36,
+          "end": 105.6
+        },
+        {
+          "text": "nourriture",
+          "start": 105.6,
+          "end": 105.92
+        },
+        {
+          "text": "pour",
+          "start": 106.72,
+          "end": 106.72
+        },
+        {
+          "text": "le",
+          "start": 107.36,
+          "end": 107.36
+        },
+        {
+          "text": "chien",
+          "start": 107.36,
+          "end": 107.36
+        },
+        {
+          "text": "le",
+          "start": 107.36,
+          "end": 107.52
+        },
+        {
+          "text": "chat",
+          "start": 107.52,
+          "end": 107.6
+        },
+        {
+          "text": "les",
+          "start": 107.92,
+          "end": 108.16
+        },
+        {
+          "text": "vaches",
+          "start": 108.16,
+          "end": 108.72
+        },
+        {
+          "text": "pour",
+          "start": 109.36,
+          "end": 109.36
+        },
+        {
+          "text": "les",
+          "start": 109.36,
+          "end": 109.52
+        },
+        {
+          "text": "madames",
+          "start": 109.52,
+          "end": 110.0
+        },
+        {
+          "text": "les",
+          "start": 110.0,
+          "end": 110.16
+        },
+        {
+          "text": "tissus",
+          "start": 110.24,
+          "end": 110.64
+        },
+        {
+          "text": "qu'elles",
+          "start": 110.72,
+          "end": 110.88
+        },
+        {
+          "text": "puissent",
+          "start": 110.88,
+          "end": 111.36
+        },
+        {
+          "text": "faire",
+          "start": 111.36,
+          "end": 111.84
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Les gens qui habitaient dans le coin,",
+          "translations": {
+            "zh": "住在附近的人，",
+            "en": "The people who lived in the area,",
+            "es": "La gente que vivía en la zona,"
+          },
+          "start": 101.12,
+          "end": 103.28
+        },
+        {
+          "text": "il fallait qu'ils trouvent la nourriture pour eux,",
+          "translations": {
+            "zh": "他们需要找到自己的食物，",
+            "en": "they had to find food for themselves,",
+            "es": "necesitaban encontrar la comida para ellos,"
+          },
+          "start": 103.52,
+          "end": 105.6
+        },
+        {
+          "text": "nourriture pour le chien, le chat, les vaches,",
+          "translations": {
+            "zh": "给狗、猫、牛的食物，",
+            "en": "food for the dog, the cat, the cows,",
+            "es": "comida para el perro, el gato, las vacas,"
+          },
+          "start": 105.6,
+          "end": 108.72
+        },
+        {
+          "text": "pour les madames, les tissus,",
+          "translations": {
+            "zh": "给太太们的布料，",
+            "en": "for the ladies, the fabrics,",
+            "es": "para las señoras, las telas,"
+          },
+          "start": 109.36,
+          "end": 110.64
+        },
+        {
+          "text": "qu'elles puissent faire...",
+          "translations": {
+            "zh": "好让她们做……",
+            "en": "so they could make...",
+            "es": "para que pudieran hacer..."
+          },
+          "start": 110.72,
+          "end": 111.84
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "text": "couture pour les belles robes de sa fille.",
+      "translations": {
+        "zh": "缝制她女儿的漂亮裙子。",
+        "en": "sewing for her daughter's beautiful dresses.",
+        "es": "costura para los bonitos vestidos de su hija."
+      },
+      "start": 111.84,
+      "end": 115.44,
+      "words": [
+        {
+          "text": "couture",
+          "start": 111.84,
+          "end": 113.2
+        },
+        {
+          "text": "pour",
+          "start": 113.2,
+          "end": 113.6
+        },
+        {
+          "text": "les",
+          "start": 113.6,
+          "end": 113.84
+        },
+        {
+          "text": "belles",
+          "start": 114.0,
+          "end": 114.24
+        },
+        {
+          "text": "robes",
+          "start": 114.4,
+          "end": 114.64
+        },
+        {
+          "text": "de",
+          "start": 114.64,
+          "end": 114.72
+        },
+        {
+          "text": "sa",
+          "start": 114.72,
+          "end": 114.96
+        },
+        {
+          "text": "fille",
+          "start": 114.96,
+          "end": 115.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "couture pour les belles robes de sa fille.",
+          "translations": {
+            "zh": "缝制她女儿的漂亮裙子。",
+            "en": "sewing for her daughter's beautiful dresses.",
+            "es": "costura para los bonitos vestidos de su hija."
+          },
+          "start": 111.84,
+          "end": 115.44
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "text": "C'est vraiment général.",
+      "translations": {
+        "zh": "这真的是什么都卖。",
+        "en": "It's really general.",
+        "es": "Es realmente general."
+      },
+      "start": 115.92,
+      "end": 117.44,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 115.92,
+          "end": 116.16
+        },
+        {
+          "text": "vraiment",
+          "start": 116.16,
+          "end": 116.88
+        },
+        {
+          "text": "général",
+          "start": 116.88,
+          "end": 117.44
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est vraiment général.",
+          "translations": {
+            "zh": "这真的是什么都卖。",
+            "en": "It's really general.",
+            "es": "Es realmente general."
+          },
+          "start": 115.92,
+          "end": 117.44
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "text": "C'est pas très grand, mais il y a absolument tout ce que t'as besoin.",
+      "translations": {
+        "zh": "它不是很大，但你需要的所有东西这里全都有。",
+        "en": "It's not very big, but there's absolutely everything you need.",
+        "es": "No es muy grande, pero hay absolutamente todo lo que necesitas."
+      },
+      "start": 118.08,
+      "end": 122.4,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 118.08,
+          "end": 118.08
+        },
+        {
+          "text": "pas",
+          "start": 118.08,
+          "end": 120.48
+        },
+        {
+          "text": "très",
+          "start": 120.48,
+          "end": 120.72
+        },
+        {
+          "text": "grand",
+          "start": 120.72,
+          "end": 120.96
+        },
+        {
+          "text": "mais",
+          "start": 121.2,
+          "end": 121.2
+        },
+        {
+          "text": "il",
+          "start": 121.2,
+          "end": 121.2
+        },
+        {
+          "text": "y",
+          "start": 121.2,
+          "end": 121.28
+        },
+        {
+          "text": "a",
+          "start": 121.28,
+          "end": 121.36
+        },
+        {
+          "text": "absolument",
+          "start": 121.36,
+          "end": 121.76
+        },
+        {
+          "text": "tout",
+          "start": 121.76,
+          "end": 121.92
+        },
+        {
+          "text": "ce",
+          "start": 121.92,
+          "end": 122.0
+        },
+        {
+          "text": "que",
+          "start": 122.0,
+          "end": 122.08
+        },
+        {
+          "text": "t'as",
+          "start": 122.08,
+          "end": 122.16
+        },
+        {
+          "text": "besoin",
+          "start": 122.16,
+          "end": 122.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est pas très grand,",
+          "translations": {
+            "zh": "它不是很大，",
+            "en": "It's not very big,",
+            "es": "No es muy grande,"
+          },
+          "start": 118.08,
+          "end": 120.96
+        },
+        {
+          "text": "mais il y a absolument tout ce que t'as besoin.",
+          "translations": {
+            "zh": "但你需要的所有东西这里全都有。",
+            "en": "but there's absolutely everything you need.",
+            "es": "pero hay absolutamente todo lo que necesitas."
+          },
+          "start": 121.2,
+          "end": 122.4
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "text": "C'est comme un Costco tout petit, avec de plus petites choses, là.",
+      "translations": {
+        "zh": "就像一个小型的Costco，里面的东西更小一些，就是那样。",
+        "en": "It's like a really small Costco, with smaller things, you know.",
+        "es": "Es como un Costco muy pequeño, con cosas más pequeñas, ahí."
+      },
+      "start": 122.4,
+      "end": 125.2,
+      "words": [
+        {
+          "text": "C'est",
+          "start": 122.4,
+          "end": 122.48
+        },
+        {
+          "text": "comme",
+          "start": 122.48,
+          "end": 122.72
+        },
+        {
+          "text": "un",
+          "start": 122.72,
+          "end": 122.72
+        },
+        {
+          "text": "Costco",
+          "start": 122.72,
+          "end": 123.12
+        },
+        {
+          "text": "tout",
+          "start": 123.12,
+          "end": 123.28
+        },
+        {
+          "text": "petit",
+          "start": 123.28,
+          "end": 123.6
+        },
+        {
+          "text": "avec",
+          "start": 123.6,
+          "end": 123.84
+        },
+        {
+          "text": "de",
+          "start": 123.84,
+          "end": 123.92
+        },
+        {
+          "text": "plus",
+          "start": 123.92,
+          "end": 124.08
+        },
+        {
+          "text": "petites",
+          "start": 124.16,
+          "end": 124.48
+        },
+        {
+          "text": "choses",
+          "start": 124.48,
+          "end": 124.56
+        },
+        {
+          "text": "là",
+          "start": 125.12,
+          "end": 125.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "C'est comme un Costco tout petit,",
+          "translations": {
+            "zh": "就像一个小型的Costco，",
+            "en": "It's like a really small Costco,",
+            "es": "Es como un Costco muy pequeño,"
+          },
+          "start": 122.4,
+          "end": 123.6
+        },
+        {
+          "text": "avec de plus petites choses, là.",
+          "translations": {
+            "zh": "里面的东西更小一些，就是那样。",
+            "en": "with smaller things, you know.",
+            "es": "con cosas más pequeñas, ahí."
+          },
+          "start": 123.6,
+          "end": 125.2
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "text": "T'as des choses pour aller chasser, aller pêcher, t'as des produits locaux, t'as de quoi manger...",
+      "translations": {
+        "zh": "你有打猎、钓鱼用的东西，你有本地产品，你有吃的……",
+        "en": "You've got things for hunting, fishing, you've got local products, you've got things to eat...",
+        "es": "Tienes cosas para ir a cazar, ir a pescar, tienes productos locales, tienes qué comer..."
+      },
+      "start": 125.2,
+      "end": 128.8,
+      "words": [
+        {
+          "text": "T'as",
+          "start": 125.2,
+          "end": 125.2
+        },
+        {
+          "text": "des",
+          "start": 125.2,
+          "end": 125.36
+        },
+        {
+          "text": "choses",
+          "start": 125.36,
+          "end": 125.6
+        },
+        {
+          "text": "pour",
+          "start": 125.6,
+          "end": 125.76
+        },
+        {
+          "text": "aller",
+          "start": 125.76,
+          "end": 125.92
+        },
+        {
+          "text": "chasser",
+          "start": 125.92,
+          "end": 126.4
+        },
+        {
+          "text": "aller",
+          "start": 126.4,
+          "end": 126.56
+        },
+        {
+          "text": "pêcher",
+          "start": 126.56,
+          "end": 126.8
+        },
+        {
+          "text": "t'as",
+          "start": 126.88,
+          "end": 126.96
+        },
+        {
+          "text": "des",
+          "start": 126.96,
+          "end": 127.04
+        },
+        {
+          "text": "produits",
+          "start": 127.04,
+          "end": 127.36
+        },
+        {
+          "text": "locaux",
+          "start": 127.36,
+          "end": 127.76
+        },
+        {
+          "text": "t'as",
+          "start": 128.0,
+          "end": 128.08
+        },
+        {
+          "text": "de",
+          "start": 128.08,
+          "end": 128.08
+        },
+        {
+          "text": "quoi",
+          "start": 128.16,
+          "end": 128.32
+        },
+        {
+          "text": "manger",
+          "start": 128.32,
+          "end": 128.8
+        }
+      ],
+      "chunks": [
+        {
+          "text": "T'as des choses pour aller chasser, aller pêcher,",
+          "translations": {
+            "zh": "你有打猎、钓鱼用的东西，",
+            "en": "You've got things for hunting, fishing,",
+            "es": "Tienes cosas para ir a cazar, ir a pescar,"
+          },
+          "start": 125.2,
+          "end": 126.8
+        },
+        {
+          "text": "t'as des produits locaux,",
+          "translations": {
+            "zh": "你有本地产品，",
+            "en": "you've got local products,",
+            "es": "tienes productos locales,"
+          },
+          "start": 126.88,
+          "end": 127.76
+        },
+        {
+          "text": "t'as de quoi manger...",
+          "translations": {
+            "zh": "你有吃的……",
+            "en": "you've got things to eat...",
+            "es": "tienes qué comer..."
+          },
+          "start": 128.0,
+          "end": 128.8
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "text": "On est membre de la coopérative Marchés publics de Lac-Mégantic.",
+      "translations": {
+        "zh": "我们是梅冈蒂克湖公共市场合作社的成员。",
+        "en": "We're a member of the Marchés publics de Lac-Mégantic cooperative.",
+        "es": "Somos miembros de la cooperativa Mercados públicos de Lac-Mégantic."
+      },
+      "start": 129.6,
+      "end": 136.4,
+      "words": [
+        {
+          "text": "On",
+          "start": 129.6,
+          "end": 129.76
+        },
+        {
+          "text": "est",
+          "start": 129.76,
+          "end": 130.0
+        },
+        {
+          "text": "membre",
+          "start": 131.92,
+          "end": 132.16
+        },
+        {
+          "text": "de",
+          "start": 132.16,
+          "end": 132.4
+        },
+        {
+          "text": "la",
+          "start": 133.12,
+          "end": 133.44
+        },
+        {
+          "text": "coopérative",
+          "start": 133.52,
+          "end": 134.56
+        },
+        {
+          "text": "Marchés",
+          "start": 134.72,
+          "end": 135.04
+        },
+        {
+          "text": "publics",
+          "start": 135.04,
+          "end": 135.44
+        },
+        {
+          "text": "de",
+          "start": 135.44,
+          "end": 135.6
+        },
+        {
+          "text": "Lac",
+          "start": 135.6,
+          "end": 135.76
+        },
+        {
+          "text": "Mégantic",
+          "start": 135.76,
+          "end": 136.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On est membre",
+          "translations": {
+            "zh": "我们是成员",
+            "en": "We're a member",
+            "es": "Somos miembros"
+          },
+          "start": 129.6,
+          "end": 132.16
+        },
+        {
+          "text": "de la coopérative Marchés publics de Lac-Mégantic.",
+          "translations": {
+            "zh": "梅冈蒂克湖公共市场合作社的成员。",
+            "en": "of the Marchés publics de Lac-Mégantic cooperative.",
+            "es": "de la cooperativa Mercados públicos de Lac-Mégantic."
+          },
+          "start": 132.16,
+          "end": 136.4
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "text": "OK.",
+      "translations": {
+        "zh": "好的。",
+        "en": "OK.",
+        "es": "OK."
+      },
+      "start": 136.4,
+      "end": 136.56,
+      "words": [
+        {
+          "text": "OK",
+          "start": 136.4,
+          "end": 136.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "OK.",
+          "translations": {
+            "zh": "好的。",
+            "en": "OK.",
+            "es": "OK."
+          },
+          "start": 136.4,
+          "end": 136.56
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Et chaque produit qu'on a trouvé là-bas, pour encourager les gens, les petites entreprises comme la nôtre, on achetait le produit.",
+      "translations": {
+        "zh": "我们在那里找到的每一种产品，为了鼓励那些人，那些像我们一样的小企业，我们就会买下那种产品。",
+        "en": "And every product we found there, to encourage people, small businesses like ours, we would buy the product.",
+        "es": "Y cada producto que encontramos allí, para apoyar a la gente, a las pequeñas empresas como la nuestra, comprábamos el producto."
+      },
+      "start": 137.12,
+      "end": 145.92,
+      "words": [
+        {
+          "text": "Et",
+          "start": 137.12,
+          "end": 137.12
+        },
+        {
+          "text": "chaque",
+          "start": 137.52,
+          "end": 138.16
+        },
+        {
+          "text": "produit",
+          "start": 138.64,
+          "end": 139.44
+        },
+        {
+          "text": "qu'on",
+          "start": 139.44,
+          "end": 139.68
+        },
+        {
+          "text": "a",
+          "start": 139.68,
+          "end": 139.84
+        },
+        {
+          "text": "trouvé",
+          "start": 139.84,
+          "end": 140.08
+        },
+        {
+          "text": "là",
+          "start": 140.08,
+          "end": 140.32
+        },
+        {
+          "text": "bas",
+          "start": 140.32,
+          "end": 140.64
+        },
+        {
+          "text": "pour",
+          "start": 140.96,
+          "end": 141.2
+        },
+        {
+          "text": "encourager",
+          "start": 141.2,
+          "end": 141.92
+        },
+        {
+          "text": "les",
+          "start": 141.92,
+          "end": 142.16
+        },
+        {
+          "text": "gens",
+          "start": 142.16,
+          "end": 142.48
+        },
+        {
+          "text": "les",
+          "start": 142.56,
+          "end": 142.64
+        },
+        {
+          "text": "petites",
+          "start": 142.64,
+          "end": 143.04
+        },
+        {
+          "text": "entreprises",
+          "start": 143.04,
+          "end": 143.84
+        },
+        {
+          "text": "comme",
+          "start": 143.84,
+          "end": 144.0
+        },
+        {
+          "text": "la",
+          "start": 144.0,
+          "end": 144.08
+        },
+        {
+          "text": "nôtre",
+          "start": 144.08,
+          "end": 144.64
+        },
+        {
+          "text": "on",
+          "start": 144.96,
+          "end": 145.12
+        },
+        {
+          "text": "achetait",
+          "start": 145.12,
+          "end": 145.44
+        },
+        {
+          "text": "le",
+          "start": 145.44,
+          "end": 145.52
+        },
+        {
+          "text": "produit",
+          "start": 145.6,
+          "end": 145.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et chaque produit qu'on a trouvé là-bas,",
+          "translations": {
+            "zh": "我们在那里找到的每一种产品，",
+            "en": "And every product we found there,",
+            "es": "Y cada producto que encontramos allí,"
+          },
+          "start": 137.12,
+          "end": 140.64
+        },
+        {
+          "text": "pour encourager les gens,",
+          "translations": {
+            "zh": "为了鼓励那些人，",
+            "en": "to encourage people,",
+            "es": "para apoyar a la gente,"
+          },
+          "start": 140.96,
+          "end": 142.48
+        },
+        {
+          "text": "les petites entreprises comme la nôtre,",
+          "translations": {
+            "zh": "那些像我们一样的小企业，",
+            "en": "small businesses like ours,",
+            "es": "a las pequeñas empresas como la nuestra,"
+          },
+          "start": 142.56,
+          "end": 144.64
+        },
+        {
+          "text": "on achetait le produit.",
+          "translations": {
+            "zh": "我们就会买下那种产品。",
+            "en": "we would buy the product.",
+            "es": "comprábamos el producto."
+          },
+          "start": 144.96,
+          "end": 145.92
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "text": "Tous les produits qu'elle a chez elle, c'est des produits qu'elle a choisis puis qu'elle veut mettre de l'avant, en particulier sa section \" terroir \", qui est direct à l'entrée du magasin.",
+      "translations": {
+        "zh": "她店里所有的产品，都是她自己挑选的、想要推广的产品，尤其是她的\"土特产\"专区，就在杂货铺入口处。",
+        "en": "All the products she has in her store are products she chose and that she wants to highlight, in particular her \"terroir\" section, which is right at the entrance of the store.",
+        "es": "Todos los productos que ella tiene en su tienda, son productos que ella ha elegido y que quiere destacar, en particular su sección \" terroir \", que está justo a la entrada de la tienda."
+      },
+      "start": 145.92,
+      "end": 157.2,
+      "words": [
+        {
+          "text": "Tous",
+          "start": 145.92,
+          "end": 147.52
+        },
+        {
+          "text": "les",
+          "start": 147.52,
+          "end": 147.68
+        },
+        {
+          "text": "produits",
+          "start": 150.08,
+          "end": 150.48
+        },
+        {
+          "text": "qu'elle",
+          "start": 150.48,
+          "end": 150.72
+        },
+        {
+          "text": "a",
+          "start": 150.72,
+          "end": 150.72
+        },
+        {
+          "text": "chez",
+          "start": 150.72,
+          "end": 150.96
+        },
+        {
+          "text": "elle",
+          "start": 151.04,
+          "end": 151.28
+        },
+        {
+          "text": "c'est",
+          "start": 151.28,
+          "end": 151.44
+        },
+        {
+          "text": "des",
+          "start": 151.44,
+          "end": 151.52
+        },
+        {
+          "text": "produits",
+          "start": 151.52,
+          "end": 151.76
+        },
+        {
+          "text": "qu'elle",
+          "start": 151.76,
+          "end": 152.0
+        },
+        {
+          "text": "a",
+          "start": 152.0,
+          "end": 152.0
+        },
+        {
+          "text": "choisis",
+          "start": 152.0,
+          "end": 152.32
+        },
+        {
+          "text": "puis",
+          "start": 152.4,
+          "end": 152.56
+        },
+        {
+          "text": "qu'elle",
+          "start": 152.56,
+          "end": 152.72
+        },
+        {
+          "text": "veut",
+          "start": 152.72,
+          "end": 152.8
+        },
+        {
+          "text": "mettre",
+          "start": 152.8,
+          "end": 152.96
+        },
+        {
+          "text": "de",
+          "start": 152.96,
+          "end": 153.04
+        },
+        {
+          "text": "l'avant",
+          "start": 153.04,
+          "end": 153.36
+        },
+        {
+          "text": "en",
+          "start": 153.36,
+          "end": 153.44
+        },
+        {
+          "text": "particulier",
+          "start": 153.44,
+          "end": 154.0
+        },
+        {
+          "text": "sa",
+          "start": 154.0,
+          "end": 154.16
+        },
+        {
+          "text": "section",
+          "start": 154.16,
+          "end": 154.48
+        },
+        {
+          "text": "terroir",
+          "start": 154.48,
+          "end": 155.04
+        },
+        {
+          "text": "qui",
+          "start": 155.44,
+          "end": 155.6
+        },
+        {
+          "text": "est",
+          "start": 155.6,
+          "end": 155.68
+        },
+        {
+          "text": "direct",
+          "start": 155.68,
+          "end": 156.24
+        },
+        {
+          "text": "à",
+          "start": 156.24,
+          "end": 156.24
+        },
+        {
+          "text": "l'entrée",
+          "start": 156.24,
+          "end": 156.56
+        },
+        {
+          "text": "du",
+          "start": 156.56,
+          "end": 156.64
+        },
+        {
+          "text": "magasin",
+          "start": 156.64,
+          "end": 157.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tous les produits qu'elle a chez elle,",
+          "translations": {
+            "zh": "她店里所有的产品，",
+            "en": "All the products she has in her store,",
+            "es": "Todos los productos que ella tiene en su tienda,"
+          },
+          "start": 145.92,
+          "end": 151.28
+        },
+        {
+          "text": "c'est des produits qu'elle a choisis",
+          "translations": {
+            "zh": "都是她自己挑选的产品，",
+            "en": "are products she chose",
+            "es": "son productos que ella ha elegido"
+          },
+          "start": 151.28,
+          "end": 152.32
+        },
+        {
+          "text": "puis qu'elle veut mettre de l'avant,",
+          "translations": {
+            "zh": "想要推广的产品，",
+            "en": "and that she wants to highlight,",
+            "es": "y que quiere destacar,"
+          },
+          "start": 152.4,
+          "end": 153.36
+        },
+        {
+          "text": "en particulier sa section \" terroir \",",
+          "translations": {
+            "zh": "尤其是她的\"土特产\"专区，",
+            "en": "in particular her \"terroir\" section,",
+            "es": "en particular su sección \" terroir \","
+          },
+          "start": 153.36,
+          "end": 155.04
+        },
+        {
+          "text": "qui est direct à l'entrée du magasin.",
+          "translations": {
+            "zh": "就在杂货铺入口处。",
+            "en": "which is right at the entrance of the store.",
+            "es": "que está justo a la entrada de la tienda."
+          },
+          "start": 155.44,
+          "end": 157.2
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "text": "Puis dès que tu rentres, tu vois ça puis t'as...",
+      "translations": {
+        "zh": "你一进去，就看到了，然后你就……",
+        "en": "And as soon as you walk in, you see that and you've got...",
+        "es": "Y en cuanto entras, lo ves y tienes..."
+      },
+      "start": 157.44,
+      "end": 159.2,
+      "words": [
+        {
+          "text": "Puis",
+          "start": 157.44,
+          "end": 157.52
+        },
+        {
+          "text": "dès",
+          "start": 157.52,
+          "end": 157.76
+        },
+        {
+          "text": "que",
+          "start": 157.76,
+          "end": 157.76
+        },
+        {
+          "text": "tu",
+          "start": 157.84,
+          "end": 158.0
+        },
+        {
+          "text": "rentres",
+          "start": 158.0,
+          "end": 158.24
+        },
+        {
+          "text": "tu",
+          "start": 158.24,
+          "end": 158.4
+        },
+        {
+          "text": "vois",
+          "start": 158.4,
+          "end": 158.64
+        },
+        {
+          "text": "ça",
+          "start": 158.64,
+          "end": 158.8
+        },
+        {
+          "text": "puis",
+          "start": 158.8,
+          "end": 158.88
+        },
+        {
+          "text": "t'as",
+          "start": 158.88,
+          "end": 159.2
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Puis dès que tu rentres,",
+          "translations": {
+            "zh": "你一进去，",
+            "en": "And as soon as you walk in,",
+            "es": "Y en cuanto entras,"
+          },
+          "start": 157.44,
+          "end": 158.24
+        },
+        {
+          "text": "tu vois ça puis t'as...",
+          "translations": {
+            "zh": "就看到了，然后你就……",
+            "en": "you see that and you've got...",
+            "es": "lo ves y tienes..."
+          },
+          "start": 158.24,
+          "end": 159.2
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "text": "en tout cas, moi, j'ai eu envie d'en acheter.",
+      "translations": {
+        "zh": "反正，我，就想要买一些。",
+        "en": "anyway, for me, I wanted to buy some.",
+        "es": "en fin, yo, tuve ganas de comprar."
+      },
+      "start": 159.28,
+      "end": 160.64,
+      "words": [
+        {
+          "text": "en",
+          "start": 159.28,
+          "end": 159.36
+        },
+        {
+          "text": "tout",
+          "start": 159.36,
+          "end": 159.52
+        },
+        {
+          "text": "cas",
+          "start": 159.52,
+          "end": 159.6
+        },
+        {
+          "text": "moi",
+          "start": 159.6,
+          "end": 159.84
+        },
+        {
+          "text": "j'ai",
+          "start": 159.92,
+          "end": 160.08
+        },
+        {
+          "text": "eu",
+          "start": 160.08,
+          "end": 160.08
+        },
+        {
+          "text": "envie",
+          "start": 160.08,
+          "end": 160.32
+        },
+        {
+          "text": "d'en",
+          "start": 160.32,
+          "end": 160.4
+        },
+        {
+          "text": "acheter",
+          "start": 160.4,
+          "end": 160.64
+        }
+      ],
+      "chunks": [
+        {
+          "text": "en tout cas, moi,",
+          "translations": {
+            "zh": "反正，我，",
+            "en": "anyway, for me,",
+            "es": "en fin, yo,"
+          },
+          "start": 159.28,
+          "end": 159.84
+        },
+        {
+          "text": "j'ai eu envie d'en acheter.",
+          "translations": {
+            "zh": "就想要买一些。",
+            "en": "I wanted to buy some.",
+            "es": "tuve ganas de comprar."
+          },
+          "start": 159.92,
+          "end": 160.64
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "text": "J'en ai acheté, d'ailleurs, de ces produits du terroir.",
+      "translations": {
+        "zh": "我也买了，而且，买了些土特产。",
+        "en": "I bought some, in fact, of these terroir products.",
+        "es": "Compré, de hecho, de estos productos del terroir."
+      },
+      "start": 160.64,
+      "end": 162.32,
+      "words": [
+        {
+          "text": "J'en",
+          "start": 160.64,
+          "end": 160.8
+        },
+        {
+          "text": "ai",
+          "start": 160.8,
+          "end": 160.96
+        },
+        {
+          "text": "acheté",
+          "start": 160.96,
+          "end": 161.12
+        },
+        {
+          "text": "d'ailleurs",
+          "start": 161.12,
+          "end": 161.36
+        },
+        {
+          "text": "de",
+          "start": 161.36,
+          "end": 161.52
+        },
+        {
+          "text": "ces",
+          "start": 161.52,
+          "end": 161.6
+        },
+        {
+          "text": "produits",
+          "start": 161.6,
+          "end": 161.92
+        },
+        {
+          "text": "du",
+          "start": 161.92,
+          "end": 162.0
+        },
+        {
+          "text": "terroir",
+          "start": 162.0,
+          "end": 162.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "J'en ai acheté,",
+          "translations": {
+            "zh": "我买了，",
+            "en": "I bought some,",
+            "es": "Compré,"
+          },
+          "start": 160.64,
+          "end": 161.12
+        },
+        {
+          "text": "d'ailleurs,",
+          "translations": {
+            "zh": "而且，",
+            "en": "in fact,",
+            "es": "de hecho,"
+          },
+          "start": 161.12,
+          "end": 161.36
+        },
+        {
+          "text": "de ces produits du terroir.",
+          "translations": {
+            "zh": "买了些土特产。",
+            "en": "of these terroir products.",
+            "es": "de estos productos del terroir."
+          },
+          "start": 161.36,
+          "end": 162.32
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "text": "Ça, là, c'est primordial pour nous.",
+      "translations": {
+        "zh": "这，对我们来说是至关重要的。",
+        "en": "That, there, is essential for us.",
+        "es": "Eso, ahí, es primordial para nosotros."
+      },
+      "start": 162.48,
+      "end": 165.36,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 162.48,
+          "end": 162.88
+        },
+        {
+          "text": "là",
+          "start": 162.88,
+          "end": 163.04
+        },
+        {
+          "text": "c'est",
+          "start": 163.04,
+          "end": 163.6
+        },
+        {
+          "text": "primordial",
+          "start": 163.6,
+          "end": 163.6
+        },
+        {
+          "text": "pour",
+          "start": 163.84,
+          "end": 164.0
+        },
+        {
+          "text": "nous",
+          "start": 164.0,
+          "end": 165.36
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça, là,",
+          "translations": {
+            "zh": "这，",
+            "en": "That, there,",
+            "es": "Eso, ahí,"
+          },
+          "start": 162.48,
+          "end": 163.04
+        },
+        {
+          "text": "c'est primordial pour nous.",
+          "translations": {
+            "zh": "对我们来说是至关重要的。",
+            "en": "is essential for us.",
+            "es": "es primordial para nosotros."
+          },
+          "start": 163.04,
+          "end": 165.36
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "text": "On travaille fort, fort, fort, mais pas seulement nous.",
+      "translations": {
+        "zh": "我们工作非常非常非常努力，但不止是我们。",
+        "en": "We work hard, hard, hard, but not just us.",
+        "es": "Trabajamos mucho, mucho, mucho, pero no solo nosotros."
+      },
+      "start": 165.36,
+      "end": 168.32,
+      "words": [
+        {
+          "text": "On",
+          "start": 165.36,
+          "end": 165.52
+        },
+        {
+          "text": "travaille",
+          "start": 165.52,
+          "end": 166.24
+        },
+        {
+          "text": "fort",
+          "start": 166.24,
+          "end": 166.96
+        },
+        {
+          "text": "fort",
+          "start": 166.96,
+          "end": 167.28
+        },
+        {
+          "text": "fort",
+          "start": 167.28,
+          "end": 167.36
+        },
+        {
+          "text": "mais",
+          "start": 167.44,
+          "end": 167.52
+        },
+        {
+          "text": "pas",
+          "start": 167.52,
+          "end": 167.68
+        },
+        {
+          "text": "seulement",
+          "start": 167.68,
+          "end": 168.0
+        },
+        {
+          "text": "nous",
+          "start": 168.08,
+          "end": 168.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On travaille fort, fort, fort,",
+          "translations": {
+            "zh": "我们工作非常非常非常努力，",
+            "en": "We work hard, hard, hard,",
+            "es": "Trabajamos mucho, mucho, mucho,"
+          },
+          "start": 165.36,
+          "end": 167.36
+        },
+        {
+          "text": "mais pas seulement nous.",
+          "translations": {
+            "zh": "但不止是我们。",
+            "en": "but not just us.",
+            "es": "pero no solo nosotros."
+          },
+          "start": 167.44,
+          "end": 168.32
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "text": "Tout ce beau monde travaille autant.",
+      "translations": {
+        "zh": "这些美好的人们也同样努力工作。",
+        "en": "All these fine people work just as much.",
+        "es": "Toda esta buena gente trabaja igual de mucho."
+      },
+      "start": 168.48,
+      "end": 170.0,
+      "words": [
+        {
+          "text": "Tout",
+          "start": 168.48,
+          "end": 168.64
+        },
+        {
+          "text": "ce",
+          "start": 168.64,
+          "end": 168.8
+        },
+        {
+          "text": "beau",
+          "start": 168.8,
+          "end": 168.96
+        },
+        {
+          "text": "monde",
+          "start": 168.96,
+          "end": 169.28
+        },
+        {
+          "text": "travaille",
+          "start": 169.28,
+          "end": 169.68
+        },
+        {
+          "text": "autant",
+          "start": 169.68,
+          "end": 170.0
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tout ce beau monde travaille autant.",
+          "translations": {
+            "zh": "这些美好的人们也同样努力工作。",
+            "en": "All these fine people work just as much.",
+            "es": "Toda esta buena gente trabaja igual de mucho."
+          },
+          "start": 168.48,
+          "end": 170.0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "text": "Et on voulait l'aider.",
+      "translations": {
+        "zh": "我们想帮助他们。",
+        "en": "And we wanted to help them.",
+        "es": "Y queríamos ayudarles."
+      },
+      "start": 170.64,
+      "end": 171.76,
+      "words": [
+        {
+          "text": "Et",
+          "start": 170.64,
+          "end": 170.72
+        },
+        {
+          "text": "on",
+          "start": 170.72,
+          "end": 170.88
+        },
+        {
+          "text": "voulait",
+          "start": 170.88,
+          "end": 171.2
+        },
+        {
+          "text": "l'aider",
+          "start": 171.2,
+          "end": 171.76
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et on voulait l'aider.",
+          "translations": {
+            "zh": "我们想帮助他们。",
+            "en": "And we wanted to help them.",
+            "es": "Y queríamos ayudarles."
+          },
+          "start": 170.64,
+          "end": 171.76
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "text": "Mais tu vends pas que des produits parce que, quand les gens viennent, achètent quelque chose, comme tu me l'expliques à moi, en ce moment, c'est pas juste un produit.",
+      "translations": {
+        "zh": "但你卖的不只是产品，因为当人们来买东西时，就像你现在跟我解释的，那不只是一个产品。",
+        "en": "But you don't just sell products because, when people come, buy something, as you're explaining to me, right now, it's not just a product.",
+        "es": "Pero no vendes solo productos porque, cuando la gente viene, compra algo, como me lo explicas a mí, en este momento, no es solo un producto."
+      },
+      "start": 172.0,
+      "end": 178.08,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 172.0,
+          "end": 172.16
+        },
+        {
+          "text": "tu",
+          "start": 172.16,
+          "end": 172.24
+        },
+        {
+          "text": "vends",
+          "start": 172.48,
+          "end": 172.64
+        },
+        {
+          "text": "pas",
+          "start": 172.64,
+          "end": 172.88
+        },
+        {
+          "text": "que",
+          "start": 172.88,
+          "end": 173.04
+        },
+        {
+          "text": "des",
+          "start": 173.04,
+          "end": 173.28
+        },
+        {
+          "text": "produits",
+          "start": 173.28,
+          "end": 173.76
+        },
+        {
+          "text": "parce",
+          "start": 173.76,
+          "end": 174.0
+        },
+        {
+          "text": "que",
+          "start": 174.0,
+          "end": 174.08
+        },
+        {
+          "text": "quand",
+          "start": 174.08,
+          "end": 174.16
+        },
+        {
+          "text": "les",
+          "start": 174.16,
+          "end": 174.32
+        },
+        {
+          "text": "gens",
+          "start": 174.32,
+          "end": 174.48
+        },
+        {
+          "text": "viennent",
+          "start": 174.48,
+          "end": 174.88
+        },
+        {
+          "text": "achètent",
+          "start": 174.88,
+          "end": 175.2
+        },
+        {
+          "text": "quelque",
+          "start": 175.2,
+          "end": 175.36
+        },
+        {
+          "text": "chose",
+          "start": 175.36,
+          "end": 175.6
+        },
+        {
+          "text": "comme",
+          "start": 175.6,
+          "end": 175.76
+        },
+        {
+          "text": "tu",
+          "start": 175.76,
+          "end": 175.92
+        },
+        {
+          "text": "me",
+          "start": 175.92,
+          "end": 176.0
+        },
+        {
+          "text": "l'expliques",
+          "start": 176.0,
+          "end": 176.32
+        },
+        {
+          "text": "à",
+          "start": 176.32,
+          "end": 176.4
+        },
+        {
+          "text": "moi",
+          "start": 176.4,
+          "end": 176.56
+        },
+        {
+          "text": "en",
+          "start": 176.56,
+          "end": 176.56
+        },
+        {
+          "text": "ce",
+          "start": 176.56,
+          "end": 176.72
+        },
+        {
+          "text": "moment",
+          "start": 176.72,
+          "end": 177.04
+        },
+        {
+          "text": "c'est",
+          "start": 177.12,
+          "end": 177.36
+        },
+        {
+          "text": "pas",
+          "start": 177.44,
+          "end": 177.52
+        },
+        {
+          "text": "juste",
+          "start": 177.52,
+          "end": 177.76
+        },
+        {
+          "text": "un",
+          "start": 177.76,
+          "end": 177.76
+        },
+        {
+          "text": "produit",
+          "start": 177.84,
+          "end": 178.08
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais tu vends pas que des produits",
+          "translations": {
+            "zh": "但你卖的不只是产品，",
+            "en": "But you don't just sell products",
+            "es": "Pero no vendes solo productos"
+          },
+          "start": 172.0,
+          "end": 173.76
+        },
+        {
+          "text": "parce que, quand les gens viennent, achètent quelque chose,",
+          "translations": {
+            "zh": "因为当人们来买东西时，",
+            "en": "because, when people come, buy something,",
+            "es": "porque, cuando la gente viene, compra algo,"
+          },
+          "start": 173.76,
+          "end": 175.6
+        },
+        {
+          "text": "comme tu me l'expliques à moi, en ce moment,",
+          "translations": {
+            "zh": "就像你现在跟我解释的，",
+            "en": "as you're explaining to me, right now,",
+            "es": "como me lo explicas a mí, en este momento,"
+          },
+          "start": 175.6,
+          "end": 177.04
+        },
+        {
+          "text": "c'est pas juste un produit.",
+          "translations": {
+            "zh": "那不只是一个产品。",
+            "en": "it's not just a product.",
+            "es": "no es solo un producto."
+          },
+          "start": 177.12,
+          "end": 178.08
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "text": "T'expliques une histoire, tu expliques un patrimoine.",
+      "translations": {
+        "zh": "你讲的是一个故事，你讲的是一份遗产。",
+        "en": "You explain a story, you explain a heritage.",
+        "es": "Explicas una historia, explicas un patrimonio."
+      },
+      "start": 178.08,
+      "end": 180.24,
+      "words": [
+        {
+          "text": "T'expliques",
+          "start": 178.08,
+          "end": 178.48
+        },
+        {
+          "text": "une",
+          "start": 178.48,
+          "end": 178.64
+        },
+        {
+          "text": "histoire",
+          "start": 178.64,
+          "end": 178.96
+        },
+        {
+          "text": "tu",
+          "start": 178.96,
+          "end": 179.12
+        },
+        {
+          "text": "expliques",
+          "start": 179.12,
+          "end": 179.52
+        },
+        {
+          "text": "un",
+          "start": 179.52,
+          "end": 179.6
+        },
+        {
+          "text": "patrimoine",
+          "start": 179.6,
+          "end": 180.24
+        }
+      ],
+      "chunks": [
+        {
+          "text": "T'expliques une histoire,",
+          "translations": {
+            "zh": "你讲的是一个故事，",
+            "en": "You explain a story,",
+            "es": "Explicas una historia,"
+          },
+          "start": 178.08,
+          "end": 178.96
+        },
+        {
+          "text": "tu expliques un patrimoine.",
+          "translations": {
+            "zh": "你讲的是一份遗产。",
+            "en": "you explain a heritage.",
+            "es": "explicas un patrimonio."
+          },
+          "start": 178.96,
+          "end": 180.24
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "text": "Mais ça colle sur le produit.",
+      "translations": {
+        "zh": "但这是和产品联系在一起的。",
+        "en": "But that sticks to the product.",
+        "es": "Pero eso va unido al producto."
+      },
+      "start": 180.24,
+      "end": 181.92,
+      "words": [
+        {
+          "text": "Mais",
+          "start": 180.24,
+          "end": 180.4
+        },
+        {
+          "text": "ça",
+          "start": 180.4,
+          "end": 180.72
+        },
+        {
+          "text": "colle",
+          "start": 180.72,
+          "end": 181.12
+        },
+        {
+          "text": "sur",
+          "start": 181.12,
+          "end": 181.28
+        },
+        {
+          "text": "le",
+          "start": 181.28,
+          "end": 181.44
+        },
+        {
+          "text": "produit",
+          "start": 181.44,
+          "end": 181.92
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Mais ça colle sur le produit.",
+          "translations": {
+            "zh": "但这是和产品联系在一起的。",
+            "en": "But that sticks to the product.",
+            "es": "Pero eso va unido al producto."
+          },
+          "start": 180.24,
+          "end": 181.92
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "text": "Et quand on l'utilise, il y a quelque chose de plus, il y a comme une aura autour.",
+      "translations": {
+        "zh": "当人们使用它时，会有一种更多的东西，就像周围有一种光环。",
+        "en": "And when you use it, there's something more, there's like an aura around it.",
+        "es": "Y cuando se usa, hay algo más, hay como un aura alrededor."
+      },
+      "start": 182.16,
+      "end": 186.4,
+      "words": [
+        {
+          "text": "Et",
+          "start": 182.16,
+          "end": 182.24
+        },
+        {
+          "text": "quand",
+          "start": 182.24,
+          "end": 182.56
+        },
+        {
+          "text": "on",
+          "start": 182.56,
+          "end": 182.72
+        },
+        {
+          "text": "l'utilise",
+          "start": 183.52,
+          "end": 183.68
+        },
+        {
+          "text": "il",
+          "start": 183.68,
+          "end": 183.76
+        },
+        {
+          "text": "y",
+          "start": 183.76,
+          "end": 183.84
+        },
+        {
+          "text": "a",
+          "start": 183.84,
+          "end": 183.92
+        },
+        {
+          "text": "quelque",
+          "start": 183.92,
+          "end": 184.16
+        },
+        {
+          "text": "chose",
+          "start": 184.24,
+          "end": 184.48
+        },
+        {
+          "text": "de",
+          "start": 184.48,
+          "end": 184.56
+        },
+        {
+          "text": "plus",
+          "start": 184.56,
+          "end": 184.72
+        },
+        {
+          "text": "il",
+          "start": 184.8,
+          "end": 184.96
+        },
+        {
+          "text": "y",
+          "start": 184.96,
+          "end": 184.96
+        },
+        {
+          "text": "a",
+          "start": 184.96,
+          "end": 185.04
+        },
+        {
+          "text": "comme",
+          "start": 185.04,
+          "end": 185.2
+        },
+        {
+          "text": "une",
+          "start": 185.2,
+          "end": 185.44
+        },
+        {
+          "text": "aura",
+          "start": 185.52,
+          "end": 185.92
+        },
+        {
+          "text": "autour",
+          "start": 186.08,
+          "end": 186.4
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Et quand on l'utilise,",
+          "translations": {
+            "zh": "当人们使用它时，",
+            "en": "And when you use it,",
+            "es": "Y cuando se usa,"
+          },
+          "start": 182.16,
+          "end": 183.68
+        },
+        {
+          "text": "il y a quelque chose de plus,",
+          "translations": {
+            "zh": "会有一种更多的东西，",
+            "en": "there's something more,",
+            "es": "hay algo más,"
+          },
+          "start": 183.68,
+          "end": 184.72
+        },
+        {
+          "text": "il y a comme une aura autour.",
+          "translations": {
+            "zh": "就像周围有一种光环。",
+            "en": "there's like an aura around it.",
+            "es": "hay como un aura alrededor."
+          },
+          "start": 184.8,
+          "end": 186.4
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "text": "Oui.",
+      "translations": {
+        "zh": "对。",
+        "en": "Yes.",
+        "es": "Sí."
+      },
+      "start": 186.4,
+      "end": 186.56,
+      "words": [
+        {
+          "text": "Oui",
+          "start": 186.4,
+          "end": 186.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Oui.",
+          "translations": {
+            "zh": "对。",
+            "en": "Yes.",
+            "es": "Sí."
+          },
+          "start": 186.4,
+          "end": 186.56
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "text": "Ça fait 18 ans que t'es à cet endroit, que t'as ce magasin général, mais moi, quand je t'écoute, j'ai l'impression que t'as fait ça toute ta vie, que t'étais prédestinée à avoir cet endroit, d'une certaine manière.",
+      "translations": {
+        "zh": "你在这个地方已经18年了，经营着这家杂货铺，但我，听你说的时候，我感觉你这辈子都在做这件事，你注定要拥有这个地方，在某种意义上。",
+        "en": "It's been 18 years that you've been at this place, that you've had this general store, but me, when I listen to you, I get the impression that you've done this your whole life, that you were predestined to have this place, in a certain way.",
+        "es": "Hace 18 años que estás en este lugar, que tienes esta tienda general, pero yo, cuando te escucho, tengo la impresión de que has hecho esto toda tu vida, que estabas predestinada a tener este lugar, de cierta manera."
+      },
+      "start": 188.8,
+      "end": 198.32,
+      "words": [
+        {
+          "text": "Ça",
+          "start": 188.8,
+          "end": 188.88
+        },
+        {
+          "text": "fait",
+          "start": 188.96,
+          "end": 189.04
+        },
+        {
+          "text": "18",
+          "start": 189.04,
+          "end": 189.04
+        },
+        {
+          "text": "ans",
+          "start": 189.44,
+          "end": 189.52
+        },
+        {
+          "text": "que",
+          "start": 189.6,
+          "end": 189.6
+        },
+        {
+          "text": "t'es",
+          "start": 189.6,
+          "end": 189.6
+        },
+        {
+          "text": "à",
+          "start": 189.6,
+          "end": 189.6
+        },
+        {
+          "text": "cet",
+          "start": 189.68,
+          "end": 189.92
+        },
+        {
+          "text": "endroit",
+          "start": 189.92,
+          "end": 190.24
+        },
+        {
+          "text": "que",
+          "start": 190.4,
+          "end": 190.48
+        },
+        {
+          "text": "t'as",
+          "start": 190.64,
+          "end": 190.8
+        },
+        {
+          "text": "ce",
+          "start": 190.8,
+          "end": 190.8
+        },
+        {
+          "text": "magasin",
+          "start": 190.8,
+          "end": 191.2
+        },
+        {
+          "text": "général",
+          "start": 191.2,
+          "end": 191.52
+        },
+        {
+          "text": "mais",
+          "start": 191.52,
+          "end": 191.6
+        },
+        {
+          "text": "moi",
+          "start": 191.6,
+          "end": 191.76
+        },
+        {
+          "text": "quand",
+          "start": 191.76,
+          "end": 191.92
+        },
+        {
+          "text": "je",
+          "start": 191.92,
+          "end": 192.08
+        },
+        {
+          "text": "t'écoute",
+          "start": 192.08,
+          "end": 192.32
+        },
+        {
+          "text": "j'ai",
+          "start": 192.32,
+          "end": 192.48
+        },
+        {
+          "text": "l'impression",
+          "start": 192.48,
+          "end": 193.04
+        },
+        {
+          "text": "que",
+          "start": 193.36,
+          "end": 193.44
+        },
+        {
+          "text": "t'as",
+          "start": 193.44,
+          "end": 193.44
+        },
+        {
+          "text": "fait",
+          "start": 193.44,
+          "end": 193.6
+        },
+        {
+          "text": "ça",
+          "start": 193.6,
+          "end": 193.76
+        },
+        {
+          "text": "toute",
+          "start": 193.84,
+          "end": 194.08
+        },
+        {
+          "text": "ta",
+          "start": 194.08,
+          "end": 194.24
+        },
+        {
+          "text": "vie",
+          "start": 194.24,
+          "end": 194.32
+        },
+        {
+          "text": "que",
+          "start": 194.72,
+          "end": 194.88
+        },
+        {
+          "text": "t'étais",
+          "start": 194.88,
+          "end": 195.52
+        },
+        {
+          "text": "prédestinée",
+          "start": 195.68,
+          "end": 196.48
+        },
+        {
+          "text": "à",
+          "start": 196.64,
+          "end": 196.8
+        },
+        {
+          "text": "avoir",
+          "start": 196.8,
+          "end": 196.96
+        },
+        {
+          "text": "cet",
+          "start": 196.96,
+          "end": 197.2
+        },
+        {
+          "text": "endroit",
+          "start": 197.2,
+          "end": 197.44
+        },
+        {
+          "text": "d'une",
+          "start": 197.44,
+          "end": 197.6
+        },
+        {
+          "text": "certaine",
+          "start": 197.6,
+          "end": 198.0
+        },
+        {
+          "text": "manière",
+          "start": 198.0,
+          "end": 198.32
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Ça fait 18 ans que t'es à cet endroit,",
+          "translations": {
+            "zh": "你在这个地方已经18年了，",
+            "en": "It's been 18 years that you've been at this place,",
+            "es": "Hace 18 años que estás en este lugar,"
+          },
+          "start": 188.8,
+          "end": 190.24
+        },
+        {
+          "text": "que t'as ce magasin général,",
+          "translations": {
+            "zh": "经营着这家杂货铺，",
+            "en": "that you've had this general store,",
+            "es": "que tienes esta tienda general,"
+          },
+          "start": 190.4,
+          "end": 191.52
+        },
+        {
+          "text": "mais moi, quand je t'écoute,",
+          "translations": {
+            "zh": "但我，听你说的时候，",
+            "en": "but me, when I listen to you,",
+            "es": "pero yo, cuando te escucho,"
+          },
+          "start": 191.52,
+          "end": 192.32
+        },
+        {
+          "text": "j'ai l'impression que t'as fait ça toute ta vie,",
+          "translations": {
+            "zh": "我感觉你这辈子都在做这件事，",
+            "en": "I get the impression that you've done this your whole life,",
+            "es": "tengo la impresión de que has hecho esto toda tu vida,"
+          },
+          "start": 192.32,
+          "end": 194.32
+        },
+        {
+          "text": "que t'étais prédestinée à avoir cet endroit,",
+          "translations": {
+            "zh": "你注定要拥有这个地方，",
+            "en": "that you were predestined to have this place,",
+            "es": "que estabas predestinada a tener este lugar,"
+          },
+          "start": 194.72,
+          "end": 197.44
+        },
+        {
+          "text": "d'une certaine manière.",
+          "translations": {
+            "zh": "在某种意义上。",
+            "en": "in a certain way.",
+            "es": "de cierta manera."
+          },
+          "start": 197.44,
+          "end": 198.32
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "text": "Clairvoyance, par ici?",
+      "translations": {
+        "zh": "先见之明，在这里？",
+        "en": "Clairvoyance, around here?",
+        "es": "¿Clarividencia, por aquí?"
+      },
+      "start": 199.12,
+      "end": 200.56,
+      "words": [
+        {
+          "text": "Clairvoyance",
+          "start": 199.12,
+          "end": 199.84
+        },
+        {
+          "text": "par",
+          "start": 199.84,
+          "end": 200.08
+        },
+        {
+          "text": "ici",
+          "start": 200.08,
+          "end": 200.56
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Clairvoyance,",
+          "translations": {
+            "zh": "先见之明，",
+            "en": "Clairvoyance,",
+            "es": "Clarividencia,"
+          },
+          "start": 199.12,
+          "end": 199.84
+        },
+        {
+          "text": "par ici?",
+          "translations": {
+            "zh": "在这里？",
+            "en": "around here?",
+            "es": "¿por aquí?"
+          },
+          "start": 199.84,
+          "end": 200.56
+        }
+      ]
+    }
+  ],
+  "id": "Spomemka, magasin général",
+  "audio_filename": "Spomemka, magasin général.mp3",
+  "audio_path": "downloads/tv5_immigrants_de_souche/Spomemka, magasin général.mp3",
+  "episode": 4
+}
